@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-22T14:36:11.364Z",
+  "generatedAt": "2026-07-22T16:40:31.343Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 30
+      "items": 33
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 73
+      "items": 74
     }
   ],
   "apps": [
@@ -102,18 +102,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 22일",
-      "updatedAt": "2026-07-21T11:32:41.000-07:00",
+      "dateLabel": "7월 23일",
+      "updatedAt": "2026-07-22T09:15:58.912-07:00",
       "items": [
         {
-          "question": "MLB 소식입니다. 20일 1948년 이후 무려 78년만에 13연승을 기록한데 이어 어제 1승을 추가해 무려 14연승을 기록한 팀은?",
-          "answer": "보스턴 레드삭스",
+          "question": "kt wiz는 다음 달 16일까지 2026 KT 워터 페스티벌을 진행 중입니다. kt는 1군 데뷔 첫해부터 이 행사를 진행해 왔는데요. 몇년도에 처음 시작했을까요?",
+          "answer": "2015년",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "생활요금 자동납부 캐시백 이벤트에서 5천원 캐시백을 받으려면 항목당 얼마 이상을 납부해야 할까요?",
-          "answer": "5천원",
+          "question": "신한카드X트립닷컴 특별 혜택! 신한 The PREMIER, The ACE, The BEST 계열 신용카드 이용 고객이면 받을 수 있는 트립닷컴 멤버십 등급은?",
+          "answer": "트립닷컴 다이아몬드 등급",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -142,18 +142,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 22일",
-      "updatedAt": "2026-07-21T10:03:38.000-07:00",
+      "dateLabel": "7월 23일",
+      "updatedAt": "2026-07-22T09:22:16.711-07:00",
       "items": [
         {
-          "question": "'초복부터 말복까지! 복날마다 쌓이는 삼복 행운' 이벤트에서 중복날 치킨 쿠폰의 행운은 몇 명에게 찾아갈까요?",
-          "answer": "300명",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "차량 구매 시 빠르고 간편하게 받을 수 있는 KB국민은행의 자동차대출 이름은 무엇일까요?",
-          "answer": "KB매직카 대출",
+          "question": "매달 새로운 정기예금이나 적금 계좌를 하나씩 추가로 만드는 '풍차돌리기' 저축 방법의 장점이 아닌 것은 무엇일까요?",
+          "answer": "금리 인하 시기에 유리",
           "pending": false,
           "source": "oneuljupjup"
         }
