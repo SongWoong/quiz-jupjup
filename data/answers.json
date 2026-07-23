@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-23T04:27:03.710Z",
+  "generatedAt": "2026-07-23T07:42:39.349Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 37
+      "items": 38
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 73
     }
   ],
   "apps": [
@@ -162,12 +162,12 @@
     {
       "id": "okcashbag",
       "label": "OK캐쉬백",
-      "dateLabel": "7월 21일",
-      "updatedAt": "2026-07-21T07:56:54.405-07:00",
+      "dateLabel": "7월 23일",
+      "updatedAt": "2026-07-22T22:02:13.000-07:00",
       "items": [
         {
-          "question": "알리’s pick START! 7.20~7.24 단 5일간, 여름맞이 초특가 세일! 25만 테크 유튜버 ㄷㅅㄴ이 추천하는 인기 전자기기를 초특가로 만나보세요! 태블릿부터 미니 PC까지 검증된 갓성비 꿀템만 모았으니 놓치면 안 되겠죠? 이외에도 알리 MD 추천 여름 필수템까지 모두 초특가로 만나볼 절호의 찬스! 매일 오후 4시 여름 인기템이 단돈 1달러부터? 선착순 타임딜도 놓치지 마세요! 지금 바로 알리 익스프레스로 고고!",
-          "answer": "대신남",
+          "question": "해외여행 시즌 기간한정 제휴 Festival! ㅎㅇㄹㅁ 무제한 1일 단돈 990원! 일본ㆍ중국ㆍ베트남ㆍ대만 해외여행 전 필수템! 저렴하게 장만하세요!",
+          "answer": "해외로밍",
           "pending": false,
           "source": "oneuljupjup"
         }
