@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-23T15:20:33.632Z",
+  "generatedAt": "2026-07-23T17:42:31.446Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 42
+      "items": 45
     },
     {
       "name": "luckyquiz3",
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 23일",
-      "updatedAt": "2026-07-22T09:15:58.000-07:00",
+      "dateLabel": "7월 24일",
+      "updatedAt": "2026-07-23T09:17:52.000-07:00",
       "items": [
         {
-          "question": "kt wiz는 다음 달 16일까지 2026 KT 워터 페스티벌을 진행 중입니다. kt는 1군 데뷔 첫해부터 이 행사를 진행해 왔는데요. 몇년도에 처음 시작했을까요?",
-          "answer": "2015년",
+          "question": "외국인 투수 최초, 오승환 이후 무려 21년만에 나온 KBO 리그 데뷔 첫해 10홀드 10세이브 대기록을 기록한 선수는?",
+          "answer": "가나쿠보 유토",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "신한카드X트립닷컴 특별 혜택! 신한 The PREMIER, The ACE, The BEST 계열 신용카드 이용 고객이면 받을 수 있는 트립닷컴 멤버십 등급은?",
-          "answer": "트립닷컴 다이아몬드 등급",
+          "question": "월 9,900원으로 내 차 관리부터 매달 주유, Uber, 다이소 혜택까지! 자동차케어 신규가입 고객에게 지급되는 경품은 무엇일까요?",
+          "answer": "올리브영 5천원권",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -88,18 +88,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 23일",
-      "updatedAt": "2026-07-22T09:22:16.000-07:00",
+      "dateLabel": "7월 24일",
+      "updatedAt": "2026-07-23T09:22:16.000-07:00",
       "items": [
         {
-          "question": "주유소 3% 할인, 커피/음료/패스트푸드 3% 할인을 받을 수 있는 체크카드는?",
-          "answer": "KB On the go 체크카드",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "매달 새로운 정기예금이나 적금 계좌를 하나씩 추가로 만드는 '풍차돌리기' 저축 방법의 장점이 아닌 것은 무엇일까요?",
-          "answer": "금리 인하 시기에 유리",
+          "question": "펀드 클래스 중 틀린 것은 무엇일까요?",
+          "answer": "4번. P(지점전용)",
           "pending": false,
           "source": "oneuljupjup"
         }
