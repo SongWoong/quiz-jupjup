@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25T15:15:27.147Z",
+  "generatedAt": "2026-07-25T17:11:44.326Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 57
+      "items": 60
     },
     {
       "name": "luckyquiz3",
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 25일",
-      "updatedAt": "2026-07-24T09:17:27.000-07:00",
+      "dateLabel": "7월 26일",
+      "updatedAt": "2026-07-25T09:16:28.000-07:00",
       "items": [
         {
-          "question": "한화맨으로 오래 활약해 온 하주석 선수가 KIA 유니폼을 입게 되었습니다. KBO 규정상 10개 구단은 시즌 중 언제까지 선수 교환 및 양도가 가능할까요?",
-          "answer": "7월 31일",
+          "question": "신한금융그룹은 신한 SOL LINK 계좌개설 이벤트를 진행 중입니다. 본 이벤트에서 일정 이상 거래조건 충족 시 응모 가능한 자동차 경품으로 맞는 것은?",
+          "answer": "테슬라 모델Y",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "SK브로드밴드X신한카드 이벤트를 통해 인터넷/TV 개통 시 받을 수 있는 마이신한포인트는 최대 몇 P일까요?",
-          "answer": "50,000P",
+          "question": "악성 앱이 설치되면 가족에게 즉시 알려 피싱 사고를 막아주는 신한카드의 무료 보안 서비스 이름은 무엇일까요?",
+          "answer": "가족 피싱 지킴이",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -94,18 +94,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 25일",
-      "updatedAt": "2026-07-24T09:21:49.000-07:00",
+      "dateLabel": "7월 26일",
+      "updatedAt": "2026-07-25T09:20:50.000-07:00",
       "items": [
         {
-          "question": "'썸머 밸런스 PICK! Vol.1 #여름_이상과현실' 이벤트의 경품은 무엇일까요?",
-          "answer": "GS25 편의점 상품권",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "K에밀리는 최근 10년 이내에 금융자산 10억원 이상을 형성한 OO대 이하의 한국 신흥부자를 지칭하는 단어이다.",
-          "answer": "50",
+          "question": "KB스타뱅킹 LTE 10GB 요금제의 최대 할인된 요금은 얼마일까요?",
+          "answer": "8,800원",
           "pending": false,
           "source": "oneuljupjup"
         }
