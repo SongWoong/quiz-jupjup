@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-26T16:11:40.446Z",
+  "generatedAt": "2026-07-26T18:09:45.393Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 61
+      "items": 64
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 69
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 26일",
-      "updatedAt": "2026-07-25T09:16:28.000-07:00",
+      "dateLabel": "7월 27일",
+      "updatedAt": "2026-07-26T09:16:25.000-07:00",
       "items": [
         {
-          "question": "신한금융그룹은 신한 SOL LINK 계좌개설 이벤트를 진행 중입니다. 본 이벤트에서 일정 이상 거래조건 충족 시 응모 가능한 자동차 경품으로 맞는 것은?",
-          "answer": "테슬라 모델Y",
+          "question": "야구상식 퀴즈입니다. 선수보호와 경기운영 효율성을 위해 현재 적용되고 있는 KBO 정규시즌 연장전은 몇 회까지일까요?",
+          "answer": "11회",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "악성 앱이 설치되면 가족에게 즉시 알려 피싱 사고를 막아주는 신한카드의 무료 보안 서비스 이름은 무엇일까요?",
-          "answer": "가족 피싱 지킴이",
+          "question": "신한카드에서만 제주신화월드 2박 패키지 최대 76% 할인! 해당 기획전에서 선착순 제공되는 할인쿠폰의 할인율은?",
+          "answer": "10%",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -70,18 +70,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 26일",
-      "updatedAt": "2026-07-25T09:20:50.000-07:00",
+      "dateLabel": "7월 27일",
+      "updatedAt": "2026-07-26T09:20:48.000-07:00",
       "items": [
         {
-          "question": "KB Pay 여행 제휴사인 무브에서 인천공항 이동서비스 왕복 이용 시 제공되는 할인 혜택은?",
-          "answer": "편도 10% 즉시할인",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KB스타뱅킹 LTE 10GB 요금제의 최대 할인된 요금은 얼마일까요?",
-          "answer": "8,800원",
+          "question": "단일종목 레버리지 상장지수펀드는 우량주식 한 종목의 수익률을 2배로 추종하는 상품이다",
+          "answer": "O",
           "pending": false,
           "source": "oneuljupjup"
         }
