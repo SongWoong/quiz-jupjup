@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-26T04:35:32.953Z",
+  "generatedAt": "2026-07-26T07:43:56.869Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 60
+      "items": 61
     },
     {
       "name": "luckyquiz3",
@@ -16,38 +16,14 @@
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "7월 25일",
-      "updatedAt": "2026-07-25T06:00:25.000-07:00",
+      "dateLabel": "7월 26일",
+      "updatedAt": "2026-07-26T00:01:07.000-07:00",
       "items": [
         {
-          "question": "배달의민족 OO할인에서는 푸라닭, 버거킹, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㅉ, 이벤트 페이지에서 확인할 수 있어요👀)",
-          "answer": "배짱",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "배달의민족 배짱할인에서는 OO닭, 버거킹, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅍㄹ, 이벤트 페이지에서 확인할 수 있어요👀)",
-          "answer": "푸라",
+          "question": "콩쑥개떡 60g 15개입 OOOOO원 해풍쑥의 향긋함이 솔솔~ 국내산 찹쌀과 팥 앙금 가득! 단, 하루만 한정특가!",
+          "answer": "10900",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "배달의민족 배짱할인에서는 푸라닭, 버거킹, OOO양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅊㄱㅈ, 이벤트 페이지에서 확인할 수 있어요👀)",
-          "answer": "처갓집",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "종료임박💣7월 키토선생 MD&#x27;s Pick 특가 곧 종료됩니다. 지금 구매 시, 특가 혜택 및 내일 도착 보장! 설탕 NO, 모두 저당인데 맛있게! 고단백 프로틴볼부터 레몬즙, 땅콩버터, 검은콩두유까지 그 중 저당 검은콩두유는 OOO OOO 검은콩의 풍미 가득, 매일 부담 없이 챙기는 인기두유에요. OOOOOO은 무엇일까요? (힌트 : ㅈㅎㄱㄱㅅㅎ)",
-          "answer": "진하고고소한",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "종료임박💣7월 키토선생 MD's Pick 특가 곧 종료됩니다. 지금 구매 시, 특가 혜택 및 내일 도착 보장! 설탕 NO, 모두 저당인데 맛있게! 고단백 프로틴볼부터 레몬즙, 땅콩버터, 검은콩두유까지 그 중 저당 검은콩두유는 OOO OOO 검은콩의 풍미 가득, 매일 부담 없이 챙기는 인기두유에요. OOOOOO은 무엇일까요? (힌트 : ㅈㅎㄱㄱㅅㅎ)",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
         }
       ]
     },
