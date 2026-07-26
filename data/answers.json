@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T00:09:05.206Z",
+  "generatedAt": "2026-07-26T04:35:32.953Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 70
     }
   ],
   "apps": [
@@ -97,6 +97,12 @@
       "dateLabel": "7월 26일",
       "updatedAt": "2026-07-25T09:20:50.000-07:00",
       "items": [
+        {
+          "question": "KB Pay 여행 제휴사인 무브에서 인천공항 이동서비스 왕복 이용 시 제공되는 할인 혜택은?",
+          "answer": "편도 10% 즉시할인",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "KB스타뱅킹 LTE 10GB 요금제의 최대 할인된 요금은 얼마일까요?",
           "answer": "8,800원",
