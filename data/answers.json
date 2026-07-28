@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T12:07:23.837Z",
+  "generatedAt": "2026-07-28T15:29:15.862Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 61
+      "items": 60
     },
     {
       "name": "luckyquiz3",
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-28T05:01:28.000-07:00",
+      "updatedAt": "2026-07-28T06:00:20.000-07:00",
       "items": [
         {
           "question": "네이버플러스 스토어 오늘끝딜은 OOOO으로 진행되는 네플스 전용 특가라, 품절 전 빠르게 참여해야해요. OOOO에 들어갈 단어는 무엇일까요? (초성 힌트 ㅎㅈㅅㄹ)",
@@ -84,6 +84,12 @@
           "answer": "16400",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "🖐️ 당류 가득한 음식은 이제 그만! 알룰로스로 칼로리와 당은 낮추고 달콤함은 그대로 지금 키토선생 WEEK에서 가성비 대용량 알룰로스를 병당 10,700원에 만나보세요! 리얼마이즈만의 오랜 노하우와 천연감미료 스테비올 배당체, 나한과 추출물을 추가하여 더욱 깊고 OOO OOO을 느낄 수 있어요. OOOOOO은 무엇일까요? (힌트 : ㅍㅂㅎㄷㅋㅎ)",
+          "answer": "풍부한달콤함",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
