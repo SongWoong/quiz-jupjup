@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-28T03:29:23.019Z",
+  "generatedAt": "2026-07-28T06:36:58.454Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 62
+      "items": 60
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 68
     }
   ],
   "apps": [
@@ -17,11 +17,17 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-27T19:01:20.000-07:00",
+      "updatedAt": "2026-07-27T23:02:08.000-07:00",
       "items": [
         {
           "question": "네이버플러스 스토어 오늘끝딜은 OOOO으로 진행되는 네플스 전용 특가라, 품절 전 빠르게 참여해야해요. OOOO에 들어갈 단어는 무엇일까요? (초성 힌트 ㅎㅈㅅㄹ)",
           "answer": "한정수량",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "10년 묵은 기미/검버섯도 녹여주는 PDRN 연어 재생 앰플! 피부 조직과 유사한 연어 DNA 성분으로 본질적 고민을 케어하는데 탁월한 재생 앰플 118,000원 / 행사가 OOOOO원에 특가로 구매할수있습니다. OOOOO에 들어갈 문구는 무엇일까요?",
+          "answer": "16900",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -50,20 +56,14 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "7월 27일",
-      "updatedAt": "2026-07-27T04:01:41.000-07:00",
+      "dateLabel": "7월 28일",
+      "updatedAt": "2026-07-27T22:01:17.000-07:00",
       "items": [
         {
-          "question": "✔ 습기·곰팡이·냄새 한번에 제거 ✔ 장마철 필수 제습제 대용량 구성 ✔개당 600원대 가성비 제습제✨ OOO은 날리고 상쾌함만 남기는 옷장·신발장·수납장 어디든 OK 💸 39% 할인! 총 24개 15,900원 (힌트 : ㄲㄲㅎ)",
-          "answer": "꿉꿉함",
+          "question": "\"OOOO은 공정하고 정확한 시험 및 조사를 통해 다양한 제품의 가격과 품질을 한눈에 비교해 볼 수 있는 비교정보 서비스입니다. OOOO에 들어갈 단어는 무엇일까요? \"",
+          "answer": "비교공감",
           "pending": false,
           "source": "oneuljupjup"
-        },
-        {
-          "question": "💸 39% 할인! 4개 18,900원 ✔ 단 9분! 에어프라이어로 바삭 완성✨ ✔ 특제 간장과 꿀을 더한 소이허니 소스로 OOOO 중독전인 맛💙 🍺 밥반찬부터 술안주까지 모두 OK! 🔥 끝까지 바삭한 고메 소바바 하루특가! (힌트 : ㄷㅉㄷㅉ)",
-          "answer": "단짠단짠",
-          "pending": false,
-          "source": "luckyquiz3"
         }
       ]
     },
