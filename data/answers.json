@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-28T06:36:58.454Z",
+  "generatedAt": "2026-07-28T09:43:07.938Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 60
+      "items": 61
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 67
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-27T23:02:08.000-07:00",
+      "updatedAt": "2026-07-28T02:00:49.000-07:00",
       "items": [
         {
           "question": "네이버플러스 스토어 오늘끝딜은 OOOO으로 진행되는 네플스 전용 특가라, 품절 전 빠르게 참여해야해요. OOOO에 들어갈 단어는 무엇일까요? (초성 힌트 ㅎㅈㅅㄹ)",
@@ -28,6 +28,42 @@
         {
           "question": "10년 묵은 기미/검버섯도 녹여주는 PDRN 연어 재생 앰플! 피부 조직과 유사한 연어 DNA 성분으로 본질적 고민을 케어하는데 탁월한 재생 앰플 118,000원 / 행사가 OOOOO원에 특가로 구매할수있습니다. OOOOO에 들어갈 문구는 무엇일까요?",
           "answer": "16900",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "⏰ <단 1시간> 컷슬린데일리 보리한잔 1병당 620원 ⏰ 캐시워크에서만 살 수 있어요! 커피 대신, 탄산 대신 가볍게 보리한잔으로 즐기세요. 보리한잔은 국내산 보리 ㅇㅇㅇ%로 만들었어요. OOO는 무엇일까요?\"",
+          "answer": "100",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "복주머니를 열면 경품에 OOO% 당첨된다. OOO에 들어갈 말은?",
+          "answer": "100",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "복주머니를 열면 OOOO 된다. OOOO에 들어갈 말은? (초성힌트 : ㅈㄷㅇㅁ)",
+          "answer": "자동응모",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "추첨을 통해 골드바 1돈을 O명에게 증정한다. O에 들어갈 말은?",
+          "answer": "1",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "이벤트 경품으로 이디야커피 생과일 OOOO를 받을 수 있다. OOOO에 들어갈 말은? (초성힌트 : ㅅㅂㅈㅅ)",
+          "answer": "수박주스",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "이벤트에 응모하면 추첨을 통해 OOOO ULTRA3를 증정한다. OOOO에 들어갈 말은? (초성힌트 : ㅇㅍㅇㅊ)",
+          "answer": "애플워치",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -57,11 +93,17 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-27T22:01:17.000-07:00",
+      "updatedAt": "2026-07-28T01:01:57.000-07:00",
       "items": [
         {
           "question": "\"OOOO은 공정하고 정확한 시험 및 조사를 통해 다양한 제품의 가격과 품질을 한눈에 비교해 볼 수 있는 비교정보 서비스입니다. OOOO에 들어갈 단어는 무엇일까요? \"",
           "answer": "비교공감",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "간단한 한끼를 원한다면? BHC 브리또 O종 총 10팩 28,900원 초특가! > 4가지 치즈의 리치치즈 치킨맛 > 매콤 중독 핫치킨맛 > BHC 간식 재구매 1위 > 100% 국산 닭가슴살 > HACCP 안전관리 인증",
+          "answer": "2",
           "pending": false,
           "source": "oneuljupjup"
         }
