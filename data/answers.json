@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-29T06:41:58.106Z",
+  "generatedAt": "2026-07-29T09:46:03.924Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 62
+      "items": 63
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 69
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "7월 29일",
-      "updatedAt": "2026-07-28T19:21:59.000-07:00",
+      "updatedAt": "2026-07-29T02:02:04.000-07:00",
       "items": [
         {
           "question": "네이버플러스 스토어 오늘끝딜 스페셜 상품은 매일 OO시에 무료배송 한정수량 특가로 쇼핑할 수 있습니다. OO에 들어갈 숫자는 무엇일까요?",
@@ -34,6 +34,18 @@
         {
           "question": "리비힐 엑소좀 크림은 슬슬 피부 노화 걱정이 되어 ㅇㅇㅇ 제품을 찾고 있는 분, 속건조와 거친 피부결이 고민인 분한테 추천합니다. ㅇㅇㅇ은 무엇일까요? (초성 : ㄱㅇㅇ)",
           "answer": "고영양",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "커버 디스플레이로도 숏폼에 최적화된 비율로 콘텐츠를 즐길 수 있는 새로운 갤럭시 폴드는 0번째 시리즈 입니다. 0에 들어갈 숫자는 무엇일까요?",
+          "answer": "8",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "00 스토리지 혜택은 사전 구매 기간 동안 z8 시리즈를 구매하면 512GB로 업그레이드를 제공합니다. 00에 들어갈 말은 무엇일까요? (힌트: ㄷㅂ)",
+          "answer": "더블",
           "pending": false,
           "source": "oneuljupjup"
         }
