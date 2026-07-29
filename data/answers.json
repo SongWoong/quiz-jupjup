@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-29T15:17:19.782Z",
+  "generatedAt": "2026-07-29T17:24:47.326Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 63
+      "items": 64
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 69
     }
   ],
   "apps": [
@@ -84,18 +84,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 29일",
-      "updatedAt": "2026-07-28T09:16:26.000-07:00",
+      "dateLabel": "7월 30일",
+      "updatedAt": "2026-07-29T09:16:04.000-07:00",
       "items": [
         {
-          "question": "코리언특급 박찬호가 전통의 메이저리그 구단 애슬레틱스에 큰 투자계획을 발표했습니다. 아래 중 애슬레틱스 구단이 2028년 부터 새로운 연고지로 선정한 도시는?",
-          "answer": "라스베이거스",
+          "question": "29일 정오 현재 KBO 리그 9승 고지에 선착한 투수가 무려 5명으로 다승경쟁이 아주 치열한 상황입니다. 아래 중 올 시즌 아직 9승 이상을 기록하지 않은 투수는?",
+          "answer": "양현종",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "새로워진 신한 슈퍼SOL로 결제하면 기존 페이팡팡보다 포인트를 몇 배 더 적립받을 수 있을까요?",
-          "answer": "2배",
+          "question": "1원으로 최소 10포인트부터 리프레시 아이템 득템까지! 다음 중 이번 'SOL께요' 이벤트 경품이 아닌 것은?",
+          "answer": "블루투스 스피커",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -130,18 +130,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 29일",
-      "updatedAt": "2026-07-28T09:26:52.000-07:00",
+      "dateLabel": "7월 30일",
+      "updatedAt": "2026-07-29T09:22:28.000-07:00",
       "items": [
         {
-          "question": "올해 7월 삼성전자 갤럭시 언팩에서 공개된 새로운 갤럭시 시리즈가 아닌 것은?",
-          "answer": "갤럭시 S26 울트라",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "주가지수 움직임에 따라 수익률이 정해지는 지수연동예금의 이름은 무엇인지",
-          "answer": "ELD",
+          "question": "은행 직원과 화상으로 전문상담을 받을 수 있는 'KB화상상담서비스'는 오후 4시까지 이용할 수 있다.",
+          "answer": "X",
           "pending": false,
           "source": "oneuljupjup"
         }
