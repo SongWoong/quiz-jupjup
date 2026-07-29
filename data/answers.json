@@ -1,95 +1,41 @@
 {
-  "generatedAt": "2026-07-28T23:17:28.179Z",
+  "generatedAt": "2026-07-29T03:31:48.957Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 61
+      "items": 62
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 66
+      "items": 68
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-28T06:00:20.000-07:00",
+      "dateLabel": "7월 29일",
+      "updatedAt": "2026-07-28T19:21:59.000-07:00",
       "items": [
         {
-          "question": "네이버플러스 스토어 오늘끝딜은 OOOO으로 진행되는 네플스 전용 특가라, 품절 전 빠르게 참여해야해요. OOOO에 들어갈 단어는 무엇일까요? (초성 힌트 ㅎㅈㅅㄹ)",
-          "answer": "한정수량",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "10년 묵은 기미/검버섯도 녹여주는 PDRN 연어 재생 앰플! 피부 조직과 유사한 연어 DNA 성분으로 본질적 고민을 케어하는데 탁월한 재생 앰플 118,000원 / 행사가 OOOOO원에 특가로 구매할수있습니다. OOOOO에 들어갈 문구는 무엇일까요?",
-          "answer": "16900",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "⏰ <단 1시간> 컷슬린데일리 보리한잔 1병당 620원 ⏰ 캐시워크에서만 살 수 있어요! 커피 대신, 탄산 대신 가볍게 보리한잔으로 즐기세요. 보리한잔은 국내산 보리 ㅇㅇㅇ%로 만들었어요. OOO는 무엇일까요?\"",
-          "answer": "100",
+          "question": "네이버플러스 스토어 오늘끝딜 스페셜 상품은 매일 OO시에 무료배송 한정수량 특가로 쇼핑할 수 있습니다. OO에 들어갈 숫자는 무엇일까요?",
+          "answer": "11",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "복주머니를 열면 경품에 OOO% 당첨된다. OOO에 들어갈 말은?",
-          "answer": "100",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "복주머니를 열면 OOOO 된다. OOOO에 들어갈 말은? (초성힌트 : ㅈㄷㅇㅁ)",
-          "answer": "자동응모",
+          "question": "리비힐 엑소좀 크림에는 14년 개발한 리비힐만의 ㅇㅇ 성분인 인체지방조직유래줄기세포배양액이 함유되어 있습니다. ㅇㅇ은 무엇일까요? (초성 : ㄷㅈ)",
+          "answer": "독점",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "추첨을 통해 골드바 1돈을 O명에게 증정한다. O에 들어갈 말은?",
-          "answer": "1",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "이벤트 경품으로 이디야커피 생과일 OOOO를 받을 수 있다. OOOO에 들어갈 말은? (초성힌트 : ㅅㅂㅈㅅ)",
-          "answer": "수박주스",
+          "question": "리비힐 엑소좀 크림은 슬슬 피부 노화 걱정이 되어 ㅇㅇㅇ 제품을 찾고 있는 분, 속건조와 거친 피부결이 고민인 분한테 추천합니다. ㅇㅇㅇ은 무엇일까요? (초성 : ㄱㅇㅇ)",
+          "answer": "고영양",
           "pending": false,
           "source": "oneuljupjup"
-        },
-        {
-          "question": "이벤트에 응모하면 추첨을 통해 OOOO ULTRA3를 증정한다. OOOO에 들어갈 말은? (초성힌트 : ㅇㅍㅇㅊ)",
-          "answer": "애플워치",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "네플스의 오늘끝딜은 매일 6번, 한정 수량으로 준비된 인기 상품을 스페셜 OOO로 알뜰하게 쇼핑할 수 있습니다. OOO에 들어갈 단어는 무엇일까요? (초성 힌트: ㅌㅇㄷ)",
-          "answer": "타임딜",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "단 3시간 동안 진행되는 &#x27;캐시딜&#x27; 타임특가에서 볼륨앤소프트 100% 천연펄프 3겹 화장지 2팩을 \"OOOOO\" 원+무료배송에 선보입니다. 100% 천연펄프로 만든 부드러운 촉감은 물론, 도톰한 3겹과 무형광으로 매일 안심하고 사용할 수 있는 제품입니다. 지금만 누릴 수있는 특별한 가격! 빈칸에 들어갈 숫자는 무엇일까요?",
-          "answer": "16400",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "단 3시간 동안 진행되는 '캐시딜' 타임특가에서 볼륨앤소프트 100% 천연펄프 3겹 화장지 2팩을 \"OOOOO\" 원+무료배송에 선보입니다. 100% 천연펄프로 만든 부드러운 촉감은 물론, 도톰한 3겹과 무형광으로 매일 안심하고 사용할 수 있는 제품입니다. 지금만 누릴 수있는 특별한 가격! 빈칸에 들어갈 숫자는 무엇일까요?",
-          "answer": "16400",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "🖐️ 당류 가득한 음식은 이제 그만! 알룰로스로 칼로리와 당은 낮추고 달콤함은 그대로 지금 키토선생 WEEK에서 가성비 대용량 알룰로스를 병당 10,700원에 만나보세요! 리얼마이즈만의 오랜 노하우와 천연감미료 스테비올 배당체, 나한과 추출물을 추가하여 더욱 깊고 OOO OOO을 느낄 수 있어요. OOOOOO은 무엇일까요? (힌트 : ㅍㅂㅎㄷㅋㅎ)",
-          "answer": "풍부한달콤함",
-          "pending": false,
-          "source": "luckyquiz3"
         }
       ]
     },
@@ -116,20 +62,20 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-28T01:01:57.000-07:00",
+      "dateLabel": "7월 29일",
+      "updatedAt": "2026-07-28T18:02:40.000-07:00",
       "items": [
         {
-          "question": "\"OOOO은 공정하고 정확한 시험 및 조사를 통해 다양한 제품의 가격과 품질을 한눈에 비교해 볼 수 있는 비교정보 서비스입니다. OOOO에 들어갈 단어는 무엇일까요? \"",
-          "answer": "비교공감",
+          "question": "💧 장마철 꿉꿉함을 한 번에! 더 보송한 습기제거제 대용량 625ml 24개를 14,960원에 만나보세요✨ 100% 염화칼슘으로 옷장·신발장 습기를 강력하게 제거! 습기로인한 악취와 곰팡이 OO효과에 탁월한 더 보송한 습기제거제 하루 특가 놓치지 마세요🎁",
+          "answer": "억제",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "간단한 한끼를 원한다면? BHC 브리또 O종 총 10팩 28,900원 초특가! > 4가지 치즈의 리치치즈 치킨맛 > 매콤 중독 핫치킨맛 > BHC 간식 재구매 1위 > 100% 국산 닭가슴살 > HACCP 안전관리 인증",
-          "answer": "2",
+          "question": "옷 잡을 필요 없이 흡입으로 알아서 착! 한손으로도 옷 끝단까지 칼주름 완성 아끼느라 덜 빠는 애착 옷 세탁 대신 고출력 스팀케어 옷에 묻은 이물질부터 먼지까지 OOO과 의류케어를 동시에! ⭐오늘만 오스너 아이핸디 흡입 스팀 다리미 99,000원에 만나요⭐",
+          "answer": "다림질",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -139,6 +85,12 @@
       "dateLabel": "7월 29일",
       "updatedAt": "2026-07-28T09:26:52.000-07:00",
       "items": [
+        {
+          "question": "올해 7월 삼성전자 갤럭시 언팩에서 공개된 새로운 갤럭시 시리즈가 아닌 것은?",
+          "answer": "갤럭시 S26 울트라",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "주가지수 움직임에 따라 수익률이 정해지는 지수연동예금의 이름은 무엇인지",
           "answer": "ELD",
@@ -150,18 +102,12 @@
     {
       "id": "okcashbag",
       "label": "OK캐쉬백",
-      "dateLabel": "7월 28일",
-      "updatedAt": "2026-07-28T03:01:44.000-07:00",
+      "dateLabel": "7월 29일",
+      "updatedAt": "2026-07-28T17:01:28.000-07:00",
       "items": [
         {
-          "question": "KT다이렉트샵 라이브 ’Galaxy Z Fold8ㅣFlip8 &#x27; 사전예약 ㅇㅈPEN! ★라이브단독혜택★ 라이브 중 KT닷컴 예약번호 ㅇㅈ 또는 신청서 작성 후 주문번호 채팅 ㅇㅈ만 하면 자동 응모 라이브 단독 『Galaxy Buds4 Pro (100명)』추첨 증정 ㅇㅈ에 들어갈 단어는 무엇일까요? Hint! 방송 중 공지사항을 확인하세요",
-          "answer": "인증",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KT다이렉트샵 라이브 ’Galaxy Z Fold8ㅣFlip8 ' 사전예약 ㅇㅈPEN! ★라이브단독혜택★ 라이브 중 KT닷컴 예약번호 ㅇㅈ 또는 신청서 작성 후 주문번호 채팅 ㅇㅈ만 하면 자동 응모 라이브 단독 『Galaxy Buds4 Pro (100명)』추첨 증정 ㅇㅈ에 들어갈 단어는 무엇일까요? Hint! 방송 중 공지사항을 확인하세요",
-          "answer": "인증",
+          "question": "지금! 카카오톡 쇼핑 라이브에서 1+1으로 만날 수 있는 클렌저 1위 쫀득한 아렌시아 ㄸㅅ! 라이브 중 구매 시 최대 11만원 상당의 추가 혜택을 놓치지 마세요!",
+          "answer": "떡솝",
           "pending": false,
           "source": "oneuljupjup"
         }
