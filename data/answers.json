@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:19:42.639Z",
+  "generatedAt": "2026-07-30T06:37:35.938Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -17,13 +17,25 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "7월 30일",
-      "updatedAt": "2026-07-29T19:02:13.000-07:00",
+      "updatedAt": "2026-07-29T23:21:00.000-07:00",
       "items": [
         {
           "question": "네이버플러스 스토어 OO끝딜은에서 매일 6번의 타임특가로 인기 상품을 구매할 수 있어요, OO이 지나면 만나볼 수 없어, 품절 전 빠르게 참여해야해요. OO에 들어갈 단어는 무엇일까요? (초성 힌트 ㅇㄴ)",
           "answer": "오늘",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "리비힐 엑소좀 선크림은 단점은 빼고 장점만 담은 ㅇㅇㅇㅇ 선크림으로 전국 40개 이상 전문기관 입점 브랜드입니다. ㅇㅇㅇㅇ는 무엇일까요? (초성 : ㅎㅎㅈㅊ)",
+          "answer": "혼합자차",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "리비힐 엑소좀 선크림은 식품의약안전처를 통해 ㅇㅇㅇ 차단 기능성 뿐만 아니라 주름개선 기능성, 미백 기능성을 보고한 기능성 선크림입니다. ㅇㅇㅇ은 무엇일까요?",
+          "answer": "자외선",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
