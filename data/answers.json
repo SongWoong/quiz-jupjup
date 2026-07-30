@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T20:22:41.272Z",
+  "generatedAt": "2026-07-30T22:16:18.639Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 62
+      "items": 63
     },
     {
       "name": "luckyquiz3",
@@ -60,18 +60,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 30일",
-      "updatedAt": "2026-07-29T09:16:04.000-07:00",
+      "dateLabel": "7월 31일",
+      "updatedAt": "2026-07-30T14:49:49.000-07:00",
       "items": [
         {
-          "question": "29일 정오 현재 KBO 리그 9승 고지에 선착한 투수가 무려 5명으로 다승경쟁이 아주 치열한 상황입니다. 아래 중 올 시즌 아직 9승 이상을 기록하지 않은 투수는?",
-          "answer": "양현종",
+          "question": "KBO 각 팀 마스코트들 간의 인기 경쟁도 치열합니다. 8월 5일 사직구장에서 시구와 공연을 진행 예정인 롯데 자이언츠를 대표하는 마스코트 이름은?",
+          "answer": "누리",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "1원으로 최소 10포인트부터 리프레시 아이템 득템까지! 다음 중 이번 'SOL께요' 이벤트 경품이 아닌 것은?",
-          "answer": "블루투스 스피커",
+          "question": "해외이용 혜택과 편의서비스 등을 안내하는 신한카드 해외 메뉴의 새로운 이름은 무엇일까요?",
+          "answer": "해외이용",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -94,18 +94,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 30일",
-      "updatedAt": "2026-07-29T09:22:28.000-07:00",
+      "dateLabel": "7월 31일",
+      "updatedAt": "2026-07-30T15:06:18.000-07:00",
       "items": [
         {
-          "question": "KB Pay촉감 완구의 인기로 방문과 매출이 함께 늘어난 곳은 어디일까요?",
-          "answer": "완구거리",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "은행 직원과 화상으로 전문상담을 받을 수 있는 'KB화상상담서비스'는 오후 4시까지 이용할 수 있다.",
-          "answer": "X",
+          "question": "은행 대기시간을 줄일 수 있는 KB스타뱅킹 기능으로 틀린 것은 무엇일까요?",
+          "answer": "용돈받기",
           "pending": false,
           "source": "oneuljupjup"
         }
