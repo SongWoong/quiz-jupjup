@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T04:33:36.024Z",
+  "generatedAt": "2026-07-31T08:07:22.149Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 66
+      "items": 67
     },
     {
       "name": "luckyquiz3",
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "7월 31일",
-      "updatedAt": "2026-07-30T19:01:55.000-07:00",
+      "updatedAt": "2026-07-31T00:01:09.000-07:00",
       "items": [
         {
           "question": "배달의민족 OO할인에서는 오늘 한정 BBQ 선착순 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㅉ, 이벤트 페이지에서 확인할 수 있어요👀)",
@@ -60,6 +60,12 @@
           "answer": "한정",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "대한민국 1등 유산균, 종근당건강 \"락토핏 골드 120포 2통\" 을 \"락토핏 코어 30포\" 증정 구성으로 초특가 00,000원에 네이버페이 포인트 5,000원 이벤트까지 진행됩니다. 00,000에 들어갈 정답은 무엇일까요?",
+          "answer": "42700",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
