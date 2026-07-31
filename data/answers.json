@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-31T14:29:36.112Z",
+  "generatedAt": "2026-07-31T16:52:57.263Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 65
+      "items": 66
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 69
     }
   ],
   "apps": [
@@ -102,18 +102,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "7월 31일",
-      "updatedAt": "2026-07-30T14:49:49.000-07:00",
+      "dateLabel": "8월 1일",
+      "updatedAt": "2026-07-31T09:16:18.000-07:00",
       "items": [
         {
-          "question": "KBO 각 팀 마스코트들 간의 인기 경쟁도 치열합니다. 8월 5일 사직구장에서 시구와 공연을 진행 예정인 롯데 자이언츠를 대표하는 마스코트 이름은?",
-          "answer": "누리",
+          "question": "올 시즌을 마지막으로 역사속으로 사라질 야구장을 홈구장으로 사용하는 LG 트윈스, 두산 베어스 두 팀이 대결하는 라이벌전 이름은?",
+          "answer": "잠실더비",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "해외이용 혜택과 편의서비스 등을 안내하는 신한카드 해외 메뉴의 새로운 이름은 무엇일까요?",
-          "answer": "해외이용",
+          "question": "오늘부터 3일간 진행되는 마이샵데이에서 받을 수 있는 투썸플레이스 혜택 금액은 얼마일까요?",
+          "answer": "5천원",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -136,18 +136,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "7월 31일",
-      "updatedAt": "2026-07-30T15:06:18.000-07:00",
+      "dateLabel": "8월 1일",
+      "updatedAt": "2026-07-31T09:20:41.000-07:00",
       "items": [
         {
-          "question": "안드로이드 폰에서 앱 실행 없이 바로 결제하는 KB Pay '탭앤페이'를 이용하려면 어떤 기능을 켜야 할까요?",
-          "answer": "NFC",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "은행 대기시간을 줄일 수 있는 KB스타뱅킹 기능으로 틀린 것은 무엇일까요?",
-          "answer": "용돈받기",
+          "question": "청약예금과 청약부금을 주택청약종합저축으로 전환할 수 있는 기한은 언제까지일까요?",
+          "answer": "9월 30일",
           "pending": false,
           "source": "oneuljupjup"
         }
