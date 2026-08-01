@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:36:01.085Z",
+  "generatedAt": "2026-08-01T10:07:45.207Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 74
     }
   ],
   "apps": [
@@ -75,7 +75,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 1일",
-      "updatedAt": "2026-07-31T19:01:14.000-07:00",
+      "updatedAt": "2026-08-01T03:00:22.000-07:00",
       "items": [
         {
           "question": "(1+1행사) 불스원샷 플래티넘 연료첨가제 5in1 OOOML 2종 택1 (휘발유 경유) 쭉쭉 올라가는 &#x27;연비 향상&#x27; 효과! 불스원샷 플래티넘 연료첨가제 1+1 2만원대 특가 찬스! 기름값 확실하게 7만원 절약!",
@@ -88,6 +88,12 @@
           "answer": "잠시 후 공개",
           "pending": true,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "건조기용 피죤 드라이시트 넉넉한 대용량! 독보적인 초특가 미스틱/플라워향 120매*2개 (240매) 14,900원! (39%할인) ✔더 풍부해진 피죤만의 향기 ✔OOO 없이 옷은 부드럽게 ✔아토피협회 우수등급 추천",
+          "answer": "정전기",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
