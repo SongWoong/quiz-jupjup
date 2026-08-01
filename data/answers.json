@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-01T16:10:20.831Z",
+  "generatedAt": "2026-08-01T18:07:53.991Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 70
+      "items": 71
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 75
     }
   ],
   "apps": [
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 1일",
-      "updatedAt": "2026-07-31T09:16:18.000-07:00",
+      "dateLabel": "8월 2일",
+      "updatedAt": "2026-08-01T09:16:20.000-07:00",
       "items": [
         {
-          "question": "올 시즌을 마지막으로 역사속으로 사라질 야구장을 홈구장으로 사용하는 LG 트윈스, 두산 베어스 두 팀이 대결하는 라이벌전 이름은?",
-          "answer": "잠실더비",
+          "question": "7월 29일 승리로 KBO 리그 다승 공동 1위로 올라서며 아시아쿼터 선수 중 최고의 활약을 펼치고 있는 좌완 투수는?",
+          "answer": "왕옌청",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "오늘부터 3일간 진행되는 마이샵데이에서 받을 수 있는 투썸플레이스 혜택 금액은 얼마일까요?",
-          "answer": "5천원",
+          "question": "디스커버 + 슈퍼SOL 댓글 이벤트를 통해 신한 슈퍼SOL 런칭 축하 3행시를 작성하면 받을 수 있는 포인트 금액은?",
+          "answer": "3,000P",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -100,18 +100,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 1일",
-      "updatedAt": "2026-07-31T09:20:41.000-07:00",
+      "dateLabel": "8월 2일",
+      "updatedAt": "2026-08-01T09:20:43.000-07:00",
       "items": [
         {
-          "question": "입학과 동시에 취업이 확정되고, 일과 학업을 병행하여 3년만에 학사 취득이 가능한 학과는?",
-          "answer": "조기 취업형 계약학과",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "청약예금과 청약부금을 주택청약종합저축으로 전환할 수 있는 기한은 언제까지일까요?",
-          "answer": "9월 30일",
+          "question": "KB청년미래적금은 월 1,000원부터 가입할 수 있다.",
+          "answer": "O",
           "pending": false,
           "source": "oneuljupjup"
         }
