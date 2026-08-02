@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-02T15:13:37.334Z",
+  "generatedAt": "2026-08-02T17:11:38.902Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 71
+      "items": 68
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 76
+      "items": 73
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 2일",
-      "updatedAt": "2026-08-01T09:16:20.000-07:00",
+      "dateLabel": "8월 3일",
+      "updatedAt": "2026-08-02T09:16:08.000-07:00",
       "items": [
         {
-          "question": "7월 29일 승리로 KBO 리그 다승 공동 1위로 올라서며 아시아쿼터 선수 중 최고의 활약을 펼치고 있는 좌완 투수는?",
-          "answer": "왕옌청",
+          "question": "KBO 리그에서 한 구단에서 같은 이름을 가진 선수가 동시에 뛰는 경우가 종종 있습니다. 현재 삼성 라이온즈의 대표적인 동명이인은?",
+          "answer": "이승현",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "디스커버 + 슈퍼SOL 댓글 이벤트를 통해 신한 슈퍼SOL 런칭 축하 3행시를 작성하면 받을 수 있는 포인트 금액은?",
-          "answer": "3,000P",
+          "question": "새로운 침대/베딩을 찾고 있다면 최대 60% 할인되는 소노시즌 매장으로! 신한카드 결제 시 받는 혜택은 무엇일까요?",
+          "answer": "최대 3% 캐시백",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -64,18 +64,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 2일",
-      "updatedAt": "2026-08-01T09:20:43.000-07:00",
+      "dateLabel": "8월 3일",
+      "updatedAt": "2026-08-02T09:22:31.000-07:00",
       "items": [
         {
-          "question": "다자녀 가구(미성년 자녀 2명 이상)의 고속도로 통행료 할인이 적용되는 날은?",
-          "answer": "주말과 공휴일",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KB청년미래적금은 월 1,000원부터 가입할 수 있다.",
-          "answer": "O",
+          "question": "3대 OO프로젝트는 반도체, AI 데이터센터, 피지컬 AI를 중심으로 대규모 투자하는 프로젝트를 말한다.",
+          "answer": "메가",
           "pending": false,
           "source": "oneuljupjup"
         }
