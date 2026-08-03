@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:50:25.550Z",
+  "generatedAt": "2026-08-03T18:01:25.012Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 80
+      "items": 79
     }
   ],
   "apps": [
@@ -84,18 +84,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 3일",
-      "updatedAt": "2026-08-02T09:16:08.000-07:00",
+      "dateLabel": "8월 4일",
+      "updatedAt": "2026-08-03T09:16:54.000-07:00",
       "items": [
         {
-          "question": "KBO 리그에서 한 구단에서 같은 이름을 가진 선수가 동시에 뛰는 경우가 종종 있습니다. 현재 삼성 라이온즈의 대표적인 동명이인은?",
-          "answer": "이승현",
+          "question": "지난 주말 헐리우드 스타 맷 데이먼이 KBO 리그 경기를 관람해 화제입니다. 맷 데이먼은 이번 주 개봉예정인 이 영화 홍보차 한국을 찾았는데요. 아래 중 어떤 영화일까요?",
+          "answer": "오디세이",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "새로운 침대/베딩을 찾고 있다면 최대 60% 할인되는 소노시즌 매장으로! 신한카드 결제 시 받는 혜택은 무엇일까요?",
-          "answer": "최대 3% 캐시백",
+          "question": "신한 슈퍼SOL로 바나프레소 앱에서 아메리카노를 결제하면 받을 수 있는 총 혜택 금액은?",
+          "answer": "2,000원",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -154,18 +154,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 3일",
-      "updatedAt": "2026-08-02T09:22:31.000-07:00",
+      "dateLabel": "8월 4일",
+      "updatedAt": "2026-08-03T09:21:16.000-07:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑 '콜게이트 구강케어 모음전' 구매 시 받을 수 있는 혜택이 아닌 것은?",
-          "answer": "포인트리 지급",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "3대 OO프로젝트는 반도체, AI 데이터센터, 피지컬 AI를 중심으로 대규모 투자하는 프로젝트를 말한다.",
-          "answer": "메가",
+          "question": "'Hot한 달리자 이용하면 Cool하게 쏜다!' 이벤트에서 메가 ICE 아메리카노 쿠폰을 받을 수 있는 방법은 무엇일까요?",
+          "answer": "1. 달리자 메달 획득 & 이벤트 응모",
           "pending": false,
           "source": "oneuljupjup"
         }
