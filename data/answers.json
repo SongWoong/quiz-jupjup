@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T09:46:07.385Z",
+  "generatedAt": "2026-08-04T12:11:29.641Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 81
+      "items": 79
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 4일",
-      "updatedAt": "2026-08-03T22:02:37.186-07:00",
+      "updatedAt": "2026-08-04T05:01:16.000-07:00",
       "items": [
         {
           "question": "팬마음에서는 OOO스타 남자&여자 투표 73차가 진행 중이에요! 1-4위를 달성한 남녀 스타에게는 서울 지하철역 초대형 광고를 무료로 드려요!(초성 힌트: ㅌㄹㅌ)",
@@ -40,6 +40,12 @@
         {
           "question": "팬마음 트로트 스타 73차 투표에서 목표를 달성한 모든 스타에게 OOOOO역 광고를 100% 선물해드려요!(초성 힌트: ㅅㅇㅈㅎㅊ)",
           "answer": "서울지하철",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "⏰ <단 3시간> 제로딜! 리얼마이즈 알룰로스 66% 할인 ⏰ 네이버/쿠팡 포함 최저가! 최대 혜택 적용시 <1병 10,225원 + 무배> 왜 리얼마이즈 알룰로스여야 할까요? 원칙을 지키고 더욱 안전하게! 인공감미료, 설탕, \"OOOOO\", 콜레스테롤 NO! 🔥캐시딜 단독 3시간 타임어택 놓치지 마세요.🔥 OOOOO는 무엇일까요? (힌트:ㅎㅅㅂㅈㄹ)",
+          "answer": "합성보존료",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -100,6 +106,20 @@
         {
           "question": "'Hot한 달리자 이용하면 Cool하게 쏜다!' 이벤트에서 메가 ICE 아메리카노 쿠폰을 받을 수 있는 방법은 무엇일까요?",
           "answer": "1. 달리자 메달 획득 & 이벤트 응모",
+          "pending": false,
+          "source": "oneuljupjup"
+        }
+      ]
+    },
+    {
+      "id": "okcashbag",
+      "label": "OK캐쉬백",
+      "dateLabel": "8월 4일",
+      "updatedAt": "2026-08-04T03:01:48.000-07:00",
+      "items": [
+        {
+          "question": "[힌트 보기] 버튼을 클릭 후, 오픈되는 라이브방송에서 아래 퀴즈의 정답을 맞춰주세요! Q. 뼈엔 엠비피MBP의 모델은? (힌트 : ㄴㄱㅁ)",
+          "answer": "남궁민",
           "pending": false,
           "source": "oneuljupjup"
         }
