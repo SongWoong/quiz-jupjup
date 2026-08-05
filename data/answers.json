@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-05T06:38:23.815Z",
+  "generatedAt": "2026-08-05T09:44:08.987Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 68
+      "items": 67
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 83
+      "items": 82
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 5일",
-      "updatedAt": "2026-08-05T13:54:00.000+09:00",
+      "updatedAt": "2026-08-05T00:01:11.000-07:00",
       "items": [
         {
           "question": "현재 팬마음에서는 2026 트로트 무대 OOO 1위 투표를 진행하고 있어요. 후보에는 박서진/박지현/강문경 등이 있어요.(초성 힌트: ㅈㅎㅅ)",
@@ -42,6 +42,12 @@
           "answer": "사각기둥",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "부드럽고 고소한 콩국물에 면을 말아 시원하게 한 그릇🍜 입맛 없는 더운 날에도 든든하게 즐겨보세요! 서티태 콩국수3인분 OOOO원! 1인분에 2,960원꼴",
+          "answer": "8900",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
