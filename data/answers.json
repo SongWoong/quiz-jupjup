@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-05T09:44:08.987Z",
+  "generatedAt": "2026-08-05T12:08:59.421Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 67
+      "items": 63
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 82
+      "items": 81
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 5일",
-      "updatedAt": "2026-08-05T00:01:11.000-07:00",
+      "updatedAt": "2026-08-05T20:54:00.000+09:00",
       "items": [
         {
           "question": "현재 팬마음에서는 2026 트로트 무대 OOO 1위 투표를 진행하고 있어요. 후보에는 박서진/박지현/강문경 등이 있어요.(초성 힌트: ㅈㅎㅅ)",
@@ -48,6 +48,12 @@
           "answer": "8900",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "누적 1억개 판매! 배우 이하늬 모델의 아이크림 명가 AHC 브랜드 아이크림 12ml 총 10개 구성을 110,000원 / 행사가 \"OOOOO\"원에 특가로 구매할수있습니다. \"OOOOO\"에 들어갈 문구는 무엇일까요?",
+          "answer": "18500",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -75,7 +81,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 5일",
-      "updatedAt": "2026-08-04T23:02:14.000-07:00",
+      "updatedAt": "2026-08-05T19:49:00.000+09:00",
       "items": [
         {
           "question": "오늘만! 철벽녀 시즌17 에이징 리커버리 쿠션 특가✨ 한국 봄여름 최적화 쿠션! 푹푹 찌는 고온다습 환경에도 강력 지속 수분 리프팅 OO 커버 쿠션! G마켓 특가 놓치지마세요~!",
@@ -94,6 +100,12 @@
           "answer": "차량용품",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "글로우, 벨벳 두 가지 제형의 믹스매치! ★맑고 투명하게 피부에 착붙!하는 밀착 컬러 ★각질 들뜸 없는 맑은 레이어링 인플루언서 하이예나 PICK 토니모리 OOO 립앤 치크 듀오밤 4.8g을 G마켓에서 오늘 하루 특가 9,900원에 만나보세요!",
+          "answer": "치크톤",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
