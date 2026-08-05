@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-05T15:24:18.555Z",
+  "generatedAt": "2026-08-05T17:51:05.246Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 61
+      "items": 62
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 79
+      "items": 78
     }
   ],
   "apps": [
@@ -72,18 +72,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 5일",
-      "updatedAt": "2026-08-04T09:16:10.000-07:00",
+      "dateLabel": "8월 6일",
+      "updatedAt": "2026-08-05T09:16:23.000-07:00",
       "items": [
         {
-          "question": "2019년 1차 지명으로 큰 기대를 모았으나 오랫동안 부침을 겪은 후 최근 좋은 활약을 보여주고 있는 두산 베이스의 외야수는?",
-          "answer": "김대한",
+          "question": "9일까지 슈퍼 SOL에서 응모 가능한 2026 신한 SOL KBO 리그 7월 월간 MVP 투표에서 가장 많은 3인의 후보를 배출한 구단은?",
+          "answer": "kt wiz",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "VISA 체크카드 쓰고 경품 받자! 해외 가맹점 누적 이용금액 1위를 달성하면 아이패드 에어 11을 받을 수 있다?",
-          "answer": "O",
+          "question": "신한카드 고객이 신한 SOL LINK 계좌 개설 시 100% 받을 수 있는 쿠폰은?",
+          "answer": "최대 2만원 투자쿠폰(증권 신규/휴면고객)",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -124,18 +124,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 5일",
-      "updatedAt": "2026-08-04T09:20:33.000-07:00",
+      "dateLabel": "8월 6일",
+      "updatedAt": "2026-08-05T09:20:46.000-07:00",
       "items": [
         {
-          "question": "KB Pay 여행의 제휴사인 찜카에서 여름휴가 시즌을 맞이하여 전 세계 렌터카 이용 시 제공해드리는 할인율은?",
-          "answer": "10%",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KB프리N통장을 사용하면 좋을 대상으로 틀린 것은 무엇일까요?",
-          "answer": "학생",
+          "question": "무이자 할부 결제 금액은 실적 및 혜택에서 제외되는 경우가 많다.",
+          "answer": "O",
           "pending": false,
           "source": "oneuljupjup"
         }
