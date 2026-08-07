@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T15:24:11.027Z",
+  "generatedAt": "2026-08-07T00:11:37.864Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 79
+      "items": 78
     }
   ],
   "apps": [
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 6일",
-      "updatedAt": "2026-08-05T09:16:23.000-07:00",
+      "dateLabel": "8월 7일",
+      "updatedAt": "2026-08-06T09:17:34.000-07:00",
       "items": [
         {
-          "question": "9일까지 슈퍼 SOL에서 응모 가능한 2026 신한 SOL KBO 리그 7월 월간 MVP 투표에서 가장 많은 3인의 후보를 배출한 구단은?",
-          "answer": "kt wiz",
+          "question": "극심한 폭염이 결국 KBO 리그를 멈춰서게 만들었습니다. 아래 중 지난 6월 1일부터 새로 시행된 폭염중대경보 발령 시 행동요령과 거리가 먼것은?",
+          "answer": "다량의 염분을 즉시 보충",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "신한카드 고객이 신한 SOL LINK 계좌 개설 시 100% 받을 수 있는 쿠폰은?",
-          "answer": "최대 2만원 투자쿠폰(증권 신규/휴면고객)",
+          "question": "Tops 할인 쿠폰으로 롯데월드를 즐겨보세요! 올 여름 롯데월드에 상륙한 초대형 몬스터의 이름은?",
+          "answer": "콩X고질라",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -88,17 +88,11 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 6일",
-      "updatedAt": "2026-08-05T09:20:46.000-07:00",
+      "dateLabel": "8월 7일",
+      "updatedAt": "2026-08-06T09:21:57.000-07:00",
       "items": [
         {
-          "question": "KB Pay 신규서비스 '깨비로또' 2회차의 1등 당첨금은 얼마일까요?",
-          "answer": "10,000,000P",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "무이자 할부 결제 금액은 실적 및 혜택에서 제외되는 경우가 많다.",
+          "question": "퇴직연금 가입자가 무주택인 경우 본인 명의로 주택을 구입할 때는 퇴직연금을 중도 인출할 수 있다.",
           "answer": "O",
           "pending": false,
           "source": "oneuljupjup"
