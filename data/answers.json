@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:43:27.110Z",
+  "generatedAt": "2026-08-08T02:16:47.782Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 69
     }
   ],
   "apps": [
@@ -91,6 +91,12 @@
       "dateLabel": "8월 8일",
       "updatedAt": "2026-08-07T09:21:23.000-07:00",
       "items": [
+        {
+          "question": "이번 '썸머 밸런스 PICK! Vol.2'의 주제는 무엇일까요?",
+          "answer": "#홈캉스_정복기",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "투자 상품 가입 전 진행하는 '투자성향분석'의 설명으로 틀린 것은 무엇일까요?",
           "answer": "3번. 대면으로만 할 수 있다",
