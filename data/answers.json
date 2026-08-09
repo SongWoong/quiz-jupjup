@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-09T15:41:55.297Z",
+  "generatedAt": "2026-08-09T16:49:39.559Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 46
+      "items": 44
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 66
+      "items": 64
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 9일",
-      "updatedAt": "2026-08-08T09:16:26.000-07:00",
+      "dateLabel": "8월 10일",
+      "updatedAt": "2026-08-09T09:16:06.000-07:00",
       "items": [
         {
-          "question": "폭염으로 인한 경기 취소로 2026 신한 SOL KBO 리그 가을 일정에 부담이 커졌습니다. KBO 정규시즌 한 팀당 치르는 경기수는 총 몇 경기 일까요?",
-          "answer": "144경기",
+          "question": "2014년 오늘은 한 한국인 선수가 한국인으로는 최초로 메이저리그에서 일천 안타를 기록한 날입니다. 이 선수는 누구일까요?",
+          "answer": "추신수",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "'트래블 Discover-Day! 준비부터 설레는 여행 필수 아이템 특가전'에서 판매되는 특가 상품이 아닌 것은?",
-          "answer": "썬캡",
+          "question": "신한 SOL페이 앱테크 미션 중 '2만원 쇼핑하고 OOO 당첨받기'가 있어요. OOO에 들어갈 경품은 무엇일까요?",
+          "answer": "에어팟",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -64,12 +64,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 9일",
-      "updatedAt": "2026-08-08T09:20:49.000-07:00",
+      "dateLabel": "8월 10일",
+      "updatedAt": "2026-08-09T09:22:34.000-07:00",
       "items": [
         {
-          "question": "자녀에게 증여 후 납부할 세액이 없더라도 가급적이면 신고를 해두는 것이 좋다.",
-          "answer": "O",
+          "question": "내가 가진 자산의 가치가 오르면 소비를 늘리는 현상을 무엇이라고 할까요?",
+          "answer": "자산효과",
           "pending": false,
           "source": "oneuljupjup"
         }
