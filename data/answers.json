@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T15:11:43.721Z",
+  "generatedAt": "2026-08-10T17:04:03.699Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 43
+      "items": 45
     },
     {
       "name": "luckyquiz3",
@@ -96,18 +96,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 10일",
-      "updatedAt": "2026-08-09T09:16:06.000-07:00",
+      "dateLabel": "8월 11일",
+      "updatedAt": "2026-08-10T09:16:04.000-07:00",
       "items": [
         {
-          "question": "2014년 오늘은 한 한국인 선수가 한국인으로는 최초로 메이저리그에서 일천 안타를 기록한 날입니다. 이 선수는 누구일까요?",
-          "answer": "추신수",
+          "question": "2026 신한 SOL KBO 리그가 오늘부터 다시 레이스를 이어갑니다. 폭염으로 다음 달 6일까지 조정된 경기 시작시간은 몇시일까요?",
+          "answer": "오후 7시",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "신한 SOL페이 앱테크 미션 중 '2만원 쇼핑하고 OOO 당첨받기'가 있어요. OOO에 들어갈 경품은 무엇일까요?",
-          "answer": "에어팟",
+          "question": "제9회 셀럽 프로암 골프대회에 참가하는 LPGA 메이저대회 2관왕 프로 골퍼의 이름은 무엇일까요?",
+          "answer": "유해란",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -166,12 +166,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 10일",
-      "updatedAt": "2026-08-09T09:22:34.000-07:00",
+      "dateLabel": "8월 11일",
+      "updatedAt": "2026-08-10T09:22:31.000-07:00",
       "items": [
         {
-          "question": "내가 가진 자산의 가치가 오르면 소비를 늘리는 현상을 무엇이라고 할까요?",
-          "answer": "자산효과",
+          "question": "퇴직연금에 적립된 자금을 ETF에 투자하여 운용할 수 있다.",
+          "answer": "O",
           "pending": false,
           "source": "oneuljupjup"
         }
