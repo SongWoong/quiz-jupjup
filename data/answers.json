@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-10T10:33:37.007Z",
+  "generatedAt": "2026-08-10T11:55:48.898Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 47
+      "items": 46
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 66
     }
   ],
   "apps": [
@@ -75,7 +75,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 10일",
-      "updatedAt": "2026-08-09T21:01:50.000-07:00",
+      "updatedAt": "2026-08-10T19:49:00.000+09:00",
       "items": [
         {
           "question": "오늘만! 고농축피죤 시그니처 실내건조 5.7L 특가✨ 자연에 가까운 실내건조! ✅실내건조 시 냄새 OO 제거 ✅더 풍부해진 피죤만의 향기 ✅증점제 무첨가 G마켓 특가 놓치지마세요~!",
@@ -112,6 +112,12 @@
           "answer": "1",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "베이직북16Ultra 고사양 출시! 라이브 최대 할인율은 OO%입니다. OO에 들어갈 숫자는 무엇일까요?",
+          "answer": "48",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
