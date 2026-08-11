@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T04:35:57.388Z",
+  "generatedAt": "2026-08-11T06:00:15.368Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 45
+      "items": 44
     },
     {
       "name": "luckyquiz3",
@@ -117,13 +117,19 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 11일",
-      "updatedAt": "2026-08-10T19:31:52.000-07:00",
+      "updatedAt": "2026-08-11T13:46:00.000+09:00",
       "items": [
         {
           "question": "[G마켓 쇼츠딜] 리코셀 글로우드롭 PDRN 에어리 선크림 50ml 2+1 세트! 세럼처럼 ○○○ 발림으로 산뜻하게! 빈칸에 들어갈 단어는? (ㄱㅂㅇ)",
           "answer": "가벼운",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "\"00024는 정부, 공공, 민간 기관에 분산되어 있는 정보를 맞춤형으로 제공합니다. 또한 소비자의 생활 중 발생할 수 있는 피해에 대한 예방과 함께 실제 피해가 발생하더라도 이를 쉽게 구제받을 수 있도록 지원하는 서비스 입니다. \"",
+          "answer": "소비자",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
