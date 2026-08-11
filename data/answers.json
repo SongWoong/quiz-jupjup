@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T15:12:27.059Z",
+  "generatedAt": "2026-08-11T17:08:49.530Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 44
+      "items": 46
     },
     {
       "name": "luckyquiz3",
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 11일",
-      "updatedAt": "2026-08-10T09:16:04.000-07:00",
+      "dateLabel": "8월 12일",
+      "updatedAt": "2026-08-11T09:17:12.000-07:00",
       "items": [
         {
-          "question": "2026 신한 SOL KBO 리그가 오늘부터 다시 레이스를 이어갑니다. 폭염으로 다음 달 6일까지 조정된 경기 시작시간은 몇시일까요?",
-          "answer": "오후 7시",
+          "question": "MLB 소식입니다. 최근 유격수 제이컵 윌슨 선수가 111경기 연속 무실책이라는 새 역사를 썼습니다. 윌슨 선수가 소속된 팀은 아래 중 어디일까요?",
+          "answer": "애슬레틱스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "제9회 셀럽 프로암 골프대회에 참가하는 LPGA 메이저대회 2관왕 프로 골퍼의 이름은 무엇일까요?",
-          "answer": "유해란",
+          "question": "수요일은 슈퍼SOL! 파리바게뜨에서 신한 슈퍼SOL로 1만원 이상 결제시 받을 수 있는 총 혜택은?",
+          "answer": "5천원",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -112,18 +112,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 11일",
-      "updatedAt": "2026-08-10T09:22:31.000-07:00",
+      "dateLabel": "8월 12일",
+      "updatedAt": "2026-08-11T09:21:35.000-07:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑 락토핏 10주년 기획전 이벤트의 제공 혜택이 아닌 것은?",
-          "answer": "편의점 모바일 쿠폰",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "퇴직연금에 적립된 자금을 ETF에 투자하여 운용할 수 있다.",
-          "answer": "O",
+          "question": "KB비상금대출에 대한 내용으로 틀린 것은 무엇일까요?",
+          "answer": "4. 최대 100만원까지",
           "pending": false,
           "source": "oneuljupjup"
         }
