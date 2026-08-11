@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T23:46:51.776Z",
+  "generatedAt": "2026-08-11T02:22:40.553Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -169,6 +169,12 @@
       "dateLabel": "8월 11일",
       "updatedAt": "2026-08-10T09:22:31.000-07:00",
       "items": [
+        {
+          "question": "KB Pay 쇼핑 락토핏 10주년 기획전 이벤트의 제공 혜택이 아닌 것은?",
+          "answer": "편의점 모바일 쿠폰",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "퇴직연금에 적립된 자금을 ETF에 투자하여 운용할 수 있다.",
           "answer": "O",
