@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T09:11:00.410Z",
+  "generatedAt": "2026-08-11T11:01:08.475Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 44
+      "items": 45
     },
     {
       "name": "luckyquiz3",
@@ -117,7 +117,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 11일",
-      "updatedAt": "2026-08-11T13:46:00.000+09:00",
+      "updatedAt": "2026-08-11T04:01:00.000-07:00",
       "items": [
         {
           "question": "[G마켓 쇼츠딜] 리코셀 글로우드롭 PDRN 에어리 선크림 50ml 2+1 세트! 세럼처럼 ○○○ 발림으로 산뜻하게! 빈칸에 들어갈 단어는? (ㄱㅂㅇ)",
@@ -130,6 +130,24 @@
           "answer": "소비자",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "백탁·답답함 없이 세럼처럼 가벼운 리코셀 글로우드롭 쿨링 선크림🩵 🧊 바르는 즉시 -7.7℃ 강력 쿨링 🧊 민감성 피부 저자극 테스트 완료 ooo 한정구성 2+1 개당 4,976원에 만나보세요! 빈칸에 들어갈 정답은 무엇일까요?",
+          "answer": "쇼츠딜",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "국민 치킨텐더! 지마켓 OO기획 이지끼니 2kg 17,220원 특가 찬스! > 한국인 입맛에 딱! 케이준의 풍미 > 넉넉함도 2배! 파격적인 1+1 혜택 (힌트 : ㄱㄷ)",
+          "answer": "공동",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "파스퇴르 단백질+ 검은콩검은깨(OO) 195ml 20입 ✔ 속 편한 락토프리 & 부담 없는 저당 설계의 고소한 단백질 음료✨ ✔ 마실 때마다 느껴지는 고소함! 단백질 12g & 필수 영양 20종 풍부하게 함유 🎀 쟁여둘수록 든든한 건강 음료! 혜택가 19,900원으로 만나보세요!",
+          "answer": "음료",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
