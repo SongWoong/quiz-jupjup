@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T11:55:51.127Z",
+  "generatedAt": "2026-08-13T13:38:57.387Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 46
+      "items": 44
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 72
+      "items": 73
     }
   ],
   "apps": [
@@ -17,13 +17,19 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 13일",
-      "updatedAt": "2026-08-12T18:02:23.000-07:00",
+      "updatedAt": "2026-08-13T20:54:00.000+09:00",
       "items": [
         {
           "question": "단 하루동안 진행되는 \"캐시딜\" 타임특가에서 남녀 프리미엄 편한 스니커즈 양말 20켤레가 역대급 할인으로 OOOO원+무료배송에 진행됩니다. 이 양말은 부드러운 소재로 제작된 편안한 양말입니다. 빈칸에 들어갈 숫자는 무엇일까요?",
           "answer": "8900",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "🪥 온 가족 칫솔 한 번에 해결! 뷰카 오브제 듀얼 초미세 칫솔 역대급 특가⚡ 0.01MM 초미세 탄력모로 부드럽고 상쾌하게✨ 감각적인 컬러감까지 더한 데일리 칫솔💙 여기서 문제! 🔍 이번 특가 구성은 총 □□개입일까요? (힌트 : 숫자 두 자리) 정답 댓글 달고 초특가 놓치지 마세요🎁",
+          "answer": "18",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
