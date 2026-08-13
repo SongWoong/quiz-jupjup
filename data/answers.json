@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T15:09:32.893Z",
+  "generatedAt": "2026-08-13T17:07:45.701Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 44
+      "items": 46
     },
     {
       "name": "luckyquiz3",
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 13일",
-      "updatedAt": "2026-08-12T09:17:01.000-07:00",
+      "dateLabel": "8월 14일",
+      "updatedAt": "2026-08-13T09:15:45.000-07:00",
       "items": [
         {
-          "question": "최근 발표된 국군체육부대 최종 합격자 명단에 포함되어 12월 입대 확정 선수 중 KBO 리그 역대 최연소 150세이브를 달성한 투수는?",
-          "answer": "정해영",
+          "question": "신한은행은 오늘까지 2026 잠수교 10K 나이트런 참가 신청 접수 중입니다. 아래 중 본 레이스 신청 자격으로 맞는 것은?",
+          "answer": "신한 20플러스 뛰어요 가입고객",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "신한카드 고객이 신한 SOL LINK 계좌 개설 시 받을 수 있는 '꽝 없는 당첨' 혜택의 최대 금액은?",
-          "answer": "100만원",
+          "question": "맘스터치에서 신한 슈퍼SOL로 8천원 이상 결제 시 받을 수 있는 월 최대 포인트 혜택은 얼마일까요?",
+          "answer": "3,000P",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -82,18 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 13일",
-      "updatedAt": "2026-08-12T09:21:27.000-07:00",
+      "dateLabel": "8월 14일",
+      "updatedAt": "2026-08-13T09:22:18.000-07:00",
       "items": [
         {
-          "question": "마트·편의점·다이소·올리브영·커피 쿠폰부터 일상생활배상책임, 피싱·해킹 금융사기 피해보상까지 제공하는 안심 서비스는?",
-          "answer": "이지라이프케어",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "집 계약할 때 시설 상태와 하자 여부를 확인하기 위해 꼭 살펴봐야 할 서류는 무엇일까요?",
-          "answer": "중개대상물 확인·설명서",
+          "question": "자동화기기에서 1회에 인출할 수 있는 현금 금액은 얼마일까요?",
+          "answer": "100만원",
           "pending": false,
           "source": "oneuljupjup"
         }
