@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T10:18:48.668Z",
+  "generatedAt": "2026-08-13T11:55:51.127Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 47
+      "items": 46
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 72
     }
   ],
   "apps": [
@@ -51,7 +51,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 13일",
-      "updatedAt": "2026-08-13T18:49:00.000+09:00",
+      "updatedAt": "2026-08-13T19:46:00.000+09:00",
       "items": [
         {
           "question": "뜨거운 여름철 내 차를 보호하는 간편한 방법 불스원 쿨링핏 햇빛가리개 O유리창 단하루 특가 17,900원! ☑️원터치 우산형으로 누구나 간편설치 ☑️SUV까지 호환되는 넉넉한 사이즈와 간편한 보관",
@@ -62,6 +62,12 @@
         {
           "question": "남반구의 푸른 자연을 담은 호주 시드니 BEST 상품 O마켓 특가 89만원대! ☑️비자+핵심 관광지 포함 ☑️황금연휴 일정 포함 단하루 특가 절대 놓치지 마세요~!",
           "answer": "G",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "문제 : 베이직스 대표 가성비 노트북 베이직북14 최대 할인율 ㅇㅇ%입니다. ㅇㅇ에 들어갈 숫자는 무엇일까요?",
+          "answer": "42",
           "pending": false,
           "source": "luckyquiz3"
         }
