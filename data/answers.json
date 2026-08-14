@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:01:40.297Z",
+  "generatedAt": "2026-08-14T17:05:47.212Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 72
     }
   ],
   "apps": [
@@ -60,18 +60,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 14일",
-      "updatedAt": "2026-08-13T09:15:45.000-07:00",
+      "dateLabel": "8월 15일",
+      "updatedAt": "2026-08-14T09:17:14.000-07:00",
       "items": [
         {
-          "question": "신한은행은 오늘까지 2026 잠수교 10K 나이트런 참가 신청 접수 중입니다. 아래 중 본 레이스 신청 자격으로 맞는 것은?",
-          "answer": "신한 20플러스 뛰어요 가입고객",
+          "question": "KIA 타이거즈 김도영 선수와 박재현 선수의 한 동물을 둘러싼 이색 논쟁이 야구팬들을 즐겁게 했습니다. 두 선수가 광주천에 서식 중인 모습을 직접 확인한 이 동물은 무엇일까요?",
+          "answer": "수달",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "맘스터치에서 신한 슈퍼SOL로 8천원 이상 결제 시 받을 수 있는 월 최대 포인트 혜택은 얼마일까요?",
-          "answer": "3,000P",
+          "question": "여름 휴가 장거리 운전 전 필수 체크! Tops 쿠폰으로 안전점검 무료 서비스를 받을 수 있는 곳은 어디일까요?",
+          "answer": "스피드메이트",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -124,18 +124,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 14일",
-      "updatedAt": "2026-08-13T09:22:18.000-07:00",
+      "dateLabel": "8월 15일",
+      "updatedAt": "2026-08-14T09:21:43.000-07:00",
       "items": [
         {
-          "question": "KB Pay 여행의 와이파이도시락에서 e심, 와이파이 사용 시 최대 20% 할인을 받을 수 있는 쿠폰번호는?",
-          "answer": "KBPay10",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "자동화기기에서 1회에 인출할 수 있는 현금 금액은 얼마일까요?",
-          "answer": "100만원",
+          "question": "시야가 어두운 상황에서 전조등, 후미등을 켜지 않고 달리는 것을 ○○○차량이라고 한다",
+          "answer": "스텔스",
           "pending": false,
           "source": "oneuljupjup"
         }
