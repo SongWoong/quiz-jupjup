@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T15:31:33.135Z",
+  "generatedAt": "2026-08-15T16:36:15.927Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 38
+      "items": 37
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 73
+      "items": 74
     }
   ],
   "apps": [
@@ -42,18 +42,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 15일",
-      "updatedAt": "2026-08-14T09:17:14.000-07:00",
+      "dateLabel": "8월 16일",
+      "updatedAt": "2026-08-15T09:16:25.000-07:00",
       "items": [
         {
-          "question": "KIA 타이거즈 김도영 선수와 박재현 선수의 한 동물을 둘러싼 이색 논쟁이 야구팬들을 즐겁게 했습니다. 두 선수가 광주천에 서식 중인 모습을 직접 확인한 이 동물은 무엇일까요?",
-          "answer": "수달",
+          "question": "야구 역사 퀴즈입니다. 1986년 오늘은 비운의 선수로 알려진 김영신 선수가 한국 프로야구 최초의 영구결번 선수로 등록된 날입니다. 김영신 선수는 어느 팀 소속이었을까요?",
+          "answer": "OB 베어스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "여름 휴가 장거리 운전 전 필수 체크! Tops 쿠폰으로 안전점검 무료 서비스를 받을 수 있는 곳은 어디일까요?",
-          "answer": "스피드메이트",
+          "question": "혼수 가전 준비 중이라면 주목! LG베스트샵X신한카드 이벤트를 통해 사전 신청 후 결제 시, 추가 지급되는 포인트는 최대 얼마일까요?",
+          "answer": "17만 포인트",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -106,18 +106,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 15일",
-      "updatedAt": "2026-08-14T09:21:43.000-07:00",
+      "dateLabel": "8월 16일",
+      "updatedAt": "2026-08-15T09:20:53.000-07:00",
       "items": [
         {
-          "question": "형벌 법령에 저촉되는 행위를 했지만 형사책임을 지지 않는 연령대의 사람을 뜻하는 용어는?",
-          "answer": "촉법소년",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "시야가 어두운 상황에서 전조등, 후미등을 켜지 않고 달리는 것을 ○○○차량이라고 한다",
-          "answer": "스텔스",
+          "question": "자격이 되어도 내가 직접 신청하지 않으면, 혜택을 받지 못할 수도 있는 복지제도를 OO주의라고 한다",
+          "answer": "신청",
           "pending": false,
           "source": "oneuljupjup"
         }
