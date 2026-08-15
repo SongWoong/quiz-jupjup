@@ -1,59 +1,41 @@
 {
-  "generatedAt": "2026-08-14T23:32:05.751Z",
+  "generatedAt": "2026-08-15T01:45:58.124Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 36
+      "items": 38
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 72
+      "items": 73
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "8월 14일",
-      "updatedAt": "2026-08-14T20:54:00.000+09:00",
+      "dateLabel": "8월 15일",
+      "updatedAt": "2026-08-14T18:01:27.000-07:00",
       "items": [
         {
-          "question": "WON뱅킹에서 OO 돌리면 여름 간식 8,000개를 받을 수 있다. OO에 들어갈 말은? (초성힌트 : ㄹㄹ)",
-          "answer": "룰렛",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "여름나기 간식 이벤트 룰렛을 돌리면 투썸플레이스 떠먹는 OOO박스를 받을 수 있다. OOO에 들어갈 말은? (초성힌트 : ㅇㅇㅅ)",
-          "answer": "아이스",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "나만의 여름나기 쿨팁 공유하고 좋아요를 가장 많이 받은 O명은 특별 경품을 받을 수 있다. O에 들어갈 숫자는?",
-          "answer": "3",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "여름 나기 쿨팁 공유하고 좋아요를 가장 많이 받으면 다이슨 쿨CF1 OOO를 받을 수 있다. OOO에 들어갈 말은? (초성 힌트 : ㅅㅍㄱ)",
-          "answer": "선풍기",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "주문폭주🚨1.5kg 대용량 저당 파스타소스 1만원 🗣️ \"와 저당인게 안믿겨요..존맛..\" 🗣️ \"저지방 조건까지 만족하니 굿\" ✔ 천연감미료로 당류는 줄이고 ✔ 1.5kg 대용량에 가성비/가심비 최고 ✔ 진~한 토마토 풍미까지😎 믿고 먹을 수 있는 원재료로, 100% 캘리포니아산 OO 토마토를 사용했답니다. OO은 무엇일까요? (힌트:ㅇㅅ)",
-          "answer": "완숙",
+          "question": "배달의민족 OO할인에서는 처갓집양념치킨, 네네치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㅉ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "배짱",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "\"에이지투웨니스 시그니처 에센스 팩트 더블커버 케이스1개+리필2개(14g) 가 캐시딜 단독 할인으로 24,500원+에어퍼프5매+무료배송 으로 진행됩니다. 인텐스 커버팩트는 에센스 OO% 이상 함유되어 피부에 편안하게 밀착되며, 고커버,고밀착,고지속 효과로 결점없이 깨끗한 피부를 연출합니다. 여기서 OO은 무엇일까요?",
-          "answer": "71",
+          "question": "배달의민족 배짱할인에서는 OOO양념치킨, 네네치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅊㄱㅈ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "처갓집",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "배달의민족 배짱할인에서는 처갓집양념치킨, OO치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㄴㄴ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "네네",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -127,6 +109,12 @@
       "dateLabel": "8월 15일",
       "updatedAt": "2026-08-14T09:21:43.000-07:00",
       "items": [
+        {
+          "question": "형벌 법령에 저촉되는 행위를 했지만 형사책임을 지지 않는 연령대의 사람을 뜻하는 용어는?",
+          "answer": "촉법소년",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "시야가 어두운 상황에서 전조등, 후미등을 켜지 않고 달리는 것을 ○○○차량이라고 한다",
           "answer": "스텔스",
