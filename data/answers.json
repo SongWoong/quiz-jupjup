@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-16T15:32:01.750Z",
+  "generatedAt": "2026-08-16T16:37:03.033Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 37
+      "items": 41
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 71
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 16일",
-      "updatedAt": "2026-08-15T09:16:25.000-07:00",
+      "dateLabel": "8월 17일",
+      "updatedAt": "2026-08-16T09:16:12.000-07:00",
       "items": [
         {
-          "question": "야구 역사 퀴즈입니다. 1986년 오늘은 비운의 선수로 알려진 김영신 선수가 한국 프로야구 최초의 영구결번 선수로 등록된 날입니다. 김영신 선수는 어느 팀 소속이었을까요?",
-          "answer": "OB 베어스",
+          "question": "MLB 상식 퀴즈입니다. 메이저리그 뉴욕양키스의 가장 대표적인 라이벌 팀으로 아메리칸리그 동부지구에 소속된 이 팀은 어느 팀일까요?",
+          "answer": "보스턴 레드삭스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "혼수 가전 준비 중이라면 주목! LG베스트샵X신한카드 이벤트를 통해 사전 신청 후 결제 시, 추가 지급되는 포인트는 최대 얼마일까요?",
-          "answer": "17만 포인트",
+          "question": "오늘은 월요일! 월요일 깜짝 100원 딜로 CU 편의점에서 슈퍼SOL로 결제하면 get아이스 아메리카노 XL를 얼마에 마실 수 있을까요?",
+          "answer": "100원",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -94,13 +94,19 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 16일",
-      "updatedAt": "2026-08-15T09:20:53.000-07:00",
+      "dateLabel": "8월 17일",
+      "updatedAt": "2026-08-16T09:20:34.000-07:00",
       "items": [
         {
-          "question": "자격이 되어도 내가 직접 신청하지 않으면, 혜택을 받지 못할 수도 있는 복지제도를 OO주의라고 한다",
-          "answer": "신청",
+          "question": "KB스타뱅킹 [자동차] 테마에서 할 수 있는 것이 아닌 것은 무엇일까요?",
+          "answer": "운전 면허 갱신하기",
           "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
           "source": "oneuljupjup"
         }
       ]
