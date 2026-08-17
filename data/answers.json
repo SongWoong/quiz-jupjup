@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:35:31.307Z",
+  "generatedAt": "2026-08-17T13:02:27.742Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 78
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 17일",
-      "updatedAt": "2026-08-17T19:54:00.000+09:00",
+      "updatedAt": "2026-08-17T04:54:52.000-07:00",
       "items": [
         {
           "question": "에이지투웨니스 시그니처 에센스 팩트 인텐스커버 케이스1개+리필2개(14g) 가 캐시딜 단독 할인으로 18,900원+밀착퍼프5매+세라마이드샤쉐 증정+무료배송 으로 진행됩니다. 인텐스 커버팩트는 에센스 OO% 이상 함유된 촉촉한 팩트로 코렉터+광채 베이스+파운데이션을 한번에 담아 빠른 메이크업이 가능합니다. 여기서 OO은 무엇일까요?",
@@ -48,6 +48,48 @@
           "answer": "그린티샷",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "단 3시간 동안 진행되는 \"캐시딜\" 타임특가에서 산과들에 하루견과 20낱봉이 역대급 할인으로 O,OOO원+무료배송에 진행됩니다. 봉당 20g으로 구성된 건강간식 하루견과를 특가에 가져갈 수 있는 바로 오늘! 빈칸에 들어갈 숫자는 무엇일까요?",
+          "answer": "7900",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 무선 전동 에어펌프 PLUS는 자동차, 오토바이, 자전거, 튜브까지 OOO 공기 주입 에어펌프로 불편함을 최소화하기 위해 사용하기 어려운 일반 타입의 에어호스가 아닌 1초만에 결합, 공기 배출까지 빠른 신형 OOO 퀵 에어호스를 제공합니다. OOO에 들어 갈 단어는 무엇일까요? (초성힌트 : ㅇㅌㅊ)",
+          "answer": "원터치",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 무선 전동 에어펌프 PLUS는 공 기준 무려 200개 이상 사용 가능한 OOOOmAh 대용량 배터리를 탑재해 배터리 걱정 없이 사용할 수 있어 매우 편리합니다. OOOO에 들어 갈 숫자는 무엇일까요?",
+          "answer": "7800",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 무선 전동 에어펌프 PLUS는 타제품 대비 강력한 OOOOO 모터를 탑재했으며, 최대 150Psi & 분당 20L 주입이 가능해 자동차 모드 기준으로 약 35% 높은 공기 주입 효율을 자랑합니다. OOOOO에 들어 갈 단어는 무엇일까요? (초성힌트 : ㅎㅇㅂㄹㄷ)",
+          "answer": "하이브리드",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 무선 전동 에어펌프 PLUS는 OOOO 0원, 실시간 공기압 체크가 가능하며 타이어 매장 & 카센터에서 방문 및 추가 비용 없이 스스로 점검이 가능합니다. OOOO에 들어 갈 단어는 무엇일까요? (초성힌트 : ㅈㄱㅂㅇ)",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 무선 전동 에어펌프 PLUS는 무선은 기본, DC충전 기능을 탑재해 충전된 배터리가 없을 땐 OOO을 연결하면 유선사용이 가능합니다. OOO에 들어 갈 단어는 무엇일까요? (초성힌트 : ㅅㄱㅈ)",
+          "answer": "시거잭",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
