@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-18T15:41:28.051Z",
+  "generatedAt": "2026-08-18T16:44:23.046Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 27
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 75
     }
   ],
   "apps": [
@@ -84,18 +84,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 18일",
-      "updatedAt": "2026-08-17T09:15:45.000-07:00",
+      "dateLabel": "8월 19일",
+      "updatedAt": "2026-08-18T09:15:41.000-07:00",
       "items": [
         {
-          "question": "8월 11일 2026 신한 SOL KBO리그가 역대 최소인 505경기 만에 달성한 관중 돌파 기록으로 맞는 것은?",
-          "answer": "900만 관중",
+          "question": "불멸의 4할 타자 백인천 전 감독님께서 별세하셨습니다. 삼가 고인의 명복을 빕니다. 1982년 프로야구 원년 백 감독님이 감독 겸 선수로 뛴 MBC 청룡은 현재 어느 팀의 전신일까요?",
+          "answer": "LG 트윈스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "포인트 적립 서비스와 리필 서비스를 탑재하여 새롭게 출시한 카드 시리즈의 이름은 무엇일까요?",
-          "answer": "Hi-Point Plan",
+          "question": "생활요금 납부 이벤트를 통해 생활요금을 자동 납부하면 추첨을 통해 최대 10만원 캐시백 혜택을 받을 수 있다?",
+          "answer": "X",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -160,20 +160,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 18일",
-      "updatedAt": "2026-08-18T01:02:00.000+09:00",
+      "dateLabel": "8월 19일",
+      "updatedAt": "2026-08-18T09:22:25.000-07:00",
       "items": [
         {
-          "question": "KB Pay KB오토핏 '내 차 관리'에서 확인할 수 없는 유가정보는 무엇일까요?",
-          "answer": "LNG",
+          "question": "KB 조이올팍 페스티벌 티켓 이벤트 진행 중! KB 조이올팍 페스티벌이 열리는 일자가 아닌 것은 언제일까요?",
+          "answer": "9월 21일",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "아파트 거래량이 늘면 집값이 반드시 오른다",
-          "answer": "X",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
