@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:40:47.747Z",
+  "generatedAt": "2026-08-19T07:01:00.762Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 19일",
-      "updatedAt": "2026-08-19T13:54:00.000+09:00",
+      "updatedAt": "2026-08-18T23:55:28.000-07:00",
       "items": [
         {
           "question": "현재 팬마음에서는 2026 OOOOO 투표를 진행하고 있어요. 후보에는 박서진/박지현/강문경 등이 있어요.(초성 힌트: ㅌㄹㅌㅅㅌ)",
@@ -42,6 +42,18 @@
           "answer": "지하철역",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "홍주부 김부각3봉 OOOO원 국내산 김과 찹쌀로 만든 김부각! 김 함량23%로 더욱 고소한맛! 짜지 않고 바삭한 식감!",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
