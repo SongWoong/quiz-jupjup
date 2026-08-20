@@ -1,63 +1,39 @@
 {
-  "generatedAt": "2026-08-19T23:32:29.039Z",
+  "generatedAt": "2026-08-20T01:47:28.136Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 17
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 77
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "8월 19일",
-      "updatedAt": "2026-08-19T20:54:00.000+09:00",
+      "dateLabel": "8월 20일",
+      "updatedAt": "2026-08-20T09:54:00.000+09:00",
       "items": [
         {
-          "question": "현재 팬마음에서는 2026 OOOOO 투표를 진행하고 있어요. 후보에는 박서진/박지현/강문경 등이 있어요.(초성 힌트: ㅌㄹㅌㅅㅌ)",
-          "answer": "트롯탑스타",
+          "question": "배달의민족 OO할인에서는 노랑통닭, bhc, 요거트월드 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㅉ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "배짱",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "팬마음에서 진행 중인 2026 트롯 OOO 1위 투표에서는 1, 2위를 달성한 스타에게 서울 핵심 지하철역 초대형 광고를 선물해드려요.(초성 힌트: ㅌㅅㅌ)",
-          "answer": "탑스타",
+          "question": "배달의민족 배짱할인에서는 OO통닭, bhc, 요거트월드 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㄴㄹ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "노랑",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "팬마음 2026 트롯 탑스타 투표에서는 1위를 달성한 스타에게 유동 인구가 많은 OOOOO에 3중 초대형 광고를 선물해 드려요.(초성 힌트: ㄱㄷㅇㄱㅇ)",
-          "answer": "건대입구역",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "박서진/박지현/강문경 등이 포함된 팬마음 2026 트롯 탑스타 투표에서는 2위를 달성한 스타에게 2주 동안 서울 OOOO 사각기둥 광고를 드려요.(초성 힌트: ㅈㅎㅊㅇ)",
-          "answer": "지하철역",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "홍주부 김부각3봉 OOOO원 국내산 김과 찹쌀로 만든 김부각! 김 함량23%로 더욱 고소한맛! 짜지 않고 바삭한 식감!",
-          "answer": "9900",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "단 3시간 캐시딜 타임특가! OO한나라 순수 프리미엄슈퍼롱 3겹 40m 화장지를 19500원+무료배송 온라인 최저가로 구매할 찬스! 프리미엄급 100%천연펄프, 도톰한 3겹으로 저가 비교불가X 슈퍼롱 40m 길이로 더 오래쓰는 화장지! 8/19 단 3시간만 오직 캐시딜 한정 특가! 3시간 후 정상가로 돌아갑니다✔️ OO에 들어갈 글자는 무엇일까요?",
-          "answer": "깨끗",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "한미양행 인기 건강식품 10종 특가 진행중! 눈건강을 위한 두가지 성분을 함께 담은 제품인 &#x27;눈건강 루테인 OOOO&#x27;도 초특가 할인 중입니다. OOOO에 들어갈 단어는 무엇일까요? (힌트:ㅈㅇㅈㅌ)",
-          "answer": "지아잔틴",
+          "question": "배달의민족 배짱할인에서는 노랑통닭, bhc, OOO월드 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅇㄱㅌ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "요거트",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -86,20 +62,20 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "8월 19일",
-      "updatedAt": "2026-08-19T09:49:00.000+09:00",
+      "dateLabel": "8월 20일",
+      "updatedAt": "2026-08-19T17:51:32.000-07:00",
       "items": [
         {
-          "question": "💚 동국제약 브랜드데이 #무료배송 #4종쿠폰팩지급 #금액별사은품 #구매왕이벤트 🎉 라이브 이벤트 ⏰ 라이브 중 전 구매 고객 인텐시브 리프팅 포뮬러 1매 증정 ⏰ 주문인증 15명 추첨 🎁 메가커피 아메리카노 기프티콘 증정 ⏰ 소통왕 5명 추첨 🎁 말차포어 ㅇㅇㅇㅇㅇ 200ml 증정 ☀️한 장으로 완성하는 쓱싹 선패드 구매하러 가기 →",
-          "answer": "클렌징오일",
+          "question": "\"오늘만! 드리미 리보 가정용 OO분쇄 음식물처리기 특가 찬스✨ 프리미엄 음식물처리기 리보, 효율의 미학, 우아함의 기술! 드리미 리보는 전자파 안전 기준을 충족한 프리미엄 음식물처리기입니다! G마켓 특가 놓치지마세요~!\"",
+          "answer": "건조",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "실내건조 탈취 99%로 꿉꿉함 걱정 없이✨ 세탁조 오염원까지 강력 세정하는 액츠 실내건조 2.7L! 3개를 26,500원에 만나보세요. 실내건조 탈취 99% O중 탈취 성분 함유로 꿉꿉함 없이 상쾌하게! 빈칸에 들어갈 숫자는 무엇일까요?",
-          "answer": "3",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -107,19 +83,13 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 20일",
-      "updatedAt": "2026-08-19T09:22:01.000-07:00",
+      "updatedAt": "2026-08-20T01:02:00.000+09:00",
       "items": [
         {
           "question": "외식비 부담으로 인해 점심 식사를 가볍고 효율적으로 챙기는 방식을 무엇이라고 할까요?",
           "answer": "스내킹",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
