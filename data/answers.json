@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T15:45:05.236Z",
+  "generatedAt": "2026-08-20T16:47:36.537Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 24
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 72
+      "items": 71
     }
   ],
   "apps": [
@@ -66,18 +66,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 20일",
-      "updatedAt": "2026-08-19T09:17:11.000-07:00",
+      "dateLabel": "8월 21일",
+      "updatedAt": "2026-08-20T09:17:31.000-07:00",
       "items": [
         {
-          "question": "한 풀 꺾인 폭염에 KBO 리그 경기 시간이 기존 시간대로 돌아갑니다. 아래 중 8월 25일부터 재조정될 평일 경기 시작시간으로 맞는 것은?",
-          "answer": "오후 6시 30분",
+          "question": "8월 18일 경기에서 시즌 14호 홈런과 함께 KBO 리그 최초 2700안타를 달성한 베테랑 좌타 거포 선수는?",
+          "answer": "최형우",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "리뉴얼된 앱테크 이벤트 체험만 하면 치킨, 아이스크림 기프티콘을 받을 수 있다. 마지막 3회차 경품지급일자는 언제일까요?",
-          "answer": "9월 4일",
+          "question": "단 5일간 진행되는 올여름 뷰티 쇼핑 찬스! 올리브영에서 5만원 이상 구매 시 즉시 할인받을수 있는 금액은 얼마일까요?",
+          "answer": "4천원",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -124,14 +124,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 20일",
-      "updatedAt": "2026-08-20T01:02:00.000+09:00",
+      "dateLabel": "8월 21일",
+      "updatedAt": "2026-08-20T09:22:29.000-07:00",
       "items": [
         {
-          "question": "외식비 부담으로 인해 점심 식사를 가볍고 효율적으로 챙기는 방식을 무엇이라고 할까요?",
-          "answer": "스내킹",
+          "question": "연금저축펀드와 IRP 중 소득과 무관하게 누구나 가입할 수 있는 상품은 무엇일까요?",
+          "answer": "연금저축펀드",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
