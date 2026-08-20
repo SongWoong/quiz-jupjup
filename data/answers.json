@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T07:51:31.122Z",
+  "generatedAt": "2026-08-20T08:51:57.717Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 16
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 75
     }
   ],
   "apps": [
@@ -75,7 +75,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 20일",
-      "updatedAt": "2026-08-20T00:50:12.000-07:00",
+      "updatedAt": "2026-08-20T01:01:39.000-07:00",
       "items": [
         {
           "question": "\"오늘만! 드리미 리보 가정용 OO분쇄 음식물처리기 특가 찬스✨ 프리미엄 음식물처리기 리보, 효율의 미학, 우아함의 기술! 드리미 리보는 전자파 안전 기준을 충족한 프리미엄 음식물처리기입니다! G마켓 특가 놓치지마세요~!\"",
@@ -87,6 +87,12 @@
           "question": "퀴즈",
           "answer": "잠시 후 공개",
           "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "\"✔ 농부가 OO만든 쫀득한 떡+고소한 치즈 조합 6봉 하루특가! 정상가 14,970원 → 11,990원 (단 하루 19% 할인) ✔ 치즈·고구마·핫치즈·옥수수 4가지 맛 선택 ✔ 아이 간식부터 야식까지 간편하게!\"",
+          "answer": "직접",
+          "pending": false,
           "source": "oneuljupjup"
         }
       ]
