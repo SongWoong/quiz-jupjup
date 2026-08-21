@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T23:35:47.673Z",
+  "generatedAt": "2026-08-21T01:53:09.852Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 70
     }
   ],
   "apps": [
@@ -87,7 +87,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 21일",
-      "updatedAt": "2026-08-20T16:31:59.000-07:00",
+      "updatedAt": "2026-08-20T18:48:09.000-07:00",
       "items": [
         {
           "question": "★11번가 단독★ 동국제약 비타민D 2000 IU 1+1 ! 1개월분 2천원대로 비타민D 충전할 찬스 동국제약 비타민D 2000IU는 프리미엄 스위스 DSM사의 체내 흡수율이 높은 활성형 비타민D3 인데요. 1일 영양성분 기준치 500%를 초소형 OO캡슐에 담아, 하루 한 알로 간편하게 섭취하실 수 있습니다.",
@@ -100,6 +100,18 @@
           "answer": "잠시 후 공개",
           "pending": true,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "\"오늘만! 괌 PIC 골드패스 4/5일 특가 찬스✨ (OOOO룸+노팁노쇼핑+하나투어 특전포함) ✅단 하루 49만원대! ✅슈퍼아메리카 서커스 무료 관람 ✅룸 UP + 무제한 액티비티 등 G마켓 혜택 놓치지마세요~!\"",
+          "answer": "슈페리어",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "\"[라이프위크] 선착순 특가 마지막 기회! OOOO, tpe매트 차량용품 특가! 네이버 라이프위크 선착순 특가! 메이튼의 OOOO M은 안드로이드 오토와 카플레이를 무선으로 동시 호환해 주는 인기 차량용품입니다. 라이브 특가 놓치지마세요~!\"",
+          "answer": "오토프로",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -107,19 +119,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 21일",
-      "updatedAt": "2026-08-20T09:22:29.000-07:00",
+      "updatedAt": "2026-08-21T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "이번 '썸머 밸런스 PICK! Vol.3' 혜택으로 제공되는 상품권의 금액은 얼마일까요?",
+          "answer": "1만원",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "연금저축펀드와 IRP 중 소득과 무관하게 누구나 가입할 수 있는 상품은 무엇일까요?",
           "answer": "연금저축펀드",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
