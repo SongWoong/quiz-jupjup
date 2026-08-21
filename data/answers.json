@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T15:43:51.734Z",
+  "generatedAt": "2026-08-21T16:47:31.547Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 21
+      "items": 24
     },
     {
       "name": "luckyquiz3",
@@ -42,18 +42,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 21일",
-      "updatedAt": "2026-08-20T09:17:31.000-07:00",
+      "dateLabel": "8월 22일",
+      "updatedAt": "2026-08-21T09:18:05.000-07:00",
       "items": [
         {
-          "question": "8월 18일 경기에서 시즌 14호 홈런과 함께 KBO 리그 최초 2700안타를 달성한 베테랑 좌타 거포 선수는?",
-          "answer": "최형우",
+          "question": "20일 마이너리그 데뷔전에서 좋은 활약을 보여준 김성준 선수는 광주일고 출신 선수 중 5번째로 미국 프로리그에 진출한 선수입니다. 아래 중 광주일고를 졸업하지 않은 선수는?",
+          "answer": "김하성",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "단 5일간 진행되는 올여름 뷰티 쇼핑 찬스! 올리브영에서 5만원 이상 구매 시 즉시 할인받을수 있는 금액은 얼마일까요?",
-          "answer": "4천원",
+          "question": "디스커버 소탐생활 참여하고 포인트받기! 유명 관광지보다 잘 알려지지 않은 소도시, 대체 도시로 발길을 돌리는 여행 트렌드는 무엇일까요?",
+          "answer": "디투어리즘",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -112,20 +112,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 21일",
-      "updatedAt": "2026-08-21T01:02:00.000+09:00",
+      "dateLabel": "8월 22일",
+      "updatedAt": "2026-08-21T09:20:47.000-07:00",
       "items": [
         {
-          "question": "이번 '썸머 밸런스 PICK! Vol.3' 혜택으로 제공되는 상품권의 금액은 얼마일까요?",
-          "answer": "1만원",
+          "question": "문자로 개인정보 등을 탈취하는 사기 수법인 '스미싱' 위험이 있는 링크를 탐지하면 바로 알려주는 보안서비스의 이름은 무엇일까요?",
+          "answer": "안티스미싱",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "연금저축펀드와 IRP 중 소득과 무관하게 누구나 가입할 수 있는 상품은 무엇일까요?",
-          "answer": "연금저축펀드",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
