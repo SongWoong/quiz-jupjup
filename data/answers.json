@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T15:31:48.113Z",
+  "generatedAt": "2026-08-22T16:36:21.712Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 23
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 63
+      "items": 62
     }
   ],
   "apps": [
@@ -42,18 +42,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 22일",
-      "updatedAt": "2026-08-21T09:18:05.000-07:00",
+      "dateLabel": "8월 23일",
+      "updatedAt": "2026-08-22T09:17:20.000-07:00",
       "items": [
         {
-          "question": "20일 마이너리그 데뷔전에서 좋은 활약을 보여준 김성준 선수는 광주일고 출신 선수 중 5번째로 미국 프로리그에 진출한 선수입니다. 아래 중 광주일고를 졸업하지 않은 선수는?",
-          "answer": "김하성",
+          "question": "2008년 오늘은 올림픽 야구 결승전에서 대한민국이 쿠바를 꺾고 9전 전승으로 올림픽 야구 사상 첫 금메달을 획득한 날입니다. 당시 올림픽은 어느 도시에서 개최되었을까요?",
+          "answer": "베이징",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "디스커버 소탐생활 참여하고 포인트받기! 유명 관광지보다 잘 알려지지 않은 소도시, 대체 도시로 발길을 돌리는 여행 트렌드는 무엇일까요?",
-          "answer": "디투어리즘",
+          "question": "다음 중 신한 슈퍼SOL 공차 이벤트 혜택으로 올바른 것은?",
+          "answer": "마이신한포인트 5천P 적립",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -112,20 +112,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 22일",
-      "updatedAt": "2026-08-22T01:02:00.000+09:00",
+      "dateLabel": "8월 23일",
+      "updatedAt": "2026-08-22T09:21:58.000-07:00",
       "items": [
         {
-          "question": "올여름 7일간 진행되는 KB Pay 여행 유심사 해외데이터 50% 할인 기간은 언제일까요?",
-          "answer": "8월 18일 ~ 8월 24일",
+          "question": "OO는 24절기 중 14번째 절기로 더위가 물러가고, 가을 기운이 시작되는 시기입니다",
+          "answer": "처서",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "문자로 개인정보 등을 탈취하는 사기 수법인 '스미싱' 위험이 있는 링크를 탐지하면 바로 알려주는 보안서비스의 이름은 무엇일까요?",
-          "answer": "안티스미싱",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
