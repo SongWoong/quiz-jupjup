@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T23:34:10.248Z",
+  "generatedAt": "2026-08-22T01:46:08.310Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 63
+      "items": 64
     }
   ],
   "apps": [
@@ -113,19 +113,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 22일",
-      "updatedAt": "2026-08-21T09:20:47.000-07:00",
+      "updatedAt": "2026-08-22T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "올여름 7일간 진행되는 KB Pay 여행 유심사 해외데이터 50% 할인 기간은 언제일까요?",
+          "answer": "8월 18일 ~ 8월 24일",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "문자로 개인정보 등을 탈취하는 사기 수법인 '스미싱' 위험이 있는 링크를 탐지하면 바로 알려주는 보안서비스의 이름은 무엇일까요?",
           "answer": "안티스미싱",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
