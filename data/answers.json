@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T03:03:41.251Z",
+  "generatedAt": "2026-08-22T03:52:24.511Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 22
+      "items": 21
     },
     {
       "name": "luckyquiz3",
@@ -133,19 +133,13 @@
       "id": "okcashbag",
       "label": "OK캐쉬백",
       "dateLabel": "8월 22일",
-      "updatedAt": "2026-08-21T20:00:01.000-07:00",
+      "updatedAt": "2026-08-22T11:58:00.000+09:00",
       "items": [
         {
-          "question": "8/22 오후 12시 CJ온스타일 티니핑 콜라보 키링 타월 특가 이벤트! 프린세스 캐치티니핑과 '홈리빙 브랜드 ㅇㅅㅅ'의 만남!",
-          "answer": "잠시 후 공개",
-          "pending": true,
+          "question": "8/22 오후 12시 CJ온스타일 티니핑 콜라보 키링 타월 특가 이벤트! 프린세스 캐치티니핑과 &#x27;홈리빙 브랜드 ㅇㅅㅅ&#x27;의 만남!",
+          "answer": "앳센셜",
+          "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
         }
       ]
     }
