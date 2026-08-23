@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T23:30:56.860Z",
+  "generatedAt": "2026-08-23T01:56:17.023Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 23
+      "items": 21
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 62
+      "items": 63
     }
   ],
   "apps": [
@@ -113,31 +113,31 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 23일",
-      "updatedAt": "2026-08-22T09:21:58.000-07:00",
+      "updatedAt": "2026-08-23T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "'가을 새학기 준비' 이벤트의 당첨 경품이 아닌 것은 무엇일까요?",
+          "answer": "아이폰 17 Pro",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "OO는 24절기 중 14번째 절기로 더위가 물러가고, 가을 기운이 시작되는 시기입니다",
           "answer": "처서",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "okcashbag",
       "label": "OK캐쉬백",
-      "dateLabel": "8월 22일",
-      "updatedAt": "2026-08-22T11:58:00.000+09:00",
+      "dateLabel": "8월 23일",
+      "updatedAt": "2026-08-23T09:58:00.000+09:00",
       "items": [
         {
-          "question": "8/22 오후 12시 CJ온스타일 티니핑 콜라보 키링 타월 특가 이벤트! 프린세스 캐치티니핑과 &#x27;홈리빙 브랜드 ㅇㅅㅅ&#x27;의 만남!",
-          "answer": "앳센셜",
+          "question": "8/23 오전 10시 앳센셜 시그니처 타월 공구 특가! 일반 타월 사이즈보다 ○○cm 더 긴 90cm 사이즈로 더 포근하게!",
+          "answer": "10",
           "pending": false,
           "source": "luckyquiz3"
         }
