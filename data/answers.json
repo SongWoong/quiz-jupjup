@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T06:56:52.096Z",
+  "generatedAt": "2026-08-23T07:42:59.179Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 62
+      "items": 63
     }
   ],
   "apps": [
@@ -17,13 +17,13 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 23일",
-      "updatedAt": "2026-08-22T23:55:10.000-07:00",
+      "updatedAt": "2026-08-23T15:54:00.000+09:00",
       "items": [
         {
-          "question": "퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "두부과자 5봉 OOOO원 특가 오븐에 구워 더욱 바삭한 식감! 계속 손이 가는 담백한 맛! 국산콩 두부함량 25% 가볍게 즐기는 두부과자",
+          "answer": "8900",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
