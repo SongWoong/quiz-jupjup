@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T15:32:32.856Z",
+  "generatedAt": "2026-08-23T16:37:39.830Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 63
+      "items": 61
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 23일",
-      "updatedAt": "2026-08-22T09:17:20.000-07:00",
+      "dateLabel": "8월 24일",
+      "updatedAt": "2026-08-23T09:16:34.000-07:00",
       "items": [
         {
-          "question": "2008년 오늘은 올림픽 야구 결승전에서 대한민국이 쿠바를 꺾고 9전 전승으로 올림픽 야구 사상 첫 금메달을 획득한 날입니다. 당시 올림픽은 어느 도시에서 개최되었을까요?",
-          "answer": "베이징",
+          "question": "SSG 박성한 개막 22경기 연속안타, KIA 김선빈 팀 통산 최다 안타, 삼성 김백산 첫 승 달성 시 해당 선수들이 특별한 기쁨을 동료와 나누기 위해 준비했던 음식은?",
+          "answer": "피자",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "다음 중 신한 슈퍼SOL 공차 이벤트 혜택으로 올바른 것은?",
-          "answer": "마이신한포인트 5천P 적립",
+          "question": "온가족이 함께 즐기는 제25회 꼬마피카소 그림축제 행사일은 언제일까요?",
+          "answer": "9월 19일",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -100,20 +100,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 23일",
-      "updatedAt": "2026-08-23T01:02:00.000+09:00",
+      "dateLabel": "8월 24일",
+      "updatedAt": "2026-08-23T09:21:19.000-07:00",
       "items": [
         {
-          "question": "'가을 새학기 준비' 이벤트의 당첨 경품이 아닌 것은 무엇일까요?",
-          "answer": "아이폰 17 Pro",
+          "question": "퇴직연금은 실제 수령할 때 세금을 내는 OOOO 구조이다.",
+          "answer": "과세이연",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "OO는 24절기 중 14번째 절기로 더위가 물러가고, 가을 기운이 시작되는 시기입니다",
-          "answer": "처서",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
