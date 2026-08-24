@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T15:51:17.164Z",
+  "generatedAt": "2026-08-24T16:51:38.166Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 17
+      "items": 21
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 59
+      "items": 60
     }
   ],
   "apps": [
@@ -66,18 +66,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-23T09:16:34.000-07:00",
+      "dateLabel": "8월 25일",
+      "updatedAt": "2026-08-24T09:16:03.000-07:00",
       "items": [
         {
-          "question": "SSG 박성한 개막 22경기 연속안타, KIA 김선빈 팀 통산 최다 안타, 삼성 김백산 첫 승 달성 시 해당 선수들이 특별한 기쁨을 동료와 나누기 위해 준비했던 음식은?",
-          "answer": "피자",
+          "question": "KIA 김도영 선수가 개인 최다 홈런 타이를 기록하며 최연소 시즌 40홈런 돌파를 눈앞에 두게 되었습니다. 현재 해당 기록 보유 선수는 아래 중 누구일까요?",
+          "answer": "이승엽",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "온가족이 함께 즐기는 제25회 꼬마피카소 그림축제 행사일은 언제일까요?",
-          "answer": "9월 19일",
+          "question": "새로워진 신한 슈퍼SOL을 설치한 고객 대상으로 추첨을 통해 증정하는 이벤트 경품은 무엇일까요?",
+          "answer": "다이슨 슈퍼소닉 r",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -118,20 +118,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-24T01:02:00.000+09:00",
+      "dateLabel": "8월 25일",
+      "updatedAt": "2026-08-24T09:20:33.000-07:00",
       "items": [
         {
-          "question": "KB Pay '바로할인' 서비스로 제휴 브랜드에서 최대 몇 % 할인을 받을 수 있을까요?",
-          "answer": "7%",
+          "question": "SM 아티스트와 함께 달리고 공연도 즐길 수 있는 SMRUN 26 티켓 오픈! 행사가 열리는 장소는 어디일까요?",
+          "answer": "인천",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "퇴직연금은 실제 수령할 때 세금을 내는 OOOO 구조이다.",
-          "answer": "과세이연",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
