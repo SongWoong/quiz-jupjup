@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T08:59:35.882Z",
+  "generatedAt": "2026-08-24T09:58:34.378Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 19
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 63
+      "items": 61
     }
   ],
   "apps": [
@@ -81,7 +81,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-23T18:02:08.000-07:00",
+      "updatedAt": "2026-08-24T02:47:17.000-07:00",
       "items": [
         {
           "question": "퀴즈",
