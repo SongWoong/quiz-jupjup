@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T10:48:58.008Z",
+  "generatedAt": "2026-08-24T11:38:41.424Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 19
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 61
+      "items": 62
     }
   ],
   "apps": [
@@ -81,7 +81,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-24T03:47:40.000-07:00",
+      "updatedAt": "2026-08-24T19:46:00.000+09:00",
       "items": [
         {
           "question": "퀴즈",
@@ -98,6 +98,12 @@
         {
           "question": "\"대용량 OO세제 액츠 수퍼클린 찌든때 5.7L 2개 겸용 단하루 24,900원! ✅복합 효소로 찌든 때 강력 제거 ✅찬물에도 100% 용해되는 세척력 ✅컬러케어 및 화이트닝 효과 ✅편리한 펌프 타입 용기\"",
           "answer": "액체",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "\"✔ 100% OO원사로 시원한 착용감 ✔ 자외선 차단 기능까지 갖춘 여름 필수템 ✔ 무지 반팔 티셔츠 3장 세트 (1+1+1) 정상가 49,600원 → 9,900원 🔥 단 하루 80% 할인 쇼츠딜 특가!\"",
+          "answer": "냉감",
           "pending": false,
           "source": "luckyquiz3"
         }
