@@ -1,29 +1,41 @@
 {
-  "generatedAt": "2026-08-23T23:31:44.406Z",
+  "generatedAt": "2026-08-24T01:53:52.980Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 22
+      "items": 21
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 61
+      "items": 64
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "8월 23일",
-      "updatedAt": "2026-08-23T15:54:00.000+09:00",
+      "dateLabel": "8월 24일",
+      "updatedAt": "2026-08-23T18:52:49.000-07:00",
       "items": [
         {
-          "question": "두부과자 5봉 OOOO원 특가 오븐에 구워 더욱 바삭한 식감! 계속 손이 가는 담백한 맛! 국산콩 두부함량 25% 가볍게 즐기는 두부과자",
-          "answer": "8900",
+          "question": "똑같이 먹었는데 나만 찌는 것 같다면? 소휘를 챙길 타이밍!⏰딱 7일만! 소휘 전제품 2+1에 사은품까지🎁 더부룩하고 답답한 속엔 소화효소, 쌓인 묵직함 편안하게 비우는 푸룬구미, 식후 쏟아지는 잠 해결하는 애사비구미, 기름진 식후 1포로 가벼워지는 그린티샷, OO대신 부담없는 무카페인 펌킨샷까지! 여기서 OO은? (힌트 : ㅋㅍ)",
+          "answer": "커피",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "오직 이번주만 1개 15,000원 최저가💜 탈모 증상 완화 기능성을 인정받은 탈모앰플로 시간을 거슬러 보세요⏰ 식약처 인정받은 3가지 기능성 성분과 ㅇㅇㅇㅇ 52.7% 개선 등 인체적용시험 다수를 통과한 제품입니다! ㅇㅇㅇㅇ에 들어갈 단어는? (힌트 : ㅁㅂㅃㅈ)",
+          "answer": "모발빠짐",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -50,15 +62,9 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "8월 21일",
-      "updatedAt": "2026-08-21T18:46:00.000+09:00",
+      "dateLabel": "8월 24일",
+      "updatedAt": "2026-08-23T18:02:08.000-07:00",
       "items": [
-        {
-          "question": "★11번가 단독★ 동국제약 비타민D 2000 IU 1+1 ! 1개월분 2천원대로 비타민D 충전할 찬스 동국제약 비타민D 2000IU는 프리미엄 스위스 DSM사의 체내 흡수율이 높은 활성형 비타민D3 인데요. 1일 영양성분 기준치 500%를 초소형 OO캡슐에 담아, 하루 한 알로 간편하게 섭취하실 수 있습니다.",
-          "answer": "미니",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
         {
           "question": "퀴즈",
           "answer": "잠시 후 공개",
@@ -66,34 +72,10 @@
           "source": "oneuljupjup"
         },
         {
-          "question": "\"오늘만! 괌 PIC 골드패스 4/5일 특가 찬스✨ (OOOO룸+노팁노쇼핑+하나투어 특전포함) ✅단 하루 49만원대! ✅슈퍼아메리카 서커스 무료 관람 ✅룸 UP + 무제한 액티비티 등 G마켓 혜택 놓치지마세요~!\"",
-          "answer": "슈페리어",
+          "question": "💚 동국제약 🎉 라이브 이벤트 ⏰ 라이브 중 전 구매 고객 톤브라이트닝 포뮬러 1매 증정 ⏰ 라이브 중 3만원 이상 구매 고객 톤브라이트닝 포뮬러 1매 추가증정 ⏰ 주문인증 5명 추첨 🎁 마데카크림 ㅇㅇㅇㅇㅇ기획 증정 ⏰ 소통왕 5명 추첨 🎁 마데카크림 타임리버스 기획 증정 ✨ 하나만 발라도 촉촉하게 올인원 케어 구매하러 가기 →",
+          "answer": "타임리버스",
           "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "\"[라이프위크] 선착순 특가 마지막 기회! OOOO, tpe매트 차량용품 특가! 네이버 라이프위크 선착순 특가! 메이튼의 OOOO M은 안드로이드 오토와 카플레이를 무선으로 동시 호환해 주는 인기 차량용품입니다. 라이브 특가 놓치지마세요~!\"",
-          "answer": "오토프로",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "\"출근룩부터 데일리룩까지 활용 GOOD! OOFW 닥스 소가죽 브라운 체크 토트백🤎오늘만 52% 할인! 고급스러운 체크 패턴으로 하객룩에도 잘어울려요🤎 수납력을 위한 미니 파우치 추가 증정까지✨ 정답은 무엇일까요?\"",
-          "answer": "25",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "OOOO 폭발! 게이밍 기어 3종 특가! 💻 MSI 게이밍노트북 ✔️ 게임부터 작업까지 폭넓게 활용 가능한 게이밍 노트북 🖥️ 삼성 오디세이 32인치 게이밍모니터 ・그래픽카드의 퍼포먼스를 제대로 끌어내는 몰입감 🎧 앤커 사운드코어 무선 이어폰 ・노이즈캔슬링으로 주변 소음은 DOWN 몰입감 UP",
-          "answer": "퍼포먼스",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "\"WHIFF OO제거 다용도 탈취제 300g 4개 단하루 48,320원! ✅OO 원인을 정리하는 근본 탈취 ✅넓은 공간까지 안정적으로 퍼지는 발향 ✅걱정없이 믿고 사용할 수 있는 검증된 성분 배합\"",
-          "answer": "악취",
-          "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -101,19 +83,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-23T09:21:19.000-07:00",
+      "updatedAt": "2026-08-24T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "KB Pay '바로할인' 서비스로 제휴 브랜드에서 최대 몇 % 할인을 받을 수 있을까요?",
+          "answer": "7%",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "퇴직연금은 실제 수령할 때 세금을 내는 OOOO 구조이다.",
           "answer": "과세이연",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
