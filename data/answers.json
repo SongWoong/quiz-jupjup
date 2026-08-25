@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-25T15:54:42.193Z",
+  "generatedAt": "2026-08-25T16:50:46.477Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 15
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 58
+      "items": 59
     }
   ],
   "apps": [
@@ -66,18 +66,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 25일",
-      "updatedAt": "2026-08-24T09:16:03.000-07:00",
+      "dateLabel": "8월 26일",
+      "updatedAt": "2026-08-25T09:15:50.000-07:00",
       "items": [
         {
-          "question": "KIA 김도영 선수가 개인 최다 홈런 타이를 기록하며 최연소 시즌 40홈런 돌파를 눈앞에 두게 되었습니다. 현재 해당 기록 보유 선수는 아래 중 누구일까요?",
-          "answer": "이승엽",
+          "question": "아시안게임 한국 야구대표팀 코치진 구성이 완료되었습니다. 대표팀 류지현 감독은 선수, 코치, 감독까지 한 팀에서만 활동한 대표적인 원클럽맨입니다. 아래 중 어느 팀에서 주로 활동했을까요?",
+          "answer": "LG트윈스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "새로워진 신한 슈퍼SOL을 설치한 고객 대상으로 추첨을 통해 증정하는 이벤트 경품은 무엇일까요?",
-          "answer": "다이슨 슈퍼소닉 r",
+          "question": "메가MGC커피에서 신한 슈퍼SOL로 1천원 이상 결제 시, 받을 수 있는 마이신한포인트는 최대 얼마일까요?",
+          "answer": "1,000P",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -118,14 +118,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 25일",
-      "updatedAt": "2026-08-25T01:02:00.000+09:00",
+      "dateLabel": "8월 26일",
+      "updatedAt": "2026-08-25T09:22:36.000-07:00",
       "items": [
         {
-          "question": "SM 아티스트와 함께 달리고 공연도 즐길 수 있는 SMRUN 26 티켓 오픈! 행사가 열리는 장소는 어디일까요?",
-          "answer": "인천",
+          "question": "보증금을 돌려받지 못했을 때 전세 피해 상담을 받을 수 있는 곳은 어디일까요?",
+          "answer": "전세사기 피해지원센터",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
