@@ -1,65 +1,29 @@
 {
-  "generatedAt": "2026-08-24T23:31:20.215Z",
+  "generatedAt": "2026-08-25T01:48:00.175Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 21
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 60
+      "items": 58
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-24T20:54:00.000+09:00",
+      "dateLabel": "8월 25일",
+      "updatedAt": "2026-08-24T18:01:12.000-07:00",
       "items": [
         {
-          "question": "똑같이 먹었는데 나만 찌는 것 같다면? 소휘를 챙길 타이밍!⏰딱 7일만! 소휘 전제품 2+1에 사은품까지🎁 더부룩하고 답답한 속엔 소화효소, 쌓인 묵직함 편안하게 비우는 푸룬구미, 식후 쏟아지는 잠 해결하는 애사비구미, 기름진 식후 1포로 가벼워지는 그린티샷, OO대신 부담없는 무카페인 펌킨샷까지! 여기서 OO은? (힌트 : ㅋㅍ)",
-          "answer": "커피",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "오직 이번주만 1개 15,000원 최저가💜 탈모 증상 완화 기능성을 인정받은 탈모앰플로 시간을 거슬러 보세요⏰ 식약처 인정받은 3가지 기능성 성분과 ㅇㅇㅇㅇ 52.7% 개선 등 인체적용시험 다수를 통과한 제품입니다! ㅇㅇㅇㅇ에 들어갈 단어는? (힌트 : ㅁㅂㅃㅈ)",
-          "answer": "모발빠짐",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "네이버플러스 스토어 오늘끝딜은 매일 O번, 4시간 타임딜이 진행됩니다. O에 들어갈 숫자는 무엇일까요?",
-          "answer": "6",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "이벤트 한정수량💣푸드위크 저당 토마토 파스타 소스 45% 할인 OPEN (※한정수량 마감시 종료) 💬 \"저당인데 맛까지 있네요~ 양도 많고 가성비 최고~^^\" 리얼마이즈 저당 토마토 파스타 소스는 설탕 대신 천연감미료 알룰로스로 단 맛을 내고 OOOO O은 덜어냈어요. 맛은 그대로, 부담만 줄였습니다. OOOOO은 무엇일까요? (힌트:ㅂㅍㅇㅎㄷ)",
-          "answer": "불필요한당",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "[단독 최저가] 저당 검은콩두유🔥 캐시딜 브랜드전에서만 [41%+10%할인]🎁 원액두유 함량 96%, 당류 단 0.8g【소이비랩 검은콩두유 단독최저가】로 만나보세요! ★1팩 436원 + 무료배송★ 소이비랩 검은콩두유만의 KEY POINT는? OOOO O은 빼고, 달콤함은 그대로 살렸답니다! OOOOO은 무엇일까요? (초성힌트 : ㅂㅍㅇㅎㄷ)",
-          "answer": "불필요한당",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "에이지투웨니스 3D 터치 하이커버 블랙라벨 쿠션 본품1개+리필2개(13g) 가 캐시딜 단독 할인으로 29,000원+무료배송 으로 진행됩니다. 터치 블랙쿠션은 결점 없이 완벽하고 화사한 피부를 표현해 주는 100시간 OO 커버 쿠션입니다. 여기서 OO은 무엇일까요?(힌트 : ㄱㅁ )",
-          "answer": "기미",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "액체세제 원조 액츠 파워젤 2L 4개 (총 8L)가 단 3시간 동안 진행되는 &#x27;제로딜&#x27; 타임특가로 OO,OOO원+무료배송에 진행됩니다.",
-          "answer": "17900",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "밥 먹고 졸린데 또 달달한 간식까지 땡긴다면? 1알로 스파이크 잡는 소휘 애사비구미🔥사은품 100% 증정🔥 유기농 애사비 한샷을 구미 1알에 꽉 채운 소휘 애사비 구미는 핵심으로 OO% 가득 채웠어요 🍎말티톨, 물엿, 젤라틴 무첨가 비건구미입니다. 소휘 애사비구미로 입터짐부터 스파이크까지 한번에 관리하세요 여기서 OO는? (힌트 : 숫자)",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -86,32 +50,20 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "8월 24일",
-      "updatedAt": "2026-08-24T19:46:00.000+09:00",
+      "dateLabel": "8월 25일",
+      "updatedAt": "2026-08-24T16:50:00.000-07:00",
       "items": [
+        {
+          "question": "\"온 가족 건강을 위한! 배 OO% + 도라지 14.8% \"\"진한 배도라지즙\"\" > 부드러운 목넘김 중탕 추출 > 국산 도라지 + HACCP 인증\"",
+          "answer": "84",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "퀴즈",
           "answer": "잠시 후 공개",
           "pending": true,
           "source": "oneuljupjup"
-        },
-        {
-          "question": "💚 동국제약 🎉 라이브 이벤트 ⏰ 라이브 중 전 구매 고객 톤브라이트닝 포뮬러 1매 증정 ⏰ 라이브 중 3만원 이상 구매 고객 톤브라이트닝 포뮬러 1매 추가증정 ⏰ 주문인증 5명 추첨 🎁 마데카크림 ㅇㅇㅇㅇㅇ기획 증정 ⏰ 소통왕 5명 추첨 🎁 마데카크림 타임리버스 기획 증정 ✨ 하나만 발라도 촉촉하게 올인원 케어 구매하러 가기 →",
-          "answer": "타임리버스",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "\"대용량 OO세제 액츠 수퍼클린 찌든때 5.7L 2개 겸용 단하루 24,900원! ✅복합 효소로 찌든 때 강력 제거 ✅찬물에도 100% 용해되는 세척력 ✅컬러케어 및 화이트닝 효과 ✅편리한 펌프 타입 용기\"",
-          "answer": "액체",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "\"✔ 100% OO원사로 시원한 착용감 ✔ 자외선 차단 기능까지 갖춘 여름 필수템 ✔ 무지 반팔 티셔츠 3장 세트 (1+1+1) 정상가 49,600원 → 9,900원 🔥 단 하루 80% 할인 쇼츠딜 특가!\"",
-          "answer": "냉감",
-          "pending": false,
-          "source": "luckyquiz3"
         }
       ]
     },
@@ -119,31 +71,25 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 25일",
-      "updatedAt": "2026-08-24T09:20:33.000-07:00",
+      "updatedAt": "2026-08-25T01:02:00.000+09:00",
       "items": [
         {
           "question": "SM 아티스트와 함께 달리고 공연도 즐길 수 있는 SMRUN 26 티켓 오픈! 행사가 열리는 장소는 어디일까요?",
           "answer": "인천",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "okcashbag",
       "label": "OK캐쉬백",
-      "dateLabel": "8월 23일",
-      "updatedAt": "2026-08-23T09:58:00.000+09:00",
+      "dateLabel": "8월 25일",
+      "updatedAt": "2026-08-25T09:28:00.000+09:00",
       "items": [
         {
-          "question": "8/23 오전 10시 앳센셜 시그니처 타월 공구 특가! 일반 타월 사이즈보다 ○○cm 더 긴 90cm 사이즈로 더 포근하게!",
-          "answer": "10",
+          "question": "8/25 오전 9시20분 그랜드 론칭! 감각적인 순간들로 완성하는 26FALL, 안은진 브랜드의 이름은? 셀렙샵 ㅇㄷㅅ",
+          "answer": "에디션",
           "pending": false,
           "source": "luckyquiz3"
         }
