@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T09:53:18.401Z",
+  "generatedAt": "2026-08-26T10:47:41.242Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 15
+      "items": 14
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 64
+      "items": 65
     }
   ],
   "apps": [
@@ -93,7 +93,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 26일",
-      "updatedAt": "2026-08-26T02:50:07.000-07:00",
+      "updatedAt": "2026-08-26T18:49:00.000+09:00",
       "items": [
         {
           "question": "\"오늘만! 2PACK 원더바스 레몬청 팩 클렌저 허니레몬 특가✨ 각질은 걷어내고 OO으로 꽉-채우는 레몬쏙촉 버블팩클렌저! 마누카꿀 추출물 보습광채! 자동미세버블! G마켓 특가 놓치지마세요~!\"",
@@ -108,10 +108,10 @@
           "source": "luckyquiz3"
         },
         {
-          "question": "퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "\"오늘만! CJ 스팸 라이트 12호 5개 + OOO 나트륨 낮춰 부담 없는 스팸 라이트! 5개 선물세트 12만원대 특가! G마켓 특가 놓치지마세요~!\"",
+          "answer": "쇼핑백",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
