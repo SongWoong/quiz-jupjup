@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T14:57:03.311Z",
+  "generatedAt": "2026-08-26T16:32:16.751Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 14
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 65
+      "items": 66
     }
   ],
   "apps": [
@@ -78,18 +78,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 26일",
-      "updatedAt": "2026-08-25T09:15:50.000-07:00",
+      "dateLabel": "8월 27일",
+      "updatedAt": "2026-08-26T09:16:46.000-07:00",
       "items": [
         {
-          "question": "아시안게임 한국 야구대표팀 코치진 구성이 완료되었습니다. 대표팀 류지현 감독은 선수, 코치, 감독까지 한 팀에서만 활동한 대표적인 원클럽맨입니다. 아래 중 어느 팀에서 주로 활동했을까요?",
-          "answer": "LG트윈스",
+          "question": "아래 선수 중 8월 25일 경기에서 올해 처음이자 KBO 리그 통산 33번째 사이클링 히트를 기록한 선수는?",
+          "answer": "오스틴 딘",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "메가MGC커피에서 신한 슈퍼SOL로 1천원 이상 결제 시, 받을 수 있는 마이신한포인트는 최대 얼마일까요?",
-          "answer": "1,000P",
+          "question": "신한카드 콘텐츠 서비스인 디스커버에서 소개한 요즘 사람들이 자신을 표현하기 위해 수집하는 것은?",
+          "answer": "경험",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -124,14 +124,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 26일",
-      "updatedAt": "2026-08-26T01:02:00.000+09:00",
+      "dateLabel": "8월 27일",
+      "updatedAt": "2026-08-26T09:21:22.000-07:00",
       "items": [
         {
-          "question": "보증금을 돌려받지 못했을 때 전세 피해 상담을 받을 수 있는 곳은 어디일까요?",
-          "answer": "전세사기 피해지원센터",
+          "question": "스타뱅킹 결제 서비스의 내용으로 틀린 것은 무엇일까요?",
+          "answer": "결제한도 1회/1일 100만원",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
