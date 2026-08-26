@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T08:57:13.744Z",
+  "generatedAt": "2026-08-26T09:53:18.401Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 17
+      "items": 15
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 61
+      "items": 64
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 26일",
-      "updatedAt": "2026-08-26T01:55:52.000-07:00",
+      "updatedAt": "2026-08-26T17:54:00.000+09:00",
       "items": [
         {
           "question": "잠을 자도 피곤할땐, 비타민B 1포면 지금 피로 바로 삭제!푸드루트 비타민B🚨 3+3 65%할인 행사🚨 활력비타민B는 활력을 위한 비타민B군 8종을 1포에 담았으며 까다롭게 선별한 DSM사 프리미엄 비타민B만 함유했습니다. 불필요한 첨가물은 최대한 배제하고 O없이 언제 어디서나 섭취 가능한 비타민B를 즐겨보세요!여기서 O은? (힌트:ㅁ)",
@@ -66,12 +66,6 @@
           "answer": "쌀가루",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
         }
       ]
     },
@@ -99,7 +93,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "8월 26일",
-      "updatedAt": "2026-08-26T10:49:00.000+09:00",
+      "updatedAt": "2026-08-26T02:50:07.000-07:00",
       "items": [
         {
           "question": "\"오늘만! 2PACK 원더바스 레몬청 팩 클렌저 허니레몬 특가✨ 각질은 걷어내고 OO으로 꽉-채우는 레몬쏙촉 버블팩클렌저! 마누카꿀 추출물 보습광채! 자동미세버블! G마켓 특가 놓치지마세요~!\"",
@@ -112,6 +106,12 @@
           "answer": "유아동",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
