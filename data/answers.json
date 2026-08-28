@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-28T05:19:19.364Z",
+  "generatedAt": "2026-08-28T18:35:32.661Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 61
+      "items": 64
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "8월 28일",
-      "updatedAt": "2026-08-28T10:54:00.000+09:00",
+      "updatedAt": "2026-08-28T20:54:00.000+09:00",
       "items": [
         {
           "question": "네이버플러스 스토어 오늘끝딜은 매일 O번, 4시간 타임딜이 진행됩니다. O에 들어갈 숫자는 무엇일까요?",
@@ -30,24 +30,48 @@
           "answer": "알갱이",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "기프또 앱에 가입하면 받은 복권으로 로또 또는 ○○○○○ 복권에 응모할 수 있습니다. ○○○○○에 들어갈 단어는 무엇일까요? (초성 힌트: ㅁㄱㅁㄹㅇ)",
+          "answer": "메가밀리언",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "현재 주문 폭주🚨대용량 저당 토마토 파스타 소스 45% 할인 종료임박❗ 맛있는 소스일수록 당은 올라가고 당을 줄이면 맛이 아쉬우셨나요? 그래서 리얼마이즈가 만들었어요! 설탕 대신 알룰로스로 OO OOO, 당 부담은 낮춘 저당 토마토 파스타 소스 리얼마이즈와 함께 식단관리 중에도 맛있게 즐겨요! OOOOO은 무엇일까요? (힌트: ㅁㅇㄱㄷㄹ)",
+          "answer": "맛은그대로",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "아이들이 안전한 보금자리에서 지낼 수 있도록! 이번 크라우드펀딩은 우리하도지역아동센터의 새로운 보금자리를 위한 노후 OOO 교체를 목적으로 진행됩니다. 빈칸에 들어갈 글자는 무엇일까요? (초성 힌트: ㄱㅈㅈ)",
+          "answer": "기자재",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "에이지투웨니스 에센스 커버팩트 더블루밍 본품1개+리필2개(14g) 가 캐시딜 단독 할인으로 35,900원+(클렌징티슈+에어퍼프2매+쇼핑백 증정)+무료배송 으로 진행됩니다. 블루밍 커버팩트는 최대 75% 로즈 OOO 에센스 함유로, 다변화하는 날씨 컨디션에도 반짝이고 생기있는 피부 메이크업을 완성합니다. 여기서 OOO은 무엇일까요?(힌트 : ㅋㄹㄱ)",
+          "answer": "콜라겐",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 28일",
-      "updatedAt": "2026-08-27T09:17:36.000-07:00",
+      "dateLabel": "8월 29일",
+      "updatedAt": "2026-08-28T09:16:26.000-07:00",
       "items": [
         {
-          "question": "유난히 특정 팀에 어려움을 겪는 투수들이 있습니다. 아래 중 26일 NC를 상대로 무려 2975일만에 승리를 거둔 투수는?",
-          "answer": "임찬규",
+          "question": "MLB 소식입니다. 김하성 선수가 2경기 연속안타를 기록하며 상승세를 보였습니다. 아래 중 현재까지 김 선수가 속했던 메이저리그 구단이 아닌 것은?",
+          "answer": "디트로이트 타이거스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "SOL페이에 계좌 등록만 하면 결제부터 송금 까지 간편하게 이용할 수 있는 서비스는?",
-          "answer": "오픈뱅킹",
+          "question": "'지켜드림'은 중/장년 고객의 어떤 피해를 예방하고 보상하는 서비스일까요?",
+          "answer": "보이스피싱, 카드 분실 피해",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -70,14 +94,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 28일",
-      "updatedAt": "2026-08-28T01:02:00.000+09:00",
+      "dateLabel": "8월 29일",
+      "updatedAt": "2026-08-28T09:20:51.000-07:00",
       "items": [
         {
-          "question": "매일 자동이체 펀드의 장점으로 틀린 것은 무엇일까요?",
-          "answer": "4 원금 보장",
+          "question": "도수치료의 기본적인 횟수 제한은 주 O회이다",
+          "answer": "2",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
