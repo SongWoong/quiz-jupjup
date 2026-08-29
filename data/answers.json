@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T18:35:32.661Z",
+  "generatedAt": "2026-08-29T02:06:37.864Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "name": "luckyquiz3",
@@ -16,42 +16,12 @@
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "8월 28일",
-      "updatedAt": "2026-08-28T20:54:00.000+09:00",
+      "dateLabel": "8월 29일",
+      "updatedAt": "2026-08-29T10:54:00.000+09:00",
       "items": [
         {
           "question": "네이버플러스 스토어 오늘끝딜은 매일 O번, 4시간 타임딜이 진행됩니다. O에 들어갈 숫자는 무엇일까요?",
           "answer": "6",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "⏰【온라인최저가&단독구성 종료임박】 오직 캐시딜 브랜드전에서만! 리얼마이즈 저당 땅콩버터 세트 [56% + 10%쿠폰] 할인중 지금 바로 <온라인최저가&단독구성>으로 만나보세요! 취향에 따라 즐기는 리얼마이즈 땅콩버터! 고소한 땅콩버터 속 땅콩 OOO가 오독오독! 크런치 소프트 타입을 만나보세요. OOO은 무엇일까요? (힌트:ㅇㄱㅇ)",
-          "answer": "알갱이",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "기프또 앱에 가입하면 받은 복권으로 로또 또는 ○○○○○ 복권에 응모할 수 있습니다. ○○○○○에 들어갈 단어는 무엇일까요? (초성 힌트: ㅁㄱㅁㄹㅇ)",
-          "answer": "메가밀리언",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "현재 주문 폭주🚨대용량 저당 토마토 파스타 소스 45% 할인 종료임박❗ 맛있는 소스일수록 당은 올라가고 당을 줄이면 맛이 아쉬우셨나요? 그래서 리얼마이즈가 만들었어요! 설탕 대신 알룰로스로 OO OOO, 당 부담은 낮춘 저당 토마토 파스타 소스 리얼마이즈와 함께 식단관리 중에도 맛있게 즐겨요! OOOOO은 무엇일까요? (힌트: ㅁㅇㄱㄷㄹ)",
-          "answer": "맛은그대로",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "아이들이 안전한 보금자리에서 지낼 수 있도록! 이번 크라우드펀딩은 우리하도지역아동센터의 새로운 보금자리를 위한 노후 OOO 교체를 목적으로 진행됩니다. 빈칸에 들어갈 글자는 무엇일까요? (초성 힌트: ㄱㅈㅈ)",
-          "answer": "기자재",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "에이지투웨니스 에센스 커버팩트 더블루밍 본품1개+리필2개(14g) 가 캐시딜 단독 할인으로 35,900원+(클렌징티슈+에어퍼프2매+쇼핑백 증정)+무료배송 으로 진행됩니다. 블루밍 커버팩트는 최대 75% 로즈 OOO 에센스 함유로, 다변화하는 날씨 컨디션에도 반짝이고 생기있는 피부 메이크업을 완성합니다. 여기서 OOO은 무엇일까요?(힌트 : ㅋㄹㄱ)",
-          "answer": "콜라겐",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -95,19 +65,13 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 29일",
-      "updatedAt": "2026-08-28T09:20:51.000-07:00",
+      "updatedAt": "2026-08-29T01:02:00.000+09:00",
       "items": [
         {
           "question": "도수치료의 기본적인 횟수 제한은 주 O회이다",
           "answer": "2",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
