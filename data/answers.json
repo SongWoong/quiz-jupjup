@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-30T12:48:38.234Z",
+  "generatedAt": "2026-08-30T17:23:22.217Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 10
+      "items": 14
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 70
     }
   ],
   "apps": [
@@ -96,18 +96,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 30일",
-      "updatedAt": "2026-08-29T09:16:24.000-07:00",
+      "dateLabel": "8월 31일",
+      "updatedAt": "2026-08-30T09:17:40.000-07:00",
       "items": [
         {
-          "question": "현재 진행 중인 삼성과 kt의 주말 3연전은 2026 정규리그 1위 경쟁의 분수령이 될 것으로 보입니다. 아래 중 kt wiz가 첫 정규시즌 우승을 차지한 해는?",
-          "answer": "2021년",
+          "question": "28일부터 공연법 개정안이 시행되어 앞으로 공연이나 스포츠 경기 입장권을 부정 유통하면 과징금이 부과됩니다. 과징금 규모는 판매금액의 몇배일까요?",
+          "answer": "50배",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "새로워진 슈퍼SOL로 카드결제만 해도 포인트가! 매월 선착순 혜택을 받을 수 있는 인원은 몇 명일까요?",
-          "answer": "10만명",
+          "question": "신한 SOL LINK 계좌 개설 시 캐시백 받는 방법에 안내된 내용과 일치하지 않는 것은 무엇일까요?",
+          "answer": "10,000원 캐시백",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -130,14 +130,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 30일",
-      "updatedAt": "2026-08-30T01:02:00.000+09:00",
+      "dateLabel": "8월 31일",
+      "updatedAt": "2026-08-30T09:22:06.000-07:00",
       "items": [
         {
-          "question": "전세사기를 예방하기 위해 해야할 사항이 아닌 것은 무엇일까요?",
-          "answer": "특약 작성 생략하기",
+          "question": "개인 성격 유형 검사인 MBTI와 유사한 알고리즘을 활용하여 개인화된 포트폴리오를 제안하기 위해 KB국민은행이 자체 개발한 투자스타일 분류방법은 무엇일까요?",
+          "answer": "WMTI",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
