@@ -1,27 +1,57 @@
 {
-  "generatedAt": "2026-08-30T00:12:20.010Z",
+  "generatedAt": "2026-08-30T06:33:59.495Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 14
+      "items": 10
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 63
+      "items": 67
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "8월 29일",
-      "updatedAt": "2026-08-29T10:54:00.000+09:00",
+      "dateLabel": "8월 30일",
+      "updatedAt": "2026-08-30T14:54:00.000+09:00",
       "items": [
+        {
+          "question": "✨ 단 7일! 올영세일 1만원대 특가✨ 울퉁불퉁 신경 쓰이는 요철 케어하고 매끈 피부결 될 찬스! 지금 할인+증정 구성으로 만날 수 있는 아이소이 OOOO세럼! 빈칸에 들어갈 말은? (초성힌트: ㅎㅈㅇㅊ)",
+          "answer": "흔적요철",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "💄 화장할수록 도드라지는 울퉁불퉁 요철엔? 매끈한 피부결로 화잘먹 피부를 완성하는 아이소이 흔적요철세럼! ㅇㅇ% 고순도 마데카소사이드 함유! 올영세일 1만원대 특가 중인 제품의 성분 함량은?",
+          "answer": "99",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "🔥 품절임박! 올영세일 한정 기획세트 🔥 귤껍질처럼 울퉁불퉁한 피부결이 고민이라면? 고순도 마데카로 흔적요철, O일 컷! 흔적요철세럼으로 피부 리즈 갱신✨ 지금 올영세일에서 1만원대 특가 할인 중 O에 들어갈 숫자는?",
+          "answer": "3",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "👀 짤 수도 없는 울퉁불퉁 요철엔? 99% 고순도 마데카소사이드로 신경 쓰이는 요철부터 거뭇한 흔적 개선! 올영세일 35% 할인 + 리필팩 추가 증정 중 아이소이 OOOO세럼의 이름은? (초성힌트: ㅎㅈㅇㅊ)",
+          "answer": "흔적요철",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "네이버플러스 스토어 오늘끝딜은 매일 O번, 4시간 타임딜이 진행됩니다. O에 들어갈 숫자는 무엇일까요?",
           "answer": "6",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "대한민국 1등 오메가3, 종근당건강의 대표상품이자 최근 순도함량 UP하여 리뉴얼한 &#x27;프로메가 알티지 오메가3 듀얼S 3박스&#x27;를 &#x27;락토핏 코어 30포&#x27; 증정과 함께 초특가 00,000원에 무료배송 진행됩니다. 00,000에 들어갈 정답은 무엇일까요?",
+          "answer": "36900",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -65,19 +95,13 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "8월 30일",
-      "updatedAt": "2026-08-29T09:21:05.000-07:00",
+      "updatedAt": "2026-08-30T01:02:00.000+09:00",
       "items": [
         {
           "question": "전세사기를 예방하기 위해 해야할 사항이 아닌 것은 무엇일까요?",
           "answer": "특약 작성 생략하기",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
