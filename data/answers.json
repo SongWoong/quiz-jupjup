@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T13:35:15.664Z",
+  "generatedAt": "2026-08-31T19:58:36.796Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 12
+      "items": 16
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 66
+      "items": 65
     }
   ],
   "apps": [
@@ -102,18 +102,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "8월 31일",
-      "updatedAt": "2026-08-30T09:17:40.000-07:00",
+      "dateLabel": "9월 1일",
+      "updatedAt": "2026-08-31T09:17:06.000-07:00",
       "items": [
         {
-          "question": "28일부터 공연법 개정안이 시행되어 앞으로 공연이나 스포츠 경기 입장권을 부정 유통하면 과징금이 부과됩니다. 과징금 규모는 판매금액의 몇배일까요?",
-          "answer": "50배",
+          "question": "두산의 영건 최민석 선수가 8월에만 4승을 추가하며 다승 부문 단독 선두로 올라섰습니다. 8월 31일 현재 최 선수는 몇 승을 기록 중일까요?",
+          "answer": "13승",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "신한 SOL LINK 계좌 개설 시 캐시백 받는 방법에 안내된 내용과 일치하지 않는 것은 무엇일까요?",
-          "answer": "10,000원 캐시백",
+          "question": "1일부터 3일까지 진행되는 마이샵 최대 혜택 기간인 '마이샵데이'의 참여 브랜드가 아닌 곳은?",
+          "answer": "올리브영",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -160,20 +160,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "8월 31일",
-      "updatedAt": "2026-08-31T01:02:00.000+09:00",
+      "dateLabel": "9월 1일",
+      "updatedAt": "2026-08-31T09:21:39.000-07:00",
       "items": [
         {
-          "question": "주유할인 세차 주차 영화할인 올리브영 쿠폰부터 내 차 시세와 정보까지 받을 수 있는 서비스는 무엇일까요?",
-          "answer": "이지오토플러스",
+          "question": "'통장 묶기 사기'는 사기범이 무고한 계좌에 소액을 입금한 뒤 보이스피싱 계좌로 신고해 OOOO 시키는 수법이다.",
+          "answer": "지급정지",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "개인 성격 유형 검사인 MBTI와 유사한 알고리즘을 활용하여 개인화된 포트폴리오를 제안하기 위해 KB국민은행이 자체 개발한 투자스타일 분류방법은 무엇일까요?",
-          "answer": "WMTI",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
