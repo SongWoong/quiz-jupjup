@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-01T14:47:19.365Z",
+  "generatedAt": "2026-09-01T18:24:42.656Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 18
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 72
+      "items": 70
     }
   ],
   "apps": [
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 1일",
-      "updatedAt": "2026-08-31T09:17:06.000-07:00",
+      "dateLabel": "9월 2일",
+      "updatedAt": "2026-09-01T09:17:36.000-07:00",
       "items": [
         {
-          "question": "두산의 영건 최민석 선수가 8월에만 4승을 추가하며 다승 부문 단독 선두로 올라섰습니다. 8월 31일 현재 최 선수는 몇 승을 기록 중일까요?",
-          "answer": "13승",
+          "question": "큰 무대 도전 후 고우석 선수가 친정 팀 LG로 복귀한다는 보도입니다. 아래 중 고우석 선수가 속했던 미국 구단이 아닌 것은?",
+          "answer": "LA 다저스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "1일부터 3일까지 진행되는 마이샵 최대 혜택 기간인 '마이샵데이'의 참여 브랜드가 아닌 곳은?",
-          "answer": "올리브영",
+          "question": "앱테크 미션 달성하고 가을맞이 경품 받기! 포인트줍줍 체험 시 받을 수 있는 경품은 무엇일까요?",
+          "answer": "투썸플레이스 수정과+식혜 상품권",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -136,34 +136,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 1일",
-      "updatedAt": "2026-09-01T01:02:00.000+09:00",
+      "dateLabel": "9월 2일",
+      "updatedAt": "2026-09-01T09:22:11.000-07:00",
       "items": [
         {
-          "question": "KB Pay 여행 제휴사 '찜카'에서 가을 시즌 전 세계 렌터카 이용 시 제공하는 혜택이 아닌 것은 무엇일까요?",
-          "answer": "백화점 상품권",
+          "question": "재산세를 내는 달이 아닌 것은 언제일까요?",
+          "answer": "5월",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "'통장 묶기 사기'는 사기범이 무고한 계좌에 소액을 입금한 뒤 보이스피싱 계좌로 신고해 OOOO 시키는 수법이다.",
-          "answer": "지급정지",
-          "pending": false,
-          "source": "luckyquiz3"
-        }
-      ]
-    },
-    {
-      "id": "okcashbag",
-      "label": "OK캐쉬백",
-      "dateLabel": "8월 27일",
-      "updatedAt": "2026-08-27T19:58:00.000+09:00",
-      "items": [
-        {
-          "question": "동원몰 19주년 메가밴드위크! ★전상품 9,900원 균일가 털이★ 지금 바로 선착순 1,000명 19% 오픈런 쿠폰부터 다운받으세요! 3만원 이상 구매하고 역대급 할인가에 참치 구매하실 찬스 ★선착순 끝나면 손해★ 대용량이 부담스러웠던 분들을 위해 참치가 7캔 라이트 구성으로 찾아왔습니다! 화제의 동원 신상 치킨도 온라인 최대 혜택으로 만나보세요. 신상 ㅋㅂㅅ치킨, 순우유빵 핫도그, 리챔, 골뱅이까지! 펜트리와 냉동실을 채울 든든~한 동원 베스트셀러 총집합! ※퀴즈 힌트는 상품명에서 확인 부탁드립니다.",
-          "answer": "케바삭",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     }
