@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-02T14:23:29.751Z",
+  "generatedAt": "2026-09-02T18:36:53.790Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 75
     }
   ],
   "apps": [
@@ -66,18 +66,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 2일",
-      "updatedAt": "2026-09-01T09:17:36.000-07:00",
+      "dateLabel": "9월 3일",
+      "updatedAt": "2026-09-02T09:17:41.000-07:00",
       "items": [
         {
-          "question": "큰 무대 도전 후 고우석 선수가 친정 팀 LG로 복귀한다는 보도입니다. 아래 중 고우석 선수가 속했던 미국 구단이 아닌 것은?",
-          "answer": "LA 다저스",
+          "question": "6일까지 슈퍼 SOL에서 응모 가능한 2026 신한 SOL KBO 리그 8월 월간 MVP 후보 8명 중 외국인 선수는 총 몇 명일까요?",
+          "answer": "3명",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "앱테크 미션 달성하고 가을맞이 경품 받기! 포인트줍줍 체험 시 받을 수 있는 경품은 무엇일까요?",
-          "answer": "투썸플레이스 수정과+식혜 상품권",
+          "question": "탑스 쿠폰으로 버거킹에서 신제품 펜타치즈와퍼와 불고기와퍼주니어 2인팩 구매 시, 즉시 적용되는 할인율은?",
+          "answer": "40%",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -118,20 +118,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 2일",
-      "updatedAt": "2026-09-02T01:02:00.000+09:00",
+      "dateLabel": "9월 3일",
+      "updatedAt": "2026-09-02T09:22:38.000-07:00",
       "items": [
         {
-          "question": "9월 5일까지 진행하는 올리브영 세일 기간에 5% 추가 할인까지 받을 수 있는 KB Pay 서비스 이름은?",
-          "answer": "바로할인",
+          "question": "KB스타뱅킹에서 등록한 모바일신분증의 효력은 실물 신분증과 동일하다",
+          "answer": "O",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "재산세를 내는 달이 아닌 것은 언제일까요?",
-          "answer": "5월",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     }
