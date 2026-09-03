@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T14:58:34.671Z",
+  "generatedAt": "2026-09-03T18:33:57.892Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 24
     },
     {
       "name": "luckyquiz3",
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 3일",
-      "updatedAt": "2026-09-02T09:17:41.000-07:00",
+      "dateLabel": "9월 4일",
+      "updatedAt": "2026-09-03T09:17:55.000-07:00",
       "items": [
         {
-          "question": "6일까지 슈퍼 SOL에서 응모 가능한 2026 신한 SOL KBO 리그 8월 월간 MVP 후보 8명 중 외국인 선수는 총 몇 명일까요?",
-          "answer": "3명",
+          "question": "현재 1위 삼성 라이온즈가 시즌 70승을 돌파했습니다. 2025년 이후 144 경기 체제에서 KBO 리그 역대 단일 시즌 최고 승수인 93승을 두번 기록한 팀은?",
+          "answer": "두산 베어스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "탑스 쿠폰으로 버거킹에서 신제품 펜타치즈와퍼와 불고기와퍼주니어 2인팩 구매 시, 즉시 적용되는 할인율은?",
-          "answer": "40%",
+          "question": "새로워진 신한 슈퍼SOL 설치하고 '전체 약관 모두 동의' 시 받을 수 있는 포인트는 얼마일까요?",
+          "answer": "1,000P",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -82,20 +82,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 3일",
-      "updatedAt": "2026-09-03T01:02:00.000+09:00",
+      "dateLabel": "9월 4일",
+      "updatedAt": "2026-09-03T09:33:44.000-07:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑에서 '2026 GHOST 페스티벌' 티켓 구매 시 제공되는 혜택이 아닌 것은?",
-          "answer": "포인트리 추가 적립",
+          "question": "고향의 소중함을 되새기고 지역에 대한 관심과 사랑을 높이기 위해 지정된 오늘은 고향OO의 날이다",
+          "answer": "사랑",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "손으로 주무르면서 감촉을 즐기는 말랑이, 왁뿌볼처럼 질감과 소리를 즐기기 위해 물건을 사는 것을 무엇이라고 할까요?",
-          "answer": "촉감소비",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
