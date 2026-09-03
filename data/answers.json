@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:07:19.151Z",
+  "generatedAt": "2026-09-03T05:42:18.653Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 76
     }
   ],
   "apps": [
@@ -86,12 +86,12 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "9월 2일",
-      "updatedAt": "2026-09-02T19:46:00.000+09:00",
+      "dateLabel": "9월 3일",
+      "updatedAt": "2026-09-02T17:52:19.000-07:00",
       "items": [
         {
-          "question": "💚 동국제약 초이스딜 #구매금액별사은품 🎉 라이브이벤트 ⏰ 라이브 중 전 구매고객 🎁링클리바이탈라이징 마스크 2매 ⏰ 라이브 중 [라이브 전용옵션] 구매시 추가혜택 ⏰ 주문인증 15명 & 소통왕 5명 추첨 🎁 ㅇㅇㅇㅇㅇ타임리버스 메리고라운드 에디션 증정 ✨ 피부에 깊은 보습과 탄탄한 케어를 더 마데카크림으로 완성하세요! 구매하러 가기 →",
-          "answer": "마데카크림",
+          "question": "💚 동국제약 초이스딜 🏆초이스딜 행사 기간 중 구매왕 1명 추첨 🎁 마데카프라임 리추얼 화이트펄 증정 🎉 라이브이벤트 ⏰ 주문인증 소통왕 10명 추첨 🎁 마데카 ㅇㅇㅇㅇ/애프터크림 증정 ⏰ 주문인증 10명 추첨 🎁 메가커피 아메리카노 증정 ✨ 종아리 집중 관리가 필요할 때 유어핏 레그슬리브로 매일 편안하게 다리 관리 구매하러 가기 →",
+          "answer": "발필링팩",
           "pending": false,
           "source": "luckyquiz3"
         },
@@ -100,18 +100,6 @@
           "answer": "잠시 후 공개",
           "pending": true,
           "source": "oneuljupjup"
-        },
-        {
-          "question": "\"레인OK 메탈그래핀 하이브리드 와이퍼 O개 세트 오직 G마켓에서 하루 특가 4만원대 → 2만원대로! 닦을수록 코팅되는 강력한 자.체.발.수. 기능, 지금 바로 경험해보세요!\"",
-          "answer": "1",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "🧹 청소부터 살균까지 한 번에! 드리미 아쿠아 스팀 로봇청소기는 최대 OOO℃ 고온 스팀으로 기름때를 제거하고 세균 99.9% 살균! 세척부터 열풍 건조, 강력 흡입과 AI 장애물 회피까지 알아서 척척✨ 정답은 무엇일까요?",
-          "answer": "180",
-          "pending": false,
-          "source": "luckyquiz3"
         }
       ]
     },
@@ -119,19 +107,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 3일",
-      "updatedAt": "2026-09-02T09:22:38.000-07:00",
+      "updatedAt": "2026-09-03T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB스타뱅킹에서 등록한 모바일신분증의 효력은 실물 신분증과 동일하다",
-          "answer": "O",
+          "question": "KB Pay 쇼핑에서 '2026 GHOST 페스티벌' 티켓 구매 시 제공되는 혜택이 아닌 것은?",
+          "answer": "포인트리 추가 적립",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         },
         {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "손으로 주무르면서 감촉을 즐기는 말랑이, 왁뿌볼처럼 질감과 소리를 즐기기 위해 물건을 사는 것을 무엇이라고 할까요?",
+          "answer": "촉감소비",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     }
