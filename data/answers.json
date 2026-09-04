@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-04T14:16:49.684Z",
+  "generatedAt": "2026-09-04T18:19:38.605Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 21
+      "items": 24
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 76
+      "items": 73
     }
   ],
   "apps": [
@@ -60,18 +60,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 4일",
-      "updatedAt": "2026-09-03T09:17:55.000-07:00",
+      "dateLabel": "9월 5일",
+      "updatedAt": "2026-09-04T09:16:07.000-07:00",
       "items": [
         {
-          "question": "현재 1위 삼성 라이온즈가 시즌 70승을 돌파했습니다. 2025년 이후 144 경기 체제에서 KBO 리그 역대 단일 시즌 최고 승수인 93승을 두번 기록한 팀은?",
-          "answer": "두산 베어스",
+          "question": "21년 SSG 원클럽맨 김성현 플레잉코치의 은퇴식이 오늘 진행됩니다. 한국시리즈 5차전과 22년 6차전 데일리 MVP를 차지하며 우승에 기여했던 김 코치의 애칭(별명)은?",
+          "answer": "큐티식스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "새로워진 신한 슈퍼SOL 설치하고 '전체 약관 모두 동의' 시 받을 수 있는 포인트는 얼마일까요?",
-          "answer": "1,000P",
+          "question": "프리미엄 소파의 기준, 에싸소파! 이벤트를 통해 사전 신청 후 신한 신용/체크카드로 결제 시 몇% 추가 캐시백을 받을 수 있을까요?",
+          "answer": "1%",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -112,20 +112,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 4일",
-      "updatedAt": "2026-09-04T01:02:00.000+09:00",
+      "dateLabel": "9월 5일",
+      "updatedAt": "2026-09-04T09:20:43.000-07:00",
       "items": [
         {
-          "question": "종근당건강 명절 선물전에서 7만원 이상 구매하면 받을 수 있는 혜택은 무엇일까요?",
-          "answer": "신세계 모바일상품권 1만원권",
+          "question": "2027년 최저임금은 얼마일까요?",
+          "answer": "10,700원",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "고향의 소중함을 되새기고 지역에 대한 관심과 사랑을 높이기 위해 지정된 오늘은 고향OO의 날이다",
-          "answer": "사랑",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
