@@ -1,57 +1,39 @@
 {
-  "generatedAt": "2026-09-04T23:58:34.834Z",
+  "generatedAt": "2026-09-05T04:17:41.865Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 73
+      "items": 74
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "9월 4일",
-      "updatedAt": "2026-09-04T20:54:00.000+09:00",
+      "dateLabel": "9월 5일",
+      "updatedAt": "2026-09-05T09:54:00.000+09:00",
       "items": [
         {
-          "question": "누구나 혁신적인 아이디어만 있으면 창업에 도전할 수 있는 창업 인재 플랫폼 &#x27;OOOOO&#x27;에 4,411억원을 편성합니다. OOOOO에 들어갈 단어는 무엇일까요? (초성 : ㅁㄷㅇㅊㅇ)",
-          "answer": "모두의창업",
+          "question": "배달의민족 OO할인에서는 버거킹, 페리카나, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㅉ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "배짱",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "AI 분야 벤처·스타트업의 기술 실증과 제조 현장의 AI 전환 지원을 위해 &#x27;중소기업 OOO AI 실증&#x27; 사업에 1,728억원 신규 편성합니다. OOO에 들어갈 단어는 무엇일까요? (초성 : ㅍㅈㅋ)",
-          "answer": "피지컬",
+          "question": "배달의민족 배짱할인에서는 OO킹, 페리카나, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㄱ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "버거",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "유망 기업을 중견기업으로 육성하는 OOO 프로그램에 1,642억원을 편성하여, 기업 성장 단계별로 지원을 고도화합니다. OOO에 들어갈 단어는 무엇일까요? (초성 : ㅈㅍㅇ)",
-          "answer": "점프업",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "생업 부담으로 건강을 돌보기 어려웠던 소상공인이 건강검진을 받을 수 있도록 OOOOOO에 2,050억원을 편성합니다. OOOOOO에 들어갈 단어는 무엇일까요? (초성 : ㄱㄱㄷㅂㅈㅇ)",
-          "answer": "건강돌봄지원",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "미리 준비하는 추석, 혜택은 더 크게💰 <선착순 15% 할인 쿠폰>으로 온라인최저가 구매 (※9/6까지) 저당 고단백, 허니버터맛 시리얼로 단백질 맛있게 챙길 수 있어요. 평소 시리얼은 좋아하는데 O OO이 신경 쓰이시는 분께 적극 추천드려요. 100g당 당류 단 0.28g, 단백질 무려 39g이에요! OOO은 무엇일까요? (힌트: ㄷㅎㄹ)",
-          "answer": "당함량",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "단 3시간 동안 진행되는 \"캐시딜\" 타임특가에서 연세두유 검은콩검은참깨 두유가 역대급 할인으로 OOOOO원+무료배송에 진행됩니다. 이 두유는 검은콩의 진한 고소함에 검은참깨의 풍미까지 더했다고 합니다. 빈칸에 들어갈 숫자는 무엇일까요?",
-          "answer": "10500",
+          "question": "배달의민족 배짱할인에서는 버거킹, OO카나, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅍㄹ, 이벤트 페이지에서 확인할 수 있어요👀)",
+          "answer": "페리",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -113,19 +95,13 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 5일",
-      "updatedAt": "2026-09-04T09:20:43.000-07:00",
+      "updatedAt": "2026-09-05T01:02:00.000+09:00",
       "items": [
         {
           "question": "2027년 최저임금은 얼마일까요?",
           "answer": "10,700원",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
