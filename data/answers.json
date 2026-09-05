@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T15:59:32.202Z",
+  "generatedAt": "2026-09-05T18:12:07.753Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 22
+      "items": 26
     },
     {
       "name": "luckyquiz3",
@@ -42,18 +42,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 5일",
-      "updatedAt": "2026-09-04T09:16:07.000-07:00",
+      "dateLabel": "9월 6일",
+      "updatedAt": "2026-09-05T09:16:33.000-07:00",
       "items": [
         {
-          "question": "21년 SSG 원클럽맨 김성현 플레잉코치의 은퇴식이 오늘 진행됩니다. 한국시리즈 5차전과 22년 6차전 데일리 MVP를 차지하며 우승에 기여했던 김 코치의 애칭(별명)은?",
-          "answer": "큐티식스",
+          "question": "신한은행은 올리브영 SOL통장 이벤트를 진행 중입니다. 아래 중 올리브영 SOL통장 개설하면 바로 지급되는 올리브영 모바일 상품권으로 맞는 것은?",
+          "answer": "1만원",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "프리미엄 소파의 기준, 에싸소파! 이벤트를 통해 사전 신청 후 신한 신용/체크카드로 결제 시 몇% 추가 캐시백을 받을 수 있을까요?",
-          "answer": "1%",
+          "question": "최근 빈티지 의류, 말랑이, 디카 등 자신만의 취향을 발굴하는 '파밍의 성지'로 떠오른 장소는 어디일까요?",
+          "answer": "동묘",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -94,14 +94,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 5일",
-      "updatedAt": "2026-09-05T01:02:00.000+09:00",
+      "dateLabel": "9월 6일",
+      "updatedAt": "2026-09-05T09:21:04.000-07:00",
       "items": [
         {
-          "question": "2027년 최저임금은 얼마일까요?",
-          "answer": "10,700원",
+          "question": "로그인 없이 이체, 상품 가입을 할 수 있는 '자동 로그인'은 휴대폰 잠금 설정이 필수이다.",
+          "answer": "O",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
