@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-06T13:37:11.427Z",
+  "generatedAt": "2026-09-06T16:57:01.241Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 27
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 73
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 6일",
-      "updatedAt": "2026-09-05T09:16:33.000-07:00",
+      "dateLabel": "9월 7일",
+      "updatedAt": "2026-09-06T09:17:06.000-07:00",
       "items": [
         {
-          "question": "신한은행은 올리브영 SOL통장 이벤트를 진행 중입니다. 아래 중 올리브영 SOL통장 개설하면 바로 지급되는 올리브영 모바일 상품권으로 맞는 것은?",
-          "answer": "1만원",
+          "question": "삼성과 치열한 1위 경쟁 중인 kt wiz가 수원화성문화제의 성공개최를 기원하는 취지로 정조대왕 유니폼을 출시합니다. 정조는 조선의 몇 대 국왕이었을까요?",
+          "answer": "22대",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "최근 빈티지 의류, 말랑이, 디카 등 자신만의 취향을 발굴하는 '파밍의 성지'로 떠오른 장소는 어디일까요?",
-          "answer": "동묘",
+          "question": "탑스 쿠폰으로 공차 베스트셀러 메뉴 14종 구매 시, 몇 % 할인을 받을 수 있을까요?",
+          "answer": "30%",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -82,14 +82,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 6일",
-      "updatedAt": "2026-09-06T01:02:00.000+09:00",
+      "dateLabel": "9월 7일",
+      "updatedAt": "2026-09-06T09:21:46.000-07:00",
       "items": [
         {
-          "question": "로그인 없이 이체, 상품 가입을 할 수 있는 '자동 로그인'은 휴대폰 잠금 설정이 필수이다.",
-          "answer": "O",
+          "question": "2027년 월력요항에 따르면 주 5일제 직장인은 내년에 총 OOO일의 휴일을 갖는다",
+          "answer": "119",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
