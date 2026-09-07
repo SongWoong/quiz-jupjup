@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-07T10:10:30.438Z",
+  "generatedAt": "2026-09-07T16:24:44.986Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 17
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 82
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "9월 7일",
-      "updatedAt": "2026-09-07T15:54:00.000+09:00",
+      "updatedAt": "2026-09-07T21:54:00.000+09:00",
       "items": [
         {
           "question": "\"명절만 되면 과식하고 못비워서 스트레스였는데 소휘 푸룬구미 챙긴 뒤론 걱정 없어요\"⭐지금만 [1+1]+선착순 쇼핑백 증정⭐ 소휘 푸룬구미는 OOO,물엿,젤라틴 없는 당류 1g미만 저당구미로 천연소비톨과 식이섬유가 풍부한 푸룬원액 2샷을 그대로 담아 가뿐하게 비워냅니다. 💧충분한 물과 함께 신세계를 경험하세요. 여기서 OOO은? (힌트 : ㅁㅌㅌ)",
@@ -54,26 +54,74 @@
           "answer": "10980",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "캐시딜에서 단 3시간, 컷슬린데일리 보리한잔 24개입을 전 채널 최저가로 선보입니다. 이 제품은 무카페인, 무라벨, 무첨가로 건강하고 가볍게 ㅇkcal에 수분 섭취할 수 있는 제품 입니다. 빈칸에 들어갈 숫자는 무엇일까요?",
+          "answer": "0",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 3in1 마그네틱 고속 무선 충전 거치대는 스마트폰, 무선 이어폰, 스마트워치를 동시에 충전할 수 있는 3in1 올인원 충전기입니다. 특히, 강력한 자력으로 완벽 고정이 되어 OOO 끼운 채로 충전이 가능합니다. OOO에 들어갈 단어는 무엇일까요? (초성힌트 : ㅋㅇㅅ)",
+          "answer": "케이스",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "픽스 3in1 마그네틱 고속 무선 충전 거치대는 일반 무선 충전 대비 최대 3배 빠른 최대 OOW 고속 충전을 지원하며, 스마트폰 기종에 맞춰 최적의 속도로 빠르고 안전하게 배터리를 채워줍니다. OO에 들어갈 숫자는 무엇일까요?",
+          "answer": "15",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "픽스 3in1 마그네틱 고속 무선 충전 거치대는 저가형 제품과 달리 스마트폰, 이어폰, 워치 3대 기기를 동시에 충전에도 저하 없는 OOOO를 탑재하여 안정적인 전력 공급을 제공합니다. OOOO에 들어갈 단어는 무엇일까요? (초성힌트 : ㄷㄹㅎㄹ)",
+          "answer": "독립회로",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "픽스 3in1 마그네틱 고속 무선 충전 거치대는 충전 위치를 이리저리 맞출 필요 없이 근처에 대면 &#x27;착&#x27; 붙는 편리한 OOOO 설계가 내장되어 있어 즉시 충전을 시작합니다. OOOO에 들어갈 단어는 무엇일까요? (초성힌트 : ㅁㅅㅇㅍ)",
+          "answer": "맥세이프",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "픽스 3in1 마그네틱 고속 무선 충전 거치대는 3개 기기를 동시에 초고속 중전할 수 있으며, 주머니에 쏙, 이동&보관에 최적화된 컴팩트하고 얇은 OOO 디자인이 적용되어 필요에 따라 스탠드 모드와 패드 모드로 유연하게 변형하여 사용할 수 있습니다. OOO에 들어갈 단어는 무엇일까요? (초성힌트 : ㅍㄷㅂ)",
+          "answer": "폴더블",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "픽스 3in1 마그네틱 고속 무선 충전 거치대는 충전 위치를 이리저리 맞출 필요 없이 근처에 대면 '착' 붙는 편리한 OOOO 설계가 내장되어 있어 즉시 충전을 시작합니다. OOOO에 들어갈 단어는 무엇일까요? (초성힌트 : ㅁㅅㅇㅍ)",
+          "answer": "맥세이프",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "9월 7일 단 하루! 김희애 PICK✔ 60만 역가의 ‘카무트 브랜드밀 효소 골드’ 역대급 혜택🔥 명절맞이 초특가 + 쿠폰 + 사은품 증정 + 무료배송까지! 풍부한 아밀라아제·프로테아제를 함유해 탄수화물 섭취가 잦은 한국인의 식습관을 고려한 카무트 효소 🧡 카무트 효소 3개월분 단독 특가 OOOOO원, 과연 빈칸에 들어갈 숫자는 무엇일까요?",
+          "answer": "31900",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 7일",
-      "updatedAt": "2026-09-06T09:17:06.000-07:00",
+      "dateLabel": "9월 8일",
+      "updatedAt": "2026-09-08T01:01:00.000+09:00",
       "items": [
         {
-          "question": "삼성과 치열한 1위 경쟁 중인 kt wiz가 수원화성문화제의 성공개최를 기원하는 취지로 정조대왕 유니폼을 출시합니다. 정조는 조선의 몇 대 국왕이었을까요?",
-          "answer": "22대",
+          "question": "4개국 젊은 세대로 구성된 팀이 경쟁하는 2026 아시아 프로야구 챔피언십 일정이 발표되었습니다. 아래 중 이번 대회에 참가하는 국가로 맞지 않는 것은?",
+          "answer": "중국",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         },
         {
-          "question": "탑스 쿠폰으로 공차 베스트셀러 메뉴 14종 구매 시, 몇 % 할인을 받을 수 있을까요?",
-          "answer": "30%",
+          "question": "신한 SOL LINK 계좌 개설 후 매주 100만 원 이상 거래 & 잔고 조건 충족 시, 매주 OOO를 추첨합니다. 빈칸에 알맞은 것은 무엇일까요?",
+          "answer": "테슬라",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -81,7 +129,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "9월 7일",
-      "updatedAt": "2026-09-07T11:16:00.000+09:00",
+      "updatedAt": "2026-09-07T19:48:00.000+09:00",
       "items": [
         {
           "question": "리비힐 엑소좀 앰플은 ㅇㅇㅇㅇ에서 유래한 배양액 독점 성분+2가지 엑소좀 성분을 추가한 제품입니다. ㅇㅇㅇㅇ는 무엇일까요? (초성 : ㅈㄱㅅㅍ)",
@@ -154,24 +202,36 @@
           "answer": "탈모",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "오늘만! G-막힌 가을박스 해태제과 특가✨ G마켓 단독 가을한정 기획세트! (맛동산 미니OO시간 샌드에이스 오예스 등) 해태제과 베스트 인기과자로 구성된 선물 세트! G마켓 특가 놓치지마세요~!",
+          "answer": "자유",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "\"🤖 OO청소기 고민 종결! 로보락 Qrevo L Pro 한가위 빅세일 혜택가 599,000원! ✅알아서 끝내는 완벽한 청소 ✅손댈 필요 없는 자동 세척 ✅꿉꿉함 없이 뽀송한 건조\"",
+          "answer": "로봇",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "베이직스 가성비 고사양 노트북 추석+세일 단 한시간 최대 할인율은 OO%입니다. OO에 들어갈 숫자는 무엇일까요?",
+          "answer": "43",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 7일",
-      "updatedAt": "2026-09-07T01:02:00.000+09:00",
+      "dateLabel": "9월 8일",
+      "updatedAt": "2026-09-08T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑 매일10시 '2026 추석 선물전' 상품은 10% 할인에 몇 % 중복 할인을 더 받을 수 있을까요?",
-          "answer": "5%",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "2027년 월력요항에 따르면 주 5일제 직장인은 내년에 총 OOO일의 휴일을 갖는다",
-          "answer": "119",
+          "question": "신생아 특례대출 대상은 대출 접수일 기준 2년 내 출산한 무주택 가구이며, 입양한 가구는 대상에 포함되지 않는다",
+          "answer": "X",
           "pending": false,
           "source": "luckyquiz3"
         }
