@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T16:24:44.986Z",
+  "generatedAt": "2026-09-07T20:31:10.876Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 22
+      "items": 25
     },
     {
       "name": "luckyquiz3",
@@ -109,19 +109,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 8일",
-      "updatedAt": "2026-09-08T01:01:00.000+09:00",
+      "updatedAt": "2026-09-07T09:50:32.000-07:00",
       "items": [
         {
           "question": "4개국 젊은 세대로 구성된 팀이 경쟁하는 2026 아시아 프로야구 챔피언십 일정이 발표되었습니다. 아래 중 이번 대회에 참가하는 국가로 맞지 않는 것은?",
           "answer": "중국",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
           "question": "신한 SOL LINK 계좌 개설 후 매주 100만 원 이상 거래 & 잔고 조건 충족 시, 매주 OOO를 추첨합니다. 빈칸에 알맞은 것은 무엇일까요?",
           "answer": "테슬라",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -227,13 +227,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 8일",
-      "updatedAt": "2026-09-08T01:02:00.000+09:00",
+      "updatedAt": "2026-09-07T09:37:18.000-07:00",
       "items": [
         {
           "question": "신생아 특례대출 대상은 대출 접수일 기준 2년 내 출산한 무주택 가구이며, 입양한 가구는 대상에 포함되지 않는다",
           "answer": "X",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
