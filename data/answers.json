@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T16:33:02.448Z",
+  "generatedAt": "2026-09-09T19:43:07.963Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 28
+      "items": 32
     },
     {
       "name": "luckyquiz3",
@@ -67,19 +67,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 10일",
-      "updatedAt": "2026-09-10T01:01:00.000+09:00",
+      "updatedAt": "2026-09-09T10:06:33.000-07:00",
       "items": [
         {
           "question": "최근 18세 이하 한국 청소년 대표팀이 제 14회 아시아청소년야구선수권대회에서 대만을 2대 0으로 꺾었습니다. 12삼진 무실점 호투로 이번달 21일 KBO 드래프트에서 기대감이 높이고 있는 이 선수는?",
           "answer": "부산고 하현승",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
           "question": "간단 미션으로 포인트 받기! 쿠팡, 네이버, 컬리 쇼핑하고 매일 출석 포인트 + OOO 룰렛! 빈칸에 알맞은 것은?",
           "answer": "에어팟",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -107,13 +107,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 10일",
-      "updatedAt": "2026-09-10T01:02:00.000+09:00",
+      "updatedAt": "2026-09-09T09:34:46.000-07:00",
       "items": [
         {
           "question": "대포통장 개설을 사전에 차단하기 위한 단기간 다수계좌 개설목적 확인제도에 따라 계좌 신규요청일을 포함하여 OO영업일 이내에는 신규 계좌 개설이 제한된다.",
           "answer": "20",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
