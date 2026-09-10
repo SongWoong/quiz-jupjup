@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:19:35.361Z",
+  "generatedAt": "2026-09-10T19:35:24.201Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -82,18 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 10일",
-      "updatedAt": "2026-09-10T01:02:00.000+09:00",
+      "dateLabel": "9월 11일",
+      "updatedAt": "2026-09-11T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑 '매일10시' 특가 판매 중인 LG전자 트롬 워시타워의 세탁/건조 용량은 얼마일까요?",
-          "answer": "세탁 23kg + 건조 20kg",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "대포통장 개설을 사전에 차단하기 위한 단기간 다수계좌 개설목적 확인제도에 따라 계좌 신규요청일을 포함하여 OO영업일 이내에는 신규 계좌 개설이 제한된다.",
-          "answer": "20",
+          "question": "집의 상당 부분을 공장에서 미리 만들고, 현장에서는 블록처럼 조립하는 방식으로 ‘레고형주택’이라고도 불리는 이것은 무엇일까요?",
+          "answer": "모듈러주택",
           "pending": false,
           "source": "luckyquiz3"
         }
