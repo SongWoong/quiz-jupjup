@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-10T01:00:39.237Z",
+  "generatedAt": "2026-09-10T05:53:36.871Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 32
+      "items": 30
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 85
     }
   ],
   "apps": [
@@ -21,8 +21,8 @@
       "items": [
         {
           "question": "고칼로리 추석음식 먹고 속이 더부룩했다면? 소휘 효소로 식후 속 부담 덜어보세요! ⏰추석 한정 [1+1]+쇼핑백 증정⏰ 소휘 소화효소는 정제효소 없는 100% 통곡물 저분자 발효효소로 불필요한 첨가물은 최대한 덜어냈습니다. 캐시딜에서만 추석 한정 2박스 OOOOO원+10% 할인쿠폰+무료배송으로 만나보세요! 여기서 OOOOO는?",
-          "answer": "잠시 후 공개",
-          "pending": true,
+          "answer": "27900",
+          "pending": false,
           "source": "luckyquiz3"
         }
       ]
@@ -71,19 +71,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 10일",
-      "updatedAt": "2026-09-09T09:34:46.000-07:00",
+      "updatedAt": "2026-09-10T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "KB Pay 쇼핑 '매일10시' 특가 판매 중인 LG전자 트롬 워시타워의 세탁/건조 용량은 얼마일까요?",
+          "answer": "세탁 23kg + 건조 20kg",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "대포통장 개설을 사전에 차단하기 위한 단기간 다수계좌 개설목적 확인제도에 따라 계좌 신규요청일을 포함하여 OO영업일 이내에는 신규 계좌 개설이 제한된다.",
           "answer": "20",
           "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "KB Pay 오늘의 퀴즈",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
