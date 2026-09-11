@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T16:23:37.264Z",
+  "generatedAt": "2026-09-11T19:36:50.185Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 40
+      "items": 41
     },
     {
       "name": "luckyquiz3",
@@ -118,14 +118,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 11일",
-      "updatedAt": "2026-09-11T01:02:00.000+09:00",
+      "dateLabel": "9월 12일",
+      "updatedAt": "2026-09-11T09:38:42.000-07:00",
       "items": [
         {
-          "question": "집의 상당 부분을 공장에서 미리 만들고, 현장에서는 블록처럼 조립하는 방식으로 ‘레고형주택’이라고도 불리는 이것은 무엇일까요?",
-          "answer": "모듈러주택",
+          "question": "내가 내야 할 세금에서 일정 금액을 빼주는 '세액공제' 대상이 아닌 상품은 무엇일까요?",
+          "answer": "적금",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "KB Pay 오늘의 퀴즈",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
