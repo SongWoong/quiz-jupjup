@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T17:02:36.177Z",
+  "generatedAt": "2026-09-12T19:13:57.435Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 39
+      "items": 40
     },
     {
       "name": "luckyquiz3",
@@ -55,19 +55,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 13일",
-      "updatedAt": "2026-09-13T01:01:00.000+09:00",
+      "updatedAt": "2026-09-12T10:39:18.000-07:00",
       "items": [
         {
           "question": "지난해 오늘 한 투수는 개막 최다 17연승을 기록한 날입니다. 이 기록의 주인공은 아래 중 어떤 선수일까요?",
           "answer": "코디 폰세",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
           "question": "한국투자증권 제휴 발행어음 특판 상품의 최대 연 수익률(세전)은 몇 %일까요?",
           "answer": "4.6%",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
