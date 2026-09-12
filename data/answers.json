@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:30:34.446Z",
+  "generatedAt": "2026-09-12T01:03:26.205Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 76
     }
   ],
   "apps": [
@@ -121,6 +121,12 @@
       "dateLabel": "9월 12일",
       "updatedAt": "2026-09-11T09:38:42.000-07:00",
       "items": [
+        {
+          "question": "'가을 바람 살~랑!' 이벤트에서 1백만원 여행지원금을 받을 수 있는 인원은 몇 명일까요?",
+          "answer": "10명",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "내가 내야 할 세금에서 일정 금액을 빼주는 '세액공제' 대상이 아닌 상품은 무엇일까요?",
           "answer": "적금",
