@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:03:23.420Z",
+  "generatedAt": "2026-09-12T17:02:36.177Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 78
+      "items": 79
     }
   ],
   "apps": [
@@ -54,20 +54,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 12일",
-      "updatedAt": "2026-09-11T09:21:07.000-07:00",
+      "dateLabel": "9월 13일",
+      "updatedAt": "2026-09-13T01:01:00.000+09:00",
       "items": [
         {
-          "question": "오는 21일 한국 프로야구를 이끌어 갈 새로운 얼굴을 정하는 2026 KBO 신인 드래프트가 진행됩니다. 이번 드래프트에서 각 구단이 지명할 신인선수의 총 합은?",
-          "answer": "110명",
+          "question": "지난해 오늘 한 투수는 개막 최다 17연승을 기록한 날입니다. 이 기록의 주인공은 아래 중 어떤 선수일까요?",
+          "answer": "코디 폰세",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         },
         {
-          "question": "중·장년 고객의 피싱 사고를 최대 2천만원까지 보호해 드리는 '지켜드림' 서비스의 이용료는 얼마일까요?",
-          "answer": "무료",
+          "question": "한국투자증권 제휴 발행어음 특판 상품의 최대 연 수익률(세전)은 몇 %일까요?",
+          "answer": "4.6%",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -124,18 +124,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 12일",
-      "updatedAt": "2026-09-12T01:02:00.000+09:00",
+      "dateLabel": "9월 13일",
+      "updatedAt": "2026-09-13T01:02:00.000+09:00",
       "items": [
         {
-          "question": "'가을 바람 살~랑!' 이벤트에서 1백만원 여행지원금을 받을 수 있는 인원은 몇 명일까요?",
-          "answer": "10명",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "내가 내야 할 세금에서 일정 금액을 빼주는 '세액공제' 대상이 아닌 상품은 무엇일까요?",
-          "answer": "적금",
+          "question": "KB스타뱅킹의 패밀리뱅킹에서 확인하고 관리할 수 있는 것이 아닌 것은 무엇일까요?",
+          "answer": "형제자매 계좌",
           "pending": false,
           "source": "luckyquiz3"
         }
