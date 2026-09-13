@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:10:20.861Z",
+  "generatedAt": "2026-09-13T19:23:26.295Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 72
     }
   ],
   "apps": [
@@ -36,20 +36,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 13일",
-      "updatedAt": "2026-09-12T10:39:18.000-07:00",
+      "dateLabel": "9월 14일",
+      "updatedAt": "2026-09-14T01:01:00.000+09:00",
       "items": [
         {
-          "question": "지난해 오늘 한 투수는 개막 최다 17연승을 기록한 날입니다. 이 기록의 주인공은 아래 중 어떤 선수일까요?",
-          "answer": "코디 폰세",
+          "question": "오늘은 아이치 나고야 아시안게임 야구 대표팀이 소집되는 날입니다. 이번 대한민국 야구 대표팀을 이끌게 되는 감독은 누구일까요?",
+          "answer": "류지현",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         },
         {
-          "question": "한국투자증권 제휴 발행어음 특판 상품의 최대 연 수익률(세전)은 몇 %일까요?",
-          "answer": "4.6%",
+          "question": "컬리 첫 구매 고객에게 1만 2천원 할인 혜택을 드려요! 최소 얼마 이상 구매해야 혜택이 적용될까요?",
+          "answer": "2만원 이상",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -70,18 +70,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 13일",
-      "updatedAt": "2026-09-13T01:02:00.000+09:00",
+      "dateLabel": "9월 14일",
+      "updatedAt": "2026-09-14T01:02:00.000+09:00",
       "items": [
         {
-          "question": "대중교통 적립 혜택에 생활서비스 적립까지, 교통비 부담을 덜어주는 체크카드는 무엇일까요?",
-          "answer": "K-패스 체크카드",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KB스타뱅킹의 패밀리뱅킹에서 확인하고 관리할 수 있는 것이 아닌 것은 무엇일까요?",
-          "answer": "형제자매 계좌",
+          "question": "인공지능 패러다임을 주도하는 글로벌 핵심 기업 5곳의 앞 글자를 딴 ‘돈다’에 해당하지 않는 기업은 무엇일까요?",
+          "answer": "구글",
           "pending": false,
           "source": "luckyquiz3"
         }
