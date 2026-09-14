@@ -1,35 +1,29 @@
 {
-  "generatedAt": "2026-09-13T22:22:08.004Z",
+  "generatedAt": "2026-09-14T00:58:40.664Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 41
+      "items": 42
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 72
+      "items": 68
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "9월 13일",
-      "updatedAt": "2026-09-13T15:54:00.000+09:00",
+      "dateLabel": "9월 14일",
+      "updatedAt": "2026-09-13T17:47:39.000-07:00",
       "items": [
         {
-          "question": "단 1시간! 깨끗한나라 100%천연펄프 3겹 화장지 ★역대특가★ 순수 프리미엄 O겹화장지 더클래스 30m 30롤이 13,410원+무료배송으로 진행됩니다. (60롤 구매시 추가할인) 천연펄프,무형광,무향료로 안심하고 사용할 수 있고 먼지가 적어 사용에 탁월한 프리미엄 화장지. O에 들어갈 숫자는 무엇일까요?(화장지 겹수)",
-          "answer": "3",
+          "question": "‘캐시딜’ 추석특가! 쿠폰 10% 적용 9,990원! 간편하고 맛있는 구운OO을 특별한 가격에 만나보세요. 한 번 사두면 아침도, 간식도 걱정 끝! 손쉽게 챙기고 든든하게 즐기는 구운 간식, 쟁여둘 타이밍은 지금이야~!",
+          "answer": "계란",
           "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "캐시딜 베스트! 두부과자5봉 10% 쿠폰가 OOOO원 특가 오븐에 구워 더욱 바삭한 식감! 계속 손이 가는 담백한 맛! 국산콩 두부함량 25% 가볍게 즐기는 두부과자",
-          "answer": "7920",
-          "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
