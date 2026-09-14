@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T13:55:33.222Z",
+  "generatedAt": "2026-09-14T19:17:01.809Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 72
     }
   ],
   "apps": [
@@ -150,18 +150,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 14일",
-      "updatedAt": "2026-09-14T01:01:00.000+09:00",
+      "dateLabel": "9월 15일",
+      "updatedAt": "2026-09-15T01:01:00.000+09:00",
       "items": [
         {
-          "question": "오늘은 아이치 나고야 아시안게임 야구 대표팀이 소집되는 날입니다. 이번 대한민국 야구 대표팀을 이끌게 되는 감독은 누구일까요?",
-          "answer": "류지현",
+          "question": "13일 kt wiz의 창단 첫 통합우승을 주장으로 이끈 황재균 선수가 눈물의 은퇴식을 가졌습니다. 황 선수가 프로 데뷔 당시 처음 입단한 구단은?",
+          "answer": "현대 유니콘스",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "컬리 첫 구매 고객에게 1만 2천원 할인 혜택을 드려요! 최소 얼마 이상 구매해야 혜택이 적용될까요?",
-          "answer": "2만원 이상",
+          "question": "신한 SOL LINK 계좌 개설 이벤트에서 '2만원 캐시백 받는 방법' 내용과 일치하지 않는 것은 무엇일까요?",
+          "answer": "캐시백 즉시 지급",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -196,14 +196,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 14일",
-      "updatedAt": "2026-09-14T01:02:00.000+09:00",
+      "dateLabel": "9월 15일",
+      "updatedAt": "2026-09-14T10:56:38.000-07:00",
       "items": [
         {
-          "question": "인공지능 패러다임을 주도하는 글로벌 핵심 기업 5곳의 앞 글자를 딴 ‘돈다’에 해당하지 않는 기업은 무엇일까요?",
-          "answer": "구글",
+          "question": "2026년 세제개편안에 따라 세컨드홈 과세 특례 대상 지역에 해당하는 것은 무엇일까요?",
+          "answer": "광역시를 제외한 비수도권 전체",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘 KB Pay 퀴즈의 정답은 아직 공개 전이에요.",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 2026년 세제개편안에 따라 세컨드홈 과세 특례 대상 지역에 해당하는 곳은 어디일까요?",
+          "answer": "광역시를 제외한 비수도권 전체",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
