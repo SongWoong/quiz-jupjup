@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T13:28:11.428Z",
+  "generatedAt": "2026-09-15T18:08:11.087Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 52
+      "items": 54
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 76
+      "items": 72
     }
   ],
   "apps": [
@@ -132,20 +132,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 15일",
-      "updatedAt": "2026-09-15T01:01:00.000+09:00",
+      "dateLabel": "9월 16일",
+      "updatedAt": "2026-09-15T10:04:03.000-07:00",
       "items": [
         {
-          "question": "13일 kt wiz의 창단 첫 통합우승을 주장으로 이끈 황재균 선수가 눈물의 은퇴식을 가졌습니다. 황 선수가 프로 데뷔 당시 처음 입단한 구단은?",
-          "answer": "현대 유니콘스",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한은행 쏠퀴즈의 오늘 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "신한 SOL LINK 계좌 개설 이벤트에서 '2만원 캐시백 받는 방법' 내용과 일치하지 않는 것은 무엇일까요?",
-          "answer": "캐시백 즉시 지급",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한카드 쏠페이의 퀴즈팡팡 오늘 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
