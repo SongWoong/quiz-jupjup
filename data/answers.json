@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T18:08:11.087Z",
+  "generatedAt": "2026-09-15T22:08:54.838Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 54
+      "items": 52
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 72
+      "items": 74
     }
   ],
   "apps": [
@@ -133,19 +133,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 16일",
-      "updatedAt": "2026-09-15T10:04:03.000-07:00",
+      "updatedAt": "2026-09-16T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행 쏠퀴즈의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "LA 다저스가 14년 연속 포스트시즌 진출을 확정하며 역대 최장 타이를 기록했습니다. 14년 연속 PS 진출기록을 함께 보유하게 된 팀은 어떤 팀일까요?",
+          "answer": "애틀랜타 브레이브스",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드 쏠페이의 퀴즈팡팡 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "생활요금 자동납부 '캐시백 이벤트'에서 아파트 관리비, 도시가스, 전화요금, 전기요금 각 항목당 받을 수 있는 캐시백 금액은 얼마일까요?",
+          "answer": "5천원",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
