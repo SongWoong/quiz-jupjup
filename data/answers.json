@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T07:38:37.646Z",
+  "generatedAt": "2026-09-15T13:28:11.428Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 51
+      "items": 52
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 76
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "9월 15일",
-      "updatedAt": "2026-09-15T15:54:00.000+09:00",
+      "updatedAt": "2026-09-15T21:54:00.000+09:00",
       "items": [
         {
           "question": "하루종일 명절준비하고 운전하는 추석엔 푸드루트 비타민D면 뻐근했던 허리도 거뜬해요🔥추석 한정 65% 할인 종료임박🔥 푸드루트 비타민D는 뼈 구성에 필요한 비타민K2와 골다공증 발생 위험감소에 도움을 주는 OOO D3에 유해산소로부터 세포를 보호하는데 필요한 셀레늄까지 3종을 1포에 꽉 담았습니다. 여기서 OOO는? (힌트:ㅂㅌㅁ)",
@@ -96,6 +96,36 @@
           "answer": "14500",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "침향환 1위 브랜드사는 \"0000\" ! 어디일까요? (힌트: ㅈㅅㅂㅊ)",
+          "answer": "조선비책",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 침향환 1위 브랜드사는 어디일까요? (힌트: ㅈㅅㅂㅊ)",
+          "answer": "조선비책",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "오늘 단 하루 푸드루트 항산화 면역 비타민C를 6박스 29,900원 파격가에 특별 행사 합니다. 한박스에 4천원대로 놓치면 다시 없어요! 비타민C와 ㅇㅇ을 단 1포에 담아 물없이 간편 섭취할 수 있어요. ㅇㅇ안에 단어는 무엇일까요?",
+          "answer": "아연",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 비타민C와 ㅇㅇ을 단 1포에 담아 물 없이 간편하게 섭취할 수 있다고 하는데, ㅇㅇ 안에 들어갈 단어는 무엇일까요?",
+          "answer": "아연",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "118년의 전통과 기술력을 보유한 KGC인삼공사 정관장의 엄격한 원재료 선정과 OOOO를 통해 생산한 홍삼지감은 20년 전통의 무방부제 무카페인 홍삼음료로 남녀노소 즐길 수 있습니다. (초성힌트:ㅍㅈㄱㄹ)",
+          "answer": "품질관리",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -123,7 +153,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "9월 15일",
-      "updatedAt": "2026-09-14T19:04:08.000-07:00",
+      "updatedAt": "2026-09-15T05:03:56.000-07:00",
       "items": [
         {
           "question": "\"오늘만! 세타필 로션 G마켓 특가 찬스✨ 세타필 로션 473ml 2개+크림 100g+20g 크림 선물 추천! 피부 OO 철통 보안! ✅ 세타필 모이스춰라이징 로션 G마켓 특가 놓치지마세요~!\"",
@@ -134,6 +164,42 @@
         {
           "question": "Q. 세타필 로션은 피부 OO 철통 보안! 빈칸에 들어갈 단어는 무엇일까요?",
           "answer": "장벽",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "일상미당 콩쑥개떡은 100% 국내산 찹쌀, 제주 고산 000, 달달한 통팥앙금 고소한 콩고물을 가~득 담아 만들어진 마성의 간식! 한번 먹으면 멈출 수 없는 쫀~득한 떡입니다~! (힌트 : ㅎㅍㅆ)",
+          "answer": "해풍쑥",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "일상미당 콩쑥개떡은 100% 000 찹쌀, 제주 고산 해풍쑥, 달달한 통팥앙금 고소한 콩고물을 가~득 담아 만들어진 마성의 간식! 한번 먹으면 멈출 수 없는 쫀~득한 떡입니다~! (힌트 : ㄱㄴㅅ)",
+          "answer": "국내산",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "일상미당의 모든 떡은 0000을 받아 깨끗하고 안전한 시설에서 깐깐하게 제조 되고 있습니다 0000은 무엇일까요? (힌트 : ㅎㅆㅇㅈ)",
+          "answer": "해썹인증",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "일상미당 제품을 7만원 이상 구매 시 ㅇㅇ 1팩을 증정합니다. ㅇㅇ은 무엇일까요? (힌트 : ㅅㅍ)",
+          "answer": "송편",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "🎁 G마켓 단독 한정 판매! 스팸복합 알찬G호 3개 50,000원! 스팸부터 조미료까지 알찬 구성으로 준비한 가성비 선물세트✨ 명절 선물로 딱! OO백까지 증정!",
+          "answer": "쇼핑",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. G마켓에서 명절 선물로 준비한 스팸복합 세트를 구매하면 무엇을 증정한다고 했을까요? (OO백)",
+          "answer": "쇼핑",
           "pending": false,
           "source": "oneuljupjup"
         }
