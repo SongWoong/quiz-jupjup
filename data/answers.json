@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T13:26:46.851Z",
+  "generatedAt": "2026-09-16T18:09:00.932Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 62
+      "items": 61
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 73
+      "items": 71
     }
   ],
   "apps": [
@@ -186,20 +186,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 16일",
-      "updatedAt": "2026-09-16T01:01:00.000+09:00",
+      "dateLabel": "9월 17일",
+      "updatedAt": "2026-09-16T09:36:08.000-07:00",
       "items": [
         {
-          "question": "LA 다저스가 14년 연속 포스트시즌 진출을 확정하며 역대 최장 타이를 기록했습니다. 14년 연속 PS 진출기록을 함께 보유하게 된 팀은 어떤 팀일까요?",
-          "answer": "애틀랜타 브레이브스",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한은행 쏠뱅크에서 진행하는 오늘의 쏠퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "생활요금 자동납부 '캐시백 이벤트'에서 아파트 관리비, 도시가스, 전화요금, 전기요금 각 항목당 받을 수 있는 캐시백 금액은 얼마일까요?",
-          "answer": "5천원",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한카드 쏠페이에서 진행하는 퀴즈팡팡의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -238,20 +238,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 16일",
-      "updatedAt": "2026-09-16T01:02:00.000+09:00",
+      "dateLabel": "9월 17일",
+      "updatedAt": "2026-09-16T09:55:00.000-07:00",
       "items": [
         {
-          "question": "안드로이드 폰에서 앱을 열지 않고, 잠금만 풀고 터치해 결제할 수 있는 KB Pay 기능은 무엇일까요?",
-          "answer": "KB Pay 탭앤페이",
+          "question": "생활에 필요한 금융 지식과 정보를 제공하는 전문성있고 신뢰도 높은 KB금융그룹의 콘텐츠 플랫폼은 무엇일까요?",
+          "answer": "KB의 생각",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "나의 자산을 금융기관에 맡겨 생전에는 노후생활에 활용하고, 사후에는 공익법인 등에 기부하는 것을 OOOO이라고 한다.",
-          "answer": "기부신탁",
+          "question": "Q. 첫 번째 문제는 오늘의 퀴즈 정답을 확인하는 문제였어요.",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 생활에 필요한 금융 지식과 정보를 제공하는, 전문성 있고 신뢰도 높은 KB금융그룹의 콘텐츠 플랫폼은 무엇일까요?",
+          "answer": "KB의 생각",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
