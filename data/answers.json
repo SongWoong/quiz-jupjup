@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-17T11:34:26.270Z",
+  "generatedAt": "2026-09-17T16:52:57.293Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 57
+      "items": 54
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 75
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "9월 17일",
-      "updatedAt": "2026-09-17T10:54:00.000+09:00",
+      "updatedAt": "2026-09-17T05:31:42.000-07:00",
       "items": [
         {
           "question": "기름진 명절음식 조금만 먹어도 가스로 배가 빵빵했다면? 소휘 효소 식후 1포면 가뿐해져요!⏰곧 종료! 쇼핑백+사은품까지! 추석전 배송⏰ 식사시간 15분 컷, 10번도 안씹는다면 소휘 소화효소는 꼭 드셔야 해요. 탄수화물 섭취가 절대적으로 많은 한국인은 외부섭취를 통한 OO 보충이 꼭 필요합니다. 여기서 OO은? (힌트 : ㅎㅅ)",
@@ -30,24 +30,36 @@
           "answer": "메티베어",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "오늘 밤 12시까지 피부과 선크림을 역대급 노마진 1개 10,000원으로 판매합니다! 제로딜로 선크림 최저가로 쟁여가세요🤗 리비힐 엑소좀 선크림은 자외선을 이중으로 차단해줍니다. 피부 노화의 주범인 자외선이 강해지는 가을, 유기자차와 무기자차의 장점만 담은 ㅇㅇㅇㅇ 선크림으로 준비해보세요! ㅇㅇㅇㅇ에 들어갈 단어는?",
+          "answer": "혼합자차",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 유기자차와 무기자차의 장점만 담은 선크림을 무엇이라고 부를까요? (ㅇㅇㅇㅇ)",
+          "answer": "혼합자차",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 17일",
-      "updatedAt": "2026-09-17T01:01:00.000+09:00",
+      "dateLabel": "9월 18일",
+      "updatedAt": "2026-09-18T01:01:00.000+09:00",
       "items": [
         {
-          "question": "아시안게임 5연패에 도전하는 한국 야구대표팀이 처음 맞붙게된 팀은 대만 야구대표팀입니다. 대만 팀 투수 중 현재 KBO 리그에서 활동 중인 선수는?",
-          "answer": "왕옌청",
+          "question": "미국에서 돌아온 고우석 선수가 LG 팬들을 들뜨게 만들고 있습니다. 고 선수는 16일 NC 전에서 몇 개의 스트라이크를 연속 성공시켰을까요?",
+          "answer": "13개",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "9월 한 달간 메가MGC커피에서 '이것'으로 1천원 이상 결제하면 1천P를 적립받을 수 있어요. '이것'으로 알맞은 것은?",
-          "answer": "신한 슈퍼SOL",
+          "question": "햄버거 싸게 먹는 법! 맘스터치에서 8천원 이상 슈퍼SOL로 결제하면 어떤 혜택이 있을까요?",
+          "answer": "월 최대 3,000P 적립",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -94,18 +106,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 17일",
-      "updatedAt": "2026-09-17T01:02:00.000+09:00",
+      "dateLabel": "9월 18일",
+      "updatedAt": "2026-09-18T01:02:00.000+09:00",
       "items": [
         {
-          "question": "이번 '보름달처럼 꽉 찬 혜택! 100% 당첨되는 랜덤뽑기' 에 참여하기 위한 조건으로 맞는 것은?",
-          "answer": "KB Pay 고객 누구나",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "생활에 필요한 금융 지식과 정보를 제공하는 전문성있고 신뢰도 높은 KB금융그룹의 콘텐츠 플랫폼은 무엇일까요?",
-          "answer": "KB의 생각",
+          "question": "KB국민 트래블러스 체크카드 사용 시 KB Pay 외화머니로 환전하면 받을 수 있는 환율 우대는 얼마일까요?",
+          "answer": "100%",
           "pending": false,
           "source": "luckyquiz3"
         }
