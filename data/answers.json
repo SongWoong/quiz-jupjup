@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:21:18.051Z",
+  "generatedAt": "2026-09-18T21:36:47.049Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 76
     }
   ],
   "apps": [
@@ -72,32 +72,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 18일",
-      "updatedAt": "2026-09-17T10:44:33.000-07:00",
+      "dateLabel": "9월 19일",
+      "updatedAt": "2026-09-19T01:01:00.000+09:00",
       "items": [
         {
-          "question": "미국에서 돌아온 고우석 선수가 LG 팬들을 들뜨게 만들고 있습니다. 고 선수는 16일 NC 전에서 몇 개의 스트라이크를 연속 성공시켰을까요?",
-          "answer": "13개",
+          "question": "최근 롯데 자이언츠는 투수 엘빈 로드리게스 선수의 고향인 이 국가의 문화와 전통을 알리는 인터내셔널데이 행사를 치렀습니다. 로드리게스 선수의 모국은 어느 나라일까요?",
+          "answer": "도미니카공화국",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "햄버거 싸게 먹는 법! 맘스터치에서 8천원 이상 슈퍼SOL로 결제하면 어떤 혜택이 있을까요?",
-          "answer": "월 최대 3,000P 적립",
+          "question": "9월 한 달간 공차 매장에서 슈퍼SOL로 1만원 이상 결제 시 받을 수 있는 혜택은?",
+          "answer": "5,000 포인트 적립",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 미국에서 돌아온 고우석 선수가 16일 NC 전에서 몇 개의 스트라이크를 연속으로 성공시켰을까요?",
-          "answer": "13개",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 맘스터치에서 8천원 이상 슈퍼SOL로 결제하면 어떤 혜택을 받을 수 있을까요?",
-          "answer": "월 최대 3,000P 적립",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
