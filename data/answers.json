@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:25:29.619Z",
+  "generatedAt": "2026-09-18T18:21:18.051Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 78
+      "items": 74
     }
   ],
   "apps": [
@@ -124,12 +124,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 18일",
-      "updatedAt": "2026-09-18T01:02:00.000+09:00",
+      "dateLabel": "9월 19일",
+      "updatedAt": "2026-09-19T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB국민 트래블러스 체크카드 사용 시 KB Pay 외화머니로 환전하면 받을 수 있는 환율 우대는 얼마일까요?",
-          "answer": "100%",
+          "question": "SMRUN 26 클럽키트와 완주메달을 받을 수 있는 비대면 러닝대회 기간이 아닌 것은 언제일까요?",
+          "answer": "1. 10월 2일",
           "pending": false,
           "source": "luckyquiz3"
         }
