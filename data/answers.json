@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T17:59:06.713Z",
+  "generatedAt": "2026-09-19T20:33:05.801Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 61
+      "items": 59
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 77
+      "items": 79
     }
   ],
   "apps": [
@@ -43,19 +43,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 20일",
-      "updatedAt": "2026-09-19T09:29:19.000-07:00",
+      "updatedAt": "2026-09-20T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행 신한SOL뱅크에서 진행하는 쏠퀴즈의 정답은 무엇일까요?",
-          "answer": "Q.",
+          "question": "신한은행은 모임통장 월간행운 이벤트를 진행 중입니다. SOL 모임통장을 신규개설 또는 전환 후 이벤트 참여한 모임장에게 추첨을 통해 주어지는 경품으로 맞는 것은?",
+          "answer": "네이버페이 10만원권",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드 신한SOL페이의 퀴즈팡팡 문제 정답은 무엇일까요?",
-          "answer": "Q.",
+          "question": "이벤트 마감 임박! 새로워진 신한 슈퍼SOL을 설치한 고객 대상으로 추첨을 통해 다이슨 슈퍼소닉 O을 드려요. O에 해당하는 알파벳은?",
+          "answer": "r",
           "pending": false,
-          "source": "oneuljupjup"
+          "source": "luckyquiz3"
         }
       ]
     },
