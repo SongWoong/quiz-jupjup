@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T14:20:29.506Z",
+  "generatedAt": "2026-09-19T17:59:06.713Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 59
+      "items": 61
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 78
+      "items": 77
     }
   ],
   "apps": [
@@ -42,20 +42,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 19일",
-      "updatedAt": "2026-09-19T01:01:00.000+09:00",
+      "dateLabel": "9월 20일",
+      "updatedAt": "2026-09-19T09:29:19.000-07:00",
       "items": [
         {
-          "question": "최근 롯데 자이언츠는 투수 엘빈 로드리게스 선수의 고향인 이 국가의 문화와 전통을 알리는 인터내셔널데이 행사를 치렀습니다. 로드리게스 선수의 모국은 어느 나라일까요?",
-          "answer": "도미니카공화국",
+          "question": "Q. 신한은행 신한SOL뱅크에서 진행하는 쏠퀴즈의 정답은 무엇일까요?",
+          "answer": "Q.",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         },
         {
-          "question": "9월 한 달간 공차 매장에서 슈퍼SOL로 1만원 이상 결제 시 받을 수 있는 혜택은?",
-          "answer": "5,000 포인트 적립",
+          "question": "Q. 신한카드 신한SOL페이의 퀴즈팡팡 문제 정답은 무엇일까요?",
+          "answer": "Q.",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -82,20 +82,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 19일",
-      "updatedAt": "2026-09-19T01:02:00.000+09:00",
+      "dateLabel": "9월 20일",
+      "updatedAt": "2026-09-19T09:28:47.000-07:00",
       "items": [
         {
-          "question": "'나고야에 응원의 함성을!' 이벤트에서 배달의민족 5만원 모바일 상품권 당첨 인원은 몇 명일까요?",
-          "answer": "500명",
+          "question": "통장 속 여유자금을 하루만 맡겨도 이자를 얻을 수 있는 상품으로 틀린 것은 무엇일까요?",
+          "answer": "TDF",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "SMRUN 26 클럽키트와 완주메달을 받을 수 있는 비대면 러닝대회 기간이 아닌 것은 언제일까요?",
-          "answer": "1. 10월 2일",
+          "question": "Q. 9월 20일자 KB Pay 오늘의 퀴즈 문제는 아직 공개되지 않았어요.",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 통장 속 여유자금을 하루만 맡겨도 이자를 받을 수 있는 상품으로 틀린 것을 고르는 문제예요.",
+          "answer": "TDF",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
