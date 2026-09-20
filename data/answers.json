@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-20T12:15:40.946Z",
+  "generatedAt": "2026-09-20T16:45:33.571Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 53
+      "items": 49
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 74
     }
   ],
   "apps": [
@@ -36,20 +36,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 20일",
-      "updatedAt": "2026-09-20T01:01:00.000+09:00",
+      "dateLabel": "9월 21일",
+      "updatedAt": "2026-09-20T09:18:09.000-07:00",
       "items": [
         {
-          "question": "신한은행은 모임통장 월간행운 이벤트를 진행 중입니다. SOL 모임통장을 신규개설 또는 전환 후 이벤트 참여한 모임장에게 추첨을 통해 주어지는 경품으로 맞는 것은?",
-          "answer": "네이버페이 10만원권",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한은행 쏠뱅크 앱에서 진행하는 쏠퀴즈, 오늘의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "이벤트 마감 임박! 새로워진 신한 슈퍼SOL을 설치한 고객 대상으로 추첨을 통해 다이슨 슈퍼소닉 O을 드려요. O에 해당하는 알파벳은?",
-          "answer": "r",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한카드 쏠페이 앱의 퀴즈팡팡 이벤트, 오늘 정답도 함께 확인해볼까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -82,20 +82,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 20일",
-      "updatedAt": "2026-09-20T01:02:00.000+09:00",
+      "dateLabel": "9월 21일",
+      "updatedAt": "2026-09-20T09:21:02.000-07:00",
       "items": [
         {
-          "question": "KB Pay 여행의 유심사에서 제공하는 해외데이터 30% 할인 방식은 무엇일까요?",
-          "answer": "즉시 할인",
+          "question": "KB Pay 바로할인 서비스의 설명으로 틀린 것은 무엇일까요?",
+          "answer": "실물카드 필수",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "통장 속 여유자금을 하루만 맡겨도 이자를 얻을 수 있는 상품으로 틀린 것은 무엇일까요?",
-          "answer": "TDF",
+          "question": "Q. 오늘의 KB Pay 퀴즈 문제는 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. KB Pay 바로할인 서비스에 대한 설명 중 틀린 것을 골라야 해요.",
+          "answer": "실물카드 필수",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
