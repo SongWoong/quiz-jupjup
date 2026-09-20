@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-20T16:45:33.571Z",
+  "generatedAt": "2026-09-20T19:22:57.946Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 49
+      "items": 47
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 76
     }
   ],
   "apps": [
@@ -37,19 +37,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 21일",
-      "updatedAt": "2026-09-20T09:18:09.000-07:00",
+      "updatedAt": "2026-09-21T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행 쏠뱅크 앱에서 진행하는 쏠퀴즈, 오늘의 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "오늘 오후 2시 2026 KBO 리그 신인 드래프트가 열립니다. 신인 드래프트 1순위로 지명될 가능성이 가장 높은 하현승 선수는 현재 어느 고등학교에 재학 중일까요?",
+          "answer": "부산고등학교",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드 쏠페이 앱의 퀴즈팡팡 이벤트, 오늘 정답도 함께 확인해볼까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "O요일에는 CU에서 슈퍼 SOL 결제로 get 아이스아메리카노XL를 단돈 100원에 마실 수 있어요! O에 해당하는 요일은 언제일까요?",
+          "answer": "월",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
