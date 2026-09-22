@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-22T14:44:55.921Z",
+  "generatedAt": "2026-09-22T18:48:21.535Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 27
+      "items": 28
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 68
     }
   ],
   "apps": [
@@ -30,20 +30,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 22일",
-      "updatedAt": "2026-09-22T01:01:00.000+09:00",
+      "dateLabel": "9월 23일",
+      "updatedAt": "2026-09-22T09:17:34.000-07:00",
       "items": [
         {
-          "question": "2015년 오늘은 미국의 전설적인 야구선수이자 명언 제조기로 이름을 날렸던 요기 베라가 운명한 날입니다. 요기 베라 선수는 어느 팀의 영구 결번 선수일까요?",
-          "answer": "뉴욕 양키스",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한은행 신한SOL뱅크에서 진행하는 쏠퀴즈의 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "신한카드 고객이 신한 SOL LINK 계좌 최초 개설 시 받을 수 있는 캐시백 금액은 얼마일까요?",
-          "answer": "2만원",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한카드 신한SOL페이의 퀴즈팡팡 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
