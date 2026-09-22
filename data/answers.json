@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-21T23:13:15.311Z",
+  "generatedAt": "2026-09-22T04:45:20.228Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 30
+      "items": 28
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 69
     }
   ],
   "apps": [
@@ -155,25 +155,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 22일",
-      "updatedAt": "2026-09-21T09:25:49.000-07:00",
+      "updatedAt": "2026-09-22T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "추석 장보기, 이마트·트레이더스·롯데마트에서 많이 결제해도 2% 할인 받을 수 있는 이 서비스의 이름은?",
+          "answer": "바로할인",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "디지털화폐 CBDC는 어디서 발행될까요?",
           "answer": "중앙은행",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘 KB Pay 퀴즈의 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 디지털화폐 CBDC는 어디서 발행될까요?",
-          "answer": "중앙은행",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
