@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-23T16:49:16.706Z",
+  "generatedAt": "2026-09-23T20:15:02.580Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 27
+      "items": 24
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 71
     }
   ],
   "apps": [
@@ -43,19 +43,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 24일",
-      "updatedAt": "2026-09-23T09:17:08.000-07:00",
+      "updatedAt": "2026-09-24T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행 신한SOL뱅크에서 진행하는 '쏠퀴즈'의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "아래 선수 중 2027 KBO 신인 드래프트에 지명된 선수 중 나이가 가장 많은 선수는?",
+          "answer": "KT 최지만",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드 신한SOL페이의 '퀴즈팡팡' 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "가족 피싱 지킴이는 어떤 금융사고를 예방하기 위한 서비스일까요?",
+          "answer": "보이스피싱",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -76,30 +76,24 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 23일",
-      "updatedAt": "2026-09-22T18:45:21.000-07:00",
+      "dateLabel": "9월 24일",
+      "updatedAt": "2026-09-23T12:05:25.000-07:00",
       "items": [
         {
-          "question": "2028 대입안을 토대로 고교 과목 선택기준, 과목별 특징, 추천 과목까지 담은 내일교육의 ‘특별 단행본’ 이름은?",
-          "answer": "선택 과목 가이드북",
+          "question": "KB보험금청구권신탁은 사망보험금을 KB국민은행에게 맡겨, OOO에게 원하는 방식으로 전달할 수 있는 상품이다.",
+          "answer": "유가족",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "가을이 시작되는 시기로 낮과 밤의 길이가 거의 같아지는 때를 뜻하는 절기는 무엇일까요?",
-          "answer": "추분",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 2028 대입안을 토대로 고교 과목 선택기준, 과목별 특징, 추천 과목까지 담은 내일교육의 특별 단행본 이름은 무엇일까요?",
-          "answer": "선택 과목 가이드북",
-          "pending": false,
+          "question": "Q. 오늘의 KB Pay 퀴즈 문제는 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. 가을이 시작되는 시기로 낮과 밤의 길이가 거의 같아지는 때를 뜻하는 절기는 무엇일까요?",
-          "answer": "추분",
+          "question": "Q. KB보험금청구권신탁은 사망보험금을 KB국민은행에 맡겨, 누구에게 원하는 방식으로 전달할 수 있는 상품일까요?",
+          "answer": "유가족",
           "pending": false,
           "source": "oneuljupjup"
         }
