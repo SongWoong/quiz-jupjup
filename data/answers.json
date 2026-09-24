@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-24T14:58:10.800Z",
+  "generatedAt": "2026-09-24T19:03:53.128Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 69
     }
   ],
   "apps": [
@@ -30,20 +30,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 24일",
-      "updatedAt": "2026-09-24T01:01:00.000+09:00",
+      "dateLabel": "9월 25일",
+      "updatedAt": "2026-09-24T09:16:41.000-07:00",
       "items": [
         {
-          "question": "아래 선수 중 2027 KBO 신인 드래프트에 지명된 선수 중 나이가 가장 많은 선수는?",
-          "answer": "KT 최지만",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한은행 신한SOL뱅크에서 진행하는 쏠퀴즈의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "가족 피싱 지킴이는 어떤 금융사고를 예방하기 위한 서비스일까요?",
-          "answer": "보이스피싱",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한카드 신한SOL페이의 퀴즈팡팡 정답도 함께 확인해볼게요.",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -64,18 +64,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 24일",
-      "updatedAt": "2026-09-24T01:02:00.000+09:00",
+      "dateLabel": "9월 25일",
+      "updatedAt": "2026-09-25T01:02:00.000+09:00",
       "items": [
         {
-          "question": "'추석 빅보너스 1천만원! 보름달만큼 차오르는 잭팟'에서 추석 선물은 총 몇 명에게 드릴까요?",
-          "answer": "3,011명",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KB보험금청구권신탁은 사망보험금을 KB국민은행에게 맡겨, OOO에게 원하는 방식으로 전달할 수 있는 상품이다.",
-          "answer": "유가족",
+          "question": "KB스타뱅킹 자동차 테마에서 '최고가에 내 차 팔기'를 할 수 있는 서비스의 이름은 무엇일까요?",
+          "answer": "팔아줘 차차차",
           "pending": false,
           "source": "luckyquiz3"
         }
