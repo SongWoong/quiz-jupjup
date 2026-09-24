@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T19:03:53.128Z",
+  "generatedAt": "2026-09-24T22:18:56.923Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 18
+      "items": 20
     },
     {
       "name": "luckyquiz3",
@@ -65,13 +65,25 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 25일",
-      "updatedAt": "2026-09-25T01:02:00.000+09:00",
+      "updatedAt": "2026-09-24T12:04:21.000-07:00",
       "items": [
         {
           "question": "KB스타뱅킹 자동차 테마에서 '최고가에 내 차 팔기'를 할 수 있는 서비스의 이름은 무엇일까요?",
           "answer": "팔아줘 차차차",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘의 KB Pay 퀴즈 문제는 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. KB스타뱅킹 자동차 테마에서 내 차를 최고가에 팔 수 있는 서비스의 이름은 무엇일까요?",
+          "answer": "팔아줘 차차차",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
