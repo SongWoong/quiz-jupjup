@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-23T23:37:31.377Z",
+  "generatedAt": "2026-09-24T04:37:51.783Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 21
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 70
     }
   ],
   "apps": [
@@ -62,12 +62,12 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "9월 23일",
-      "updatedAt": "2026-09-23T15:46:00.000+09:00",
+      "dateLabel": "9월 24일",
+      "updatedAt": "2026-09-24T09:46:00.000+09:00",
       "items": [
         {
-          "question": "검색창에 멕시카나를 검색하고 지금 바로 멕시카나 앱에서 고추화삭 포장 5,000원 할인 쿠폰 받아가세요!🎁 양념인데 이렇게 바삭해도 돼? 바삭한 소리가 귀를 사로잡는 멕시카나의 소리나는 양념치킨! 화끈한 양념과 바삭바삭한 고추크런치 토핑의 조합으로 한 번 먹으면 멈출 수 없는 이 화제의 제품 이름은?? (힌트 : 초성 ㄱㅊㅎㅅ)🌶️",
-          "answer": "고추화삭",
+          "question": "오늘만! 마나도 휴양여행 G마켓 특가 찬스✨ 마나도 NDC리조트 풀패키지 5일 NO쇼핑/NO유류세인상+OOO투어 포함 250불 상당 혜택! ✅ 인천 출발 ✅ 3박 5일 G마켓 특가 놓치지마세요~!",
+          "answer": "리하가",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -77,25 +77,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 24일",
-      "updatedAt": "2026-09-23T12:05:25.000-07:00",
+      "updatedAt": "2026-09-24T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "'추석 빅보너스 1천만원! 보름달만큼 차오르는 잭팟'에서 추석 선물은 총 몇 명에게 드릴까요?",
+          "answer": "3,011명",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "KB보험금청구권신탁은 사망보험금을 KB국민은행에게 맡겨, OOO에게 원하는 방식으로 전달할 수 있는 상품이다.",
           "answer": "유가족",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘의 KB Pay 퀴즈 문제는 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. KB보험금청구권신탁은 사망보험금을 KB국민은행에 맡겨, 누구에게 원하는 방식으로 전달할 수 있는 상품일까요?",
-          "answer": "유가족",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
