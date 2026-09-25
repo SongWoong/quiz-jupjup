@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-25T18:30:45.647Z",
+  "generatedAt": "2026-09-25T22:14:18.935Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 67
     }
   ],
   "apps": [
@@ -76,20 +76,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 25일",
-      "updatedAt": "2026-09-25T01:02:00.000+09:00",
+      "dateLabel": "9월 26일",
+      "updatedAt": "2026-09-25T12:01:14.000-07:00",
       "items": [
         {
-          "question": "노리2 체크카드(KB Pay)를 신규 발급하고 3만원 이상 이용하면 받을 수 있는 캐시백은 얼마일까요? *준법감시인 심의필 260921-03177-KOP",
-          "answer": "3만원",
+          "question": "서로 다른 서비스에서 동일한 사용자임을 확인하기 위한 고유값인 '연계정보'를 뜻하는 단어는 무엇일까요?",
+          "answer": "CI",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "KB스타뱅킹 자동차 테마에서 '최고가에 내 차 팔기'를 할 수 있는 서비스의 이름은 무엇일까요?",
-          "answer": "팔아줘 차차차",
+          "question": "Q. 오늘의 KB Pay 퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 서로 다른 서비스에서 동일한 사용자임을 확인하기 위한 고유값인 '연계정보'를 뜻하는 단어는 무엇일까요?",
+          "answer": "CI",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
