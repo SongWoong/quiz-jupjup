@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-25T22:14:18.935Z",
+  "generatedAt": "2026-09-26T01:28:27.434Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 16
+      "items": 12
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 67
+      "items": 68
     }
   ],
   "apps": [
@@ -62,12 +62,12 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "9월 25일",
-      "updatedAt": "2026-09-25T19:49:00.000+09:00",
+      "dateLabel": "9월 26일",
+      "updatedAt": "2026-09-26T09:49:00.000+09:00",
       "items": [
         {
-          "question": "🥚 로쉴드 훈제 메추리알 1+1 총 40개입 22,130원! O나무로 쫄깃하게 훈제해 간편하게 즐기는 고단백 간식✨ 100% 국산, 언제 어디서나 간편한 단백질 보충! O안에 들어갈 단어는 무엇일까요?",
-          "answer": "참",
+          "question": "오늘만! 로지텍 무소음 무선 키보드마우스 특가✨ ✅ 편안한 OOOO 키보드 ✅ 컴팩트 사이즈의 휴대용 무선 마우스 ✅ 안정적인 무선 연결 G마켓 특가 놓치지마세요~!",
+          "answer": "풀사이즈",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -77,25 +77,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 26일",
-      "updatedAt": "2026-09-25T12:01:14.000-07:00",
+      "updatedAt": "2026-09-26T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "노리2 체크카드(KB Pay)를 신규 발급하고 3만원 이상 이용하면 받을 수 있는 캐시백은 얼마일까요?",
+          "answer": "3만원",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "서로 다른 서비스에서 동일한 사용자임을 확인하기 위한 고유값인 '연계정보'를 뜻하는 단어는 무엇일까요?",
           "answer": "CI",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘의 KB Pay 퀴즈 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 서로 다른 서비스에서 동일한 사용자임을 확인하기 위한 고유값인 '연계정보'를 뜻하는 단어는 무엇일까요?",
-          "answer": "CI",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
