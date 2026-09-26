@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-26T01:28:27.434Z",
+  "generatedAt": "2026-09-26T07:34:25.729Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 12
+      "items": 10
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 70
     }
   ],
   "apps": [
@@ -43,19 +43,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 26일",
-      "updatedAt": "2026-09-25T09:16:42.000-07:00",
+      "updatedAt": "2026-09-26T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행 쏠뱅크 앱에서 진행하는 쏠퀴즈의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "지난주 열린 신인 드래프트는 흥미로운 장면이 많이 연출되었습니다. 롯데가 지명한 박근서 선수의 아버님이 무대에서 흥에 겨워 부른 곡 라 밤바는 어느 국가의 민요일까요?",
+          "answer": "멕시코",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드 쏠페이 앱에서 진행하는 퀴즈팡팡의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "해외여행 준비 중이라면 주목! 신한EZ손해보험 해외여행 보험 상품 가입 시, 신한카드로 결제하면 최대 몇 % 할인받을 수 있을까요?",
+          "answer": "10%",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "updatedAt": "2026-09-26T01:02:00.000+09:00",
       "items": [
         {
-          "question": "노리2 체크카드(KB Pay)를 신규 발급하고 3만원 이상 이용하면 받을 수 있는 캐시백은 얼마일까요?",
-          "answer": "3만원",
+          "question": "요즘 야장을 찾아갈 때 주로 활용하는 것은 무엇일까요?",
+          "answer": "지도 앱과 SNS",
           "pending": false,
           "source": "luckyquiz3"
         },
