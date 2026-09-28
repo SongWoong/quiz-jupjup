@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28T15:20:27.213Z",
+  "generatedAt": "2026-09-28T21:52:42.610Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 10
+      "items": 14
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 74
     }
   ],
   "apps": [
@@ -90,31 +90,19 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 28일",
-      "updatedAt": "2026-09-27T09:17:20.000-07:00",
+      "dateLabel": "9월 29일",
+      "updatedAt": "2026-09-28T09:15:44.000-07:00",
       "items": [
         {
-          "question": "메이저리그 소식입니다. 아래 팀 중 MLB 아메리칸리그 포스트시즌 진출을 확정한 팀이 아닌 것은?",
-          "answer": "디트로이트 타이거스",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "SOL페이에 계좌 등록만 하면 결제부터 송금까지 간편하게 이용할 수 있는 서비스는?",
-          "answer": "오픈뱅킹",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 다음 팀 중 MLB 아메리칸리그 포스트시즌 진출을 확정하지 못한 팀은 어디일까요?",
-          "answer": "디트로이트 타이거스",
-          "pending": false,
+          "question": "Q. 신한은행(신한SOL뱅크)에서 진행하는 쏠퀴즈의 오늘 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. SOL페이에 계좌만 등록해두면 결제부터 송금까지 간편하게 이용할 수 있는 서비스는 무엇일까요?",
-          "answer": "오픈뱅킹",
-          "pending": false,
+          "question": "Q. 신한카드(신한SOL페이)에서 진행하는 퀴즈팡팡의 오늘 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
           "source": "oneuljupjup"
         }
       ]
@@ -160,14 +148,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 28일",
-      "updatedAt": "2026-09-28T01:02:00.000+09:00",
+      "dateLabel": "9월 29일",
+      "updatedAt": "2026-09-28T12:02:37.000-07:00",
       "items": [
         {
-          "question": "기업 실적이 시장 예상치보다 훨씬 좋은 경우를 무엇이라고 할까요?",
-          "answer": "어닝서프라이즈",
+          "question": "실손24에 대한 설명으로 틀린 것은 무엇일까요?",
+          "answer": "미성년자 자녀 보험금 청구는 불가능",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘 KB Pay 퀴즈의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 실손24에 대한 설명으로 틀린 것은 무엇일까요?",
+          "answer": "미성년자 자녀 보험금 청구는 불가능",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
