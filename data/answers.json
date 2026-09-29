@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28T21:52:42.610Z",
+  "generatedAt": "2026-09-29T01:50:22.968Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 14
+      "items": 10
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 76
     }
   ],
   "apps": [
@@ -91,19 +91,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 29일",
-      "updatedAt": "2026-09-28T09:15:44.000-07:00",
+      "updatedAt": "2026-09-29T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행(신한SOL뱅크)에서 진행하는 쏠퀴즈의 오늘 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "이번 아이치 나고야 아시안게임에서 한국야구가 시상대 가장 높은 곳을 차지했습니다. 이번 금메달은 한국 야구대표팀의 몇 회 연속 아시안게임 금메달일까요?",
+          "answer": "5회",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드(신한SOL페이)에서 진행하는 퀴즈팡팡의 오늘 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "9월 한 달간 슈퍼SOL로 바나프레소 아메리카노 혜택을 받으려면, 어떻게 주문해야 할까요?",
+          "answer": "바나프레소 앱오더에서 슈퍼SOL 결제",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -149,25 +149,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "9월 29일",
-      "updatedAt": "2026-09-28T12:02:37.000-07:00",
+      "updatedAt": "2026-09-29T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "부동산 케어, 신상정보 관리 및 최대 10억 한도의 화재피해보상 혜택이 제공되는 이 서비스의 이름은?",
+          "answer": "홈케어서비스",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "실손24에 대한 설명으로 틀린 것은 무엇일까요?",
           "answer": "미성년자 자녀 보험금 청구는 불가능",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘 KB Pay 퀴즈의 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 실손24에 대한 설명으로 틀린 것은 무엇일까요?",
-          "answer": "미성년자 자녀 보험금 청구는 불가능",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
@@ -177,12 +171,6 @@
       "dateLabel": "9월 21일",
       "updatedAt": "2026-09-21T10:58:00.000+09:00",
       "items": [
-        {
-          "question": "추석 전 ㅇ심배송 인덕션/광파오븐 최저가 추석 대잔치 경품 자동 응모! 풍요로운 추석 감사 SALE! 요리시간 절반으로 똑똑한 나비엔 매직 주방템! 스타 셰프 에드워드리가 제안하는 쾌적하고 스마트한 주방 나비엔 매직 BEST 제품! 나비엔 매직 전기레인지 인덕션, 멀티 광파오븐, 전자레인지 까지! 최대 혜택을 나비엔 매직 라이브에서 만나보세요!",
-          "answer": "안",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
         {
           "question": "시간이 지나도 소장하고 싶은 에센셜 웨어를 선보이는 이 남성복 브랜드의 이름은? ㄷㄴㅇㅋㄹㅁ 일상을 위한 정제된 캐주얼을 선보이는 이 브랜드는 남프랑스의 여유를 간직한 프렌치 맨즈웨어 브랜드로, 기본에 충실하되 현대적인 감각을 더한 디자인을 추구합니다. 포멀과 캐주얼을 아우르며 삶의 다양한 모먼트에 있어 자신만의 클래식한 남성미를 지향하는 이 브랜드의 이름을 맞혀주세요. 추석특집으로 선보이는 최대 72% 혜택의 라이브도 놓치지 마세요! 연프 출신 쇼호스트 \"조휘현\"과 함께 하는 26FALL 신상 네이버 런칭 라이브! ① 라이브특가 최대 72% ㄷㄴㅇㅋㄹㅁFF 혜택 ② 알림동의 10% + 최대6% 적립",
           "answer": "다니엘크레뮤",
