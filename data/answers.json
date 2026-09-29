@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-29T15:43:12.833Z",
+  "generatedAt": "2026-09-29T20:41:43.374Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 9
+      "items": 13
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 73
     }
   ],
   "apps": [
@@ -60,20 +60,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "9월 29일",
-      "updatedAt": "2026-09-29T01:01:00.000+09:00",
+      "dateLabel": "9월 30일",
+      "updatedAt": "2026-09-29T09:18:20.000-07:00",
       "items": [
         {
-          "question": "이번 아이치 나고야 아시안게임에서 한국야구가 시상대 가장 높은 곳을 차지했습니다. 이번 금메달은 한국 야구대표팀의 몇 회 연속 아시안게임 금메달일까요?",
-          "answer": "5회",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한은행(신한SOL뱅크)에서 진행하는 '쏠퀴즈'의 오늘 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "9월 한 달간 슈퍼SOL로 바나프레소 아메리카노 혜택을 받으려면, 어떻게 주문해야 할까요?",
-          "answer": "바나프레소 앱오더에서 슈퍼SOL 결제",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 신한카드(신한SOL페이)에서 진행하는 '퀴즈팡팡'의 오늘 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -94,20 +94,20 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "9월 29일",
-      "updatedAt": "2026-09-29T01:02:00.000+09:00",
+      "dateLabel": "9월 30일",
+      "updatedAt": "2026-09-29T09:31:39.000-07:00",
       "items": [
         {
-          "question": "부동산 케어, 신상정보 관리 및 최대 10억 한도의 화재피해보상 혜택이 제공되는 이 서비스의 이름은?",
-          "answer": "홈케어서비스",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 오늘 KB Pay 오늘의 퀴즈 문제의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         },
         {
-          "question": "실손24에 대한 설명으로 틀린 것은 무엇일까요?",
-          "answer": "미성년자 자녀 보험금 청구는 불가능",
+          "question": "Q. KB스타뱅킹 스타퀴즈 문제는 O, X 중 무엇이 정답일까요?",
+          "answer": "O",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
