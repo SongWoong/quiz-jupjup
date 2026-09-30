@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-29T20:41:43.374Z",
+  "generatedAt": "2026-09-30T00:20:58.900Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 73
+      "items": 75
     }
   ],
   "apps": [
@@ -61,19 +61,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "9월 30일",
-      "updatedAt": "2026-09-29T09:18:20.000-07:00",
+      "updatedAt": "2026-09-30T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행(신한SOL뱅크)에서 진행하는 '쏠퀴즈'의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "작년 오늘은 우리 시대 최고의 마무리 투수가 은퇴식을 진행하고 등번호 21번을 영구결번으로 남긴 날입니다. 이날 은퇴한 선수는 누구일까요?",
+          "answer": "오승환",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드(신한SOL페이)에서 진행하는 '퀴즈팡팡'의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "1원 결제로 나만의 홈카페 아이템을 경품으로 받을 수 있는 '디스커버 SOL께요!' 이벤트, 미당첨시에는 별도 혜택이 없다?",
+          "answer": "X",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
