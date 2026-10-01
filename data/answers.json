@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T13:03:00.290Z",
+  "generatedAt": "2026-10-01T18:49:29.970Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 9
+      "items": 11
     },
     {
       "name": "luckyquiz3",
@@ -42,32 +42,20 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 1일",
-      "updatedAt": "2026-09-30T09:16:02.000-07:00",
+      "dateLabel": "10월 2일",
+      "updatedAt": "2026-10-02T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2년전 오늘은 롯데의 한 타자가 KBO 리그 역대 최다인 202안타를 기록한 날입니다. 아래 중 어떤 선수의 기록일까요?",
-          "answer": "레이예스",
+          "question": "KBO가 소장 중인 한국프로야구 창립기획 자료가 예비문화유산 발굴 공모전에서 최우수상을 수상했습니다. 본 기획에 따라 한국 프로야구는 1982년 총 몇개 구단으로 출범되었을까요?",
+          "answer": "6개 구단",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "매월 1일부터 3일까지 최대 2.1만원을 할인 받을 수 있는 마이샵 최대 혜택 이벤트의 이름은?",
-          "answer": "마이샵데이",
+          "question": "일상의 소비가 기부가 되는 신한카드 같이 페이! 땡겨요에서 신한카드로 몇 번 결제하면 캠페인 참여가 완료될까요?",
+          "answer": "7회",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 2년 전 오늘, 롯데 소속 선수가 KBO 리그 역대 최다인 202안타를 기록했다고 하는데요, 이 기록의 주인공은 누구일까요?",
-          "answer": "레이예스",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 매월 1일부터 3일까지 마이샵에서 최대 2.1만원까지 할인 혜택을 받을 수 있는 이벤트의 이름은 무엇일까요?",
-          "answer": "마이샵데이",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
@@ -100,20 +88,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 1일",
-      "updatedAt": "2026-10-01T01:02:00.000+09:00",
+      "dateLabel": "10월 2일",
+      "updatedAt": "2026-10-01T09:22:27.000-07:00",
       "items": [
         {
-          "question": "학부모가 읽는 교육 전문 주간지 '내일교육'의 2학기 맞이 기획전 최대 할인율은 몇 %일까요?",
-          "answer": "37%",
+          "question": "아파트관리비 중 아파트 단지 전체가 나눠 내는 '공용관리비'에 해당하지 않는 것은 무엇일까요?",
+          "answer": "난방비",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "경기가 회복할 때 일부는 빠르게 성장하는 반면 다른쪽은 어려움을 겪어 격차가 벌어지는 현상을 O자형 경제라고 한다",
-          "answer": "2. K",
+          "question": "Q. 오늘의 KB Pay 퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 아파트관리비 중 아파트 단지 전체가 나눠 내는 '공용관리비'에 해당하지 않는 것은 무엇일까요?",
+          "answer": "난방비",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
