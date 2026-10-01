@@ -1,75 +1,27 @@
 {
-  "generatedAt": "2026-09-30T23:42:08.919Z",
+  "generatedAt": "2026-10-01T05:42:10.754Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 11
+      "items": 9
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 77
+      "items": 80
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "9월 30일",
-      "updatedAt": "2026-09-30T20:54:00.000+09:00",
+      "dateLabel": "10월 1일",
+      "updatedAt": "2026-10-01T09:54:00.000+09:00",
       "items": [
         {
-          "question": "현재 팬마음에서는 2026 oo 트롯 스타 투표를 진행하고 있어요. 후보에는 진해성/강문경/진욱 등이 있어요.(초성 힌트: ㅊㅅ)",
-          "answer": "추석",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "ooo에서 진행 중인 2026 추석 트롯 스타 투표에서는 1위를 달성한 스타에게 서울 핵심 지하철역 ooo 광고를 선물해드려요.(초성 힌트: ㅍㅁㅇ)",
-          "answer": "팬마음",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "팬마음 2026 추석 트롯 스타 투표에서는 1위를 달성한 스타에게 유동 인구가 많은 건대입구에 3중 ooo 광고를 선물해 드려요.(초성 힌트: ㅊㄷㅎ)",
-          "answer": "초대형",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "진해성/강문경/진욱 등이 포함된 팬마음 2026 추석 트롯 스타 투표에서는 2위를 달성한 스타에게 2주 동안 서울 ooo역 사각기동 광고를 드려요.(초성 힌트: ㅈㅎㅊ)",
-          "answer": "지하철",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "컷슬린 안티스파이크 포 다이어트는 ㅇㅇㅇㅇ에 관심을 가지고 계신 분들에게 추천합니다. (초성 : ㅎㄷㄱㄹ)",
-          "answer": "혈당관리",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "컷슬린 안티스파이크 포 다이어트는 볼록 나온 ㅇㅇ, 울퉁불퉁한 군살이 고민이신 분들에게 추천합니다. (초성 : ㅂㅅ)",
-          "answer": "뱃살",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "컷슬린 안티스파이크 포 다이어트는 혈당 케어, 콜레스테롤 개선, ㅇㅇㅇ 감소에 도움을 줄 수 있는 다이어트 보조제입니다. (초성 : ㅊㅈㅂ)",
-          "answer": "체지방",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "종근당건강 \"락토핏 코어 5통\" 을 \"락토핏 코어 60포\" 증정 구성으로 초특가 00,000원에 진행됩니다. 00,000에 들어갈 정답은 무엇일까요?",
-          "answer": "59900",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "오늘 단 하루 푸드루트 뼈건강 비타민 K2&D를 2박스 14,900원 파격가에 특별 행사를 진행합니다. 1박스에 7천원대로 절대 놓치지 마세요! 비타민K2&D는 oooo 발생 위험감소에 도움을 줍니다.oooo 안에 들어갈 단어는 무엇일까요?",
-          "answer": "골다공증",
+          "question": "맛있어서 매일 아침 1알 먹었을 뿐인데 묵직한 배랑 이별했어요⏰이번주 한정 [1+1]+10%쿠폰 오늘이 마지막!⏰ 소휘 푸룬구미는 말티톨·물엿·젤라틴·소비톨없이 푸룬원액을 가득 담아 매일 맛있게 챙기는 비움템입니다. 푸룬구미를 캐시딜에서만 이번주 한정 2박스 10% 할인쿠폰까지! OOOOO원+무료배송으로 만나보세요! OOOOO에 들어갈 숫자는?",
+          "answer": "32900",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -110,12 +62,24 @@
     {
       "id": "cashdoc",
       "label": "캐시닥",
-      "dateLabel": "9월 30일",
-      "updatedAt": "2026-09-30T20:49:00.000+09:00",
+      "dateLabel": "10월 1일",
+      "updatedAt": "2026-10-01T11:16:00.000+09:00",
       "items": [
         {
-          "question": "3장 1세트 남성 여성 순면 100% 무지 OOO 긴팔 무지티 기본티 티셔츠 흰티 면티 긴팔티 G마켓 하루 초특가 3장 1만원대! 데일리로 입기 좋은 극가성비 순면 긴팔티, 특가 확인하세요! OOO에 들어갈 단어는 무엇일까요? (힌트: ㄹㅇㄷ)",
-          "answer": "라운드",
+          "question": "리비힐 엑소좀 마스크팩은 ㅇㅇ 성분이 함유되어 탄탄한 제형감이 느껴지는 기능성 앰플을 자랑하는 제품입니다. ㅇㅇ은 무엇일까요? (초성 : ㄷㅈ)",
+          "answer": "독점",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "리비힐 엑소좀 마스크팩은 푸석한 피부결이 고민이신 분, 피부 컨디션이 흐트러져 ㅇㅇ 관리가 필요하신 분께 추천드립니다. ㅇㅇ은 무엇일까요? (초성 : ㅈㅂ)",
+          "answer": "장벽",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "전국 40개 이상 전문기관에 입점되어 있는 리비힐 엑소좀 마스크팩은 ㅇㅇㅇㅇㅇ 성분을 마스크팩 한 장에 그대로 담아 럭셔리 홈케어가 가능합니다. ㅇㅇㅇㅇㅇ는 무엇일까요? (초성 : ㅅㅋㅂㅅㅌ)",
+          "answer": "스킨부스터",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -125,25 +89,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "10월 1일",
-      "updatedAt": "2026-09-30T09:27:03.000-07:00",
+      "updatedAt": "2026-10-01T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "학부모가 읽는 교육 전문 주간지 '내일교육'의 2학기 맞이 기획전 최대 할인율은 몇 %일까요?",
+          "answer": "37%",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "경기가 회복할 때 일부는 빠르게 성장하는 반면 다른쪽은 어려움을 겪어 격차가 벌어지는 현상을 O자형 경제라고 한다",
           "answer": "2. K",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘의 첫 번째 문제는 아직 구체적인 내용이 공개되지 않았어요.",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 경기가 회복하는 과정에서 일부는 빠르게 성장하고 다른 일부는 어려움을 겪어 격차가 벌어지는 현상을 무엇이라고 할까요?",
-          "answer": "K",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
