@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-03T12:27:38.738Z",
+  "generatedAt": "2026-10-03T17:12:28.864Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 9
+      "items": 13
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 85
+      "items": 81
     }
   ],
   "apps": [
@@ -42,31 +42,19 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 3일",
-      "updatedAt": "2026-10-02T09:16:41.000-07:00",
+      "dateLabel": "10월 4일",
+      "updatedAt": "2026-10-03T09:17:42.000-07:00",
       "items": [
         {
-          "question": "오늘은 하늘이 열린날을 의미하는 개천절로 단군왕검이 이 국가를 세운 것을 기념하는 날입니다. 한반도 최고의 고대 국가인 이 국가로 맞는 것은?",
-          "answer": "고조선",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "전통을 새롭게 즐기는 디저트 트렌드 신조어는?",
-          "answer": "떡지순례",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 개천절은 하늘이 열린 날을 의미하며 단군왕검이 세운 한반도 최고의 고대 국가를 기념하는 날인데, 이 국가의 이름은 무엇일까요?",
-          "answer": "고조선",
-          "pending": false,
+          "question": "Q. 신한은행(신한SOL뱅크) 쏠퀴즈의 오늘 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. 전통을 새롭게 즐기는 디저트 트렌드를 가리키는 신조어는 무엇일까요?",
-          "answer": "떡지순례",
-          "pending": false,
+          "question": "Q. 신한카드(신한SOL페이) 퀴즈팡팡의 오늘 문제 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
           "source": "oneuljupjup"
         }
       ]
@@ -88,14 +76,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 3일",
-      "updatedAt": "2026-10-03T01:02:00.000+09:00",
+      "dateLabel": "10월 4일",
+      "updatedAt": "2026-10-03T09:22:36.000-07:00",
       "items": [
         {
-          "question": "개천절은 '하늘이 열린 날'이라는 의미의 국경일입니다. 개천절과 가장 관련 깊은 인물은 누구일까요?",
-          "answer": "4. 단군왕검",
+          "question": "많이 오른 자산은 일부 수익을 실현하고, 하락한 자산은 다시 낮은 가격에 매입하여 포트폴리오를 관리하는 과정을 무엇이라고 할까요?",
+          "answer": "리밸런싱",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘의 KB Pay 퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 많이 오른 자산은 일부 수익을 실현하고, 하락한 자산은 다시 낮은 가격에 매입하여 포트폴리오를 관리하는 과정을 무엇이라고 할까요?",
+          "answer": "리밸런싱",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
