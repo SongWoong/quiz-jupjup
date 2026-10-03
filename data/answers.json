@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-03T17:12:28.864Z",
+  "generatedAt": "2026-10-03T21:08:47.941Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 13
+      "items": 11
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 81
+      "items": 83
     }
   ],
   "apps": [
@@ -43,19 +43,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "10월 4일",
-      "updatedAt": "2026-10-03T09:17:42.000-07:00",
+      "updatedAt": "2026-10-04T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행(신한SOL뱅크) 쏠퀴즈의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "2026 신한 SOL KBO 리그가 2년 연속 1,200만 관중을 달성했습니다. 올 시즌 현재까지 가장 높은 홈구장 좌석 점유율을 기록한 팀은?",
+          "answer": "삼성",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드(신한SOL페이) 퀴즈팡팡의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "앱 하나로 편리한 금융 생활, 신한 슈퍼SOL! 이벤트 응모 후 신규 가입하면 몇 포인트를 받을 수 있을까요?",
+          "answer": "10,000P",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
