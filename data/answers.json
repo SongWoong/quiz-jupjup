@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-04T13:09:00.084Z",
+  "generatedAt": "2026-10-04T18:06:13.264Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 9
+      "items": 11
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 85
     }
   ],
   "apps": [
@@ -42,20 +42,32 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 4일",
-      "updatedAt": "2026-10-04T01:01:00.000+09:00",
+      "dateLabel": "10월 5일",
+      "updatedAt": "2026-10-04T09:16:10.000-07:00",
       "items": [
         {
-          "question": "2026 신한 SOL KBO 리그가 2년 연속 1,200만 관중을 달성했습니다. 올 시즌 현재까지 가장 높은 홈구장 좌석 점유율을 기록한 팀은?",
-          "answer": "삼성",
+          "question": "2007년 오늘은 KBO 리그 최초 인천 연고 우승팀이자 통산 4회 우승에 빛났던 이 구단이 고별전을 치른 날입니다. 이 팀은 아래 중 어느 곳일까요?",
+          "answer": "현대 유니콘스",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "앱 하나로 편리한 금융 생활, 신한 슈퍼SOL! 이벤트 응모 후 신규 가입하면 몇 포인트를 받을 수 있을까요?",
-          "answer": "10,000P",
+          "question": "( )·XO·NEO·벤츠 카드로 떠나는 특별한 해외 여행!",
+          "answer": "Plan",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 2007년 오늘, KBO 리그 최초로 인천을 연고로 우승을 차지했고 통산 4회 우승을 기록했던 구단이 고별전을 치렀는데요, 이 팀은 어디일까요?",
+          "answer": "현대 유니콘스",
+          "pending": false,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. ( )·XO·NEO·벤츠 카드로 떠나는 해외 여행, 빈칸에 들어갈 단어는 무엇일까요?",
+          "answer": "Plan",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -76,20 +88,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 4일",
-      "updatedAt": "2026-10-04T01:02:00.000+09:00",
+      "dateLabel": "10월 5일",
+      "updatedAt": "2026-10-04T09:22:51.000-07:00",
       "items": [
         {
-          "question": "서울 도심에서 단풍과 억새를 함께 즐길 수 있는 가을 나들이 명소는?",
-          "answer": "서울숲",
+          "question": "치과 치료 중 일반적으로 실손보험에서 보장되지 않는 항목은 무엇일까요?",
+          "answer": "치아 교정",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "많이 오른 자산은 일부 수익을 실현하고, 하락한 자산은 다시 낮은 가격에 매입하여 포트폴리오를 관리하는 과정을 무엇이라고 할까요?",
-          "answer": "리밸런싱",
+          "question": "Q. 오늘 KB Pay에서 출제된 퀴즈의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 치과 치료 중 일반적으로 실손보험에서 보장되지 않는 항목은 무엇일까요?",
+          "answer": "치아 교정",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
