@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-04T00:31:56.046Z",
+  "generatedAt": "2026-10-04T06:47:04.281Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 11
+      "items": 9
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 83
+      "items": 84
     }
   ],
   "apps": [
@@ -77,25 +77,19 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "10월 4일",
-      "updatedAt": "2026-10-03T09:22:36.000-07:00",
+      "updatedAt": "2026-10-04T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "서울 도심에서 단풍과 억새를 함께 즐길 수 있는 가을 나들이 명소는?",
+          "answer": "서울숲",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "많이 오른 자산은 일부 수익을 실현하고, 하락한 자산은 다시 낮은 가격에 매입하여 포트폴리오를 관리하는 과정을 무엇이라고 할까요?",
           "answer": "리밸런싱",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘의 KB Pay 퀴즈 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 많이 오른 자산은 일부 수익을 실현하고, 하락한 자산은 다시 낮은 가격에 매입하여 포트폴리오를 관리하는 과정을 무엇이라고 할까요?",
-          "answer": "리밸런싱",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
