@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-05T15:55:03.251Z",
+  "generatedAt": "2026-10-05T22:33:49.509Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 9
+      "items": 13
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 85
+      "items": 86
     }
   ],
   "apps": [
@@ -48,30 +48,30 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 5일",
-      "updatedAt": "2026-10-04T09:16:10.000-07:00",
+      "dateLabel": "10월 6일",
+      "updatedAt": "2026-10-05T09:18:39.000-07:00",
       "items": [
         {
-          "question": "2007년 오늘은 KBO 리그 최초 인천 연고 우승팀이자 통산 4회 우승에 빛났던 이 구단이 고별전을 치른 날입니다. 이 팀은 아래 중 어느 곳일까요?",
-          "answer": "현대 유니콘스",
+          "question": "포스트시즌을 앞두고 삼성의 간판타자 구자욱 선수의 부상이 팬들을 안타깝게 하고 있습니다. 빠른 회복을 바랍니다. 이번에 구선수가 부상을 입은 부위는?",
+          "answer": "햄스트링",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "( )·XO·NEO·벤츠 카드로 떠나는 특별한 해외 여행!",
-          "answer": "Plan",
+          "question": "메가MGC커피에서 신한 슈퍼SOL/SOL페이로 결제 시, 포인트 적립을 받으려면 최소 얼마 이상 결제해야 할까요?",
+          "answer": "1,000원 이상",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "Q. 2007년 오늘, KBO 리그 최초로 인천을 연고로 우승을 차지했고 통산 4회 우승을 기록했던 구단이 고별전을 치렀는데요, 이 팀은 어디일까요?",
-          "answer": "현대 유니콘스",
+          "question": "Q. 포스트시즌을 앞두고 삼성의 간판타자 구자욱 선수가 부상을 입어 팬들이 안타까워하고 있는데요, 이번에 부상을 입은 부위는 어디일까요?",
+          "answer": "햄스트링",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. ( )·XO·NEO·벤츠 카드로 떠나는 해외 여행, 빈칸에 들어갈 단어는 무엇일까요?",
-          "answer": "Plan",
+          "question": "Q. 신한카드(신한SOL페이) 퀴즈팡팡 문제의 빈칸을 채워볼까요, 정답은 얼마 이상일까요?",
+          "answer": "1,000원 이상",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -94,14 +94,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 5일",
-      "updatedAt": "2026-10-05T01:02:00.000+09:00",
+      "dateLabel": "10월 6일",
+      "updatedAt": "2026-10-05T09:23:19.000-07:00",
       "items": [
         {
-          "question": "치과 치료 중 일반적으로 실손보험에서 보장되지 않는 항목은 무엇일까요?",
-          "answer": "치아 교정",
+          "question": "AI로 자녀나 가족의 목소리를 흉내내 이성적인 판단을 하기 어렵게 만드는 보이스피싱 수법을 무엇이라고 할까요?",
+          "answer": "AI 딥페이크",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘의 KB Pay 퀴즈 문제는 아직 공개되지 않았어요.",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. AI로 자녀나 가족의 목소리를 흉내 내어 이성적인 판단을 어렵게 만드는 보이스피싱 수법을 무엇이라고 할까요?",
+          "answer": "AI 딥페이크",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     },
