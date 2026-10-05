@@ -1,41 +1,35 @@
 {
-  "generatedAt": "2026-10-05T00:49:24.078Z",
+  "generatedAt": "2026-10-05T06:55:32.672Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 11
+      "items": 10
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 85
+      "items": 86
     }
   ],
   "apps": [
     {
       "id": "cashwalk",
       "label": "캐시워크",
-      "dateLabel": "10월 3일",
-      "updatedAt": "2026-10-03T09:54:00.000+09:00",
+      "dateLabel": "10월 5일",
+      "updatedAt": "2026-10-04T23:54:56.000-07:00",
       "items": [
         {
-          "question": "배달의민족 OO할인에서는 노모어피자, 메가커피, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅂㅉ, 이벤트 페이지에서 확인할 수 있어요👀)",
-          "answer": "배짱",
+          "question": "스트레스 받으면 가장 먼저 고갈되는 비타민B! 푸드루트 비타민B로 쌓인 스트레스 한번에 해결하세요!⏰지금만 3+3 65%할인⏰ 푸드루트 활력비타민B는 비타민B군 8종(1,2,6,12,나이아신,판토텐산,비오틴,OO 8종, 타우린)을 단 1포에 담아 물없이 언제 어디서나 간편하게 1포로 체력관리 가능합니다⚡여기서 OO은? (힌트:ㅇㅅ)",
+          "answer": "엽산",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "배달의민족 배짱할인에서는 OOO피자, 메가커피, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㄴㅁㅇ, 이벤트 페이지에서 확인할 수 있어요👀)",
-          "answer": "노모어",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "배달의민족 배짱할인에서는 노모어피자, OO커피, 처갓집양념치킨 등 10개 이상의 브랜드 할인 쿠폰을 드려요 🎁✨ (힌트 : 초성 ㅁㄱ, 이벤트 페이지에서 확인할 수 있어요👀)",
-          "answer": "메가",
-          "pending": false,
-          "source": "luckyquiz3"
+          "question": "Q. 오늘의 캐시워크 돈버는퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
@@ -89,25 +83,13 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "10월 5일",
-      "updatedAt": "2026-10-04T09:22:51.000-07:00",
+      "updatedAt": "2026-10-05T01:02:00.000+09:00",
       "items": [
         {
           "question": "치과 치료 중 일반적으로 실손보험에서 보장되지 않는 항목은 무엇일까요?",
           "answer": "치아 교정",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘 KB Pay에서 출제된 퀴즈의 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 치과 치료 중 일반적으로 실손보험에서 보장되지 않는 항목은 무엇일까요?",
-          "answer": "치아 교정",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
