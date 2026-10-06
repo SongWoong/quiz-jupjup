@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-06T10:07:15.987Z",
+  "generatedAt": "2026-10-06T17:08:45.120Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 13
+      "items": 18
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 79
+      "items": 80
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "10월 6일",
-      "updatedAt": "2026-10-06T15:54:00.000+09:00",
+      "updatedAt": "2026-10-06T20:54:00.000+09:00",
       "items": [
         {
           "question": "꺽꺽 시도때도 없던 트림, 소휘 효소 1포로 조용해졌어요⏰소휘 효소 7일만 63% 초특가 할인⏰ 소휘 소화효소는 정제효소 없이 100% 통곡물 저분자 발효효소로 한국인 식습관에 딱 맞춘 균형잡힌 역가수치를 보장합니다. 스테디셀러 소휘 효소를 캐시딜에서만 단 7일만 3박스 OOOOO원+무료배송+10% 추가할인쿠폰으로 만나보세요. OOOOO에 들어갈 숫자는?",
@@ -48,36 +48,36 @@
           "answer": "슈퍼롱",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "단 3시간! \"캐시딜\" 에서 모나리자 미용티슈 200매 x 3입 x 1+1 (총 6개) 상품이 8900원+무료배송으로 진행됩니다. oo펄프 100%, 국내생산으로 믿고 쓰는 제지명가 모나리자의 미용티슈입니다. 먼지날림이 적으며 무색, 무형광으로 안심하고 사용할 수 있어요. 빈칸에 들어갈 단어는 무엇일까요?",
+          "answer": "천연",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 6일",
-      "updatedAt": "2026-10-05T09:18:39.000-07:00",
+      "dateLabel": "10월 7일",
+      "updatedAt": "2026-10-06T09:16:43.000-07:00",
       "items": [
         {
-          "question": "포스트시즌을 앞두고 삼성의 간판타자 구자욱 선수의 부상이 팬들을 안타깝게 하고 있습니다. 빠른 회복을 바랍니다. 이번에 구선수가 부상을 입은 부위는?",
-          "answer": "햄스트링",
+          "question": "2026년 MLB 디비전 시리즈가 진행 중입니다. 애틀랜타 브레이브스와 대결 중인 이 팀은 월드시리즈 3연패에 도전 중입니다. 이 팀은 아래 중 어느팀일까요?",
+          "answer": "LA 다저스",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "메가MGC커피에서 신한 슈퍼SOL/SOL페이로 결제 시, 포인트 적립을 받으려면 최소 얼마 이상 결제해야 할까요?",
-          "answer": "1,000원 이상",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 포스트시즌을 앞두고 삼성의 간판타자 구자욱 선수가 부상을 입어 팬들이 안타까워하고 있는데요, 이번에 부상을 입은 부위는 어디일까요?",
-          "answer": "햄스트링",
+          "question": "Q. 2026년 MLB 디비전 시리즈에서 애틀랜타 브레이브스와 맞붙으며 월드시리즈 3연패에 도전 중인 팀은 어디일까요?",
+          "answer": "LA 다저스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. 신한카드(신한SOL페이) 퀴즈팡팡 문제의 빈칸을 채워볼까요, 정답은 얼마 이상일까요?",
-          "answer": "1,000원 이상",
+          "question": "Q. 신한카드(신한SOL페이)에서 진행하는 퀴즈팡팡의 빈칸을 채워볼까요?",
+          "answer": "영세 가맹점",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -87,7 +87,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "10월 6일",
-      "updatedAt": "2026-10-06T03:01:30.000-07:00",
+      "updatedAt": "2026-10-06T04:22:46.000-07:00",
       "items": [
         {
           "question": "탄수화물은 줄이고 뉴질랜드산 버터를 채워 가뿐한 식욕관리가 가능한 컷슬린 버터쉐이크는 ㅇㅇ라떼맛 입니다. ㅇㅇ은 무엇일까요? (초성 : ㅇㄱ)",
@@ -148,26 +148,44 @@
           "answer": "400",
           "pending": false,
           "source": "oneuljupjup"
+        },
+        {
+          "question": "브랜드데이 가을맞이 특가🍂 🎉 라이브 이벤트 ⏰ 라이브 중 전 구매고객 🎁 인텐시브리프팅포뮬러 ㅇㅇㅇㅇ 1매 증정 ⏰ 라이브 중 구매 인증 10명 추첨 🎁 배달의민족 5천원권 ⏰ 라이브 중 소통왕 10명 추첨 🎁 메가커피 아메리카노 🏆 브랜드데이 구매왕 3명 🎁 리추얼 화이트펄 ✨ 건조해지는 가을 피부, 촉촉하고 탄탄하게 구매하러 가기 →",
+          "answer": "마스크팩",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘의 퀴즈 문제는 아직 공개되지 않았어요.",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
         }
       ]
     },
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 6일",
-      "updatedAt": "2026-10-06T01:02:00.000+09:00",
+      "dateLabel": "10월 7일",
+      "updatedAt": "2026-10-06T09:25:50.000-07:00",
       "items": [
         {
-          "question": "'OOOO'을 활용하면 가을 나들이 중 편의점·카페에서 상시 할인 받을 수 있어 유용해요. 빈칸에 알맞은 것은?",
-          "answer": "바로할인",
+          "question": "대출 갈아타기는 낮은 금리만 보고 결정하면 손해가 발생할 수 있다.",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "AI로 자녀나 가족의 목소리를 흉내내 이성적인 판단을 하기 어렵게 만드는 보이스피싱 수법을 무엇이라고 할까요?",
-          "answer": "AI 딥페이크",
+          "question": "Q. 오늘의 퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 대출 갈아타기는 낮은 금리만 보고 결정하면 손해가 발생할 수 있다는 말, 맞을까요 틀릴까요?",
+          "answer": "O",
           "pending": false,
-          "source": "luckyquiz3"
+          "source": "oneuljupjup"
         }
       ]
     },
