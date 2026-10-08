@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-08T17:50:13.078Z",
+  "generatedAt": "2026-10-08T23:16:41.097Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 22
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 80
+      "items": 82
     }
   ],
   "apps": [
@@ -49,19 +49,19 @@
       "id": "shinhan",
       "label": "신한",
       "dateLabel": "10월 9일",
-      "updatedAt": "2026-10-08T09:17:56.000-07:00",
+      "updatedAt": "2026-10-09T01:01:00.000+09:00",
       "items": [
         {
-          "question": "Q. 신한은행(신한SOL뱅크)에서 진행하는 쏠퀴즈의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "20년간 선수로 뛰었던 베테랑 내야수 김민성 선수의 은퇴식이 오늘(9일) 사직야구장에서 열릴 예정입니다. 김민성 선수의 데뷔팀이자 선수 생활을 마무리하게 된 팀은 어디일까요?",
+          "answer": "롯데 자이언츠",
+          "pending": false,
+          "source": "luckyquiz3"
         },
         {
-          "question": "Q. 신한카드(신한SOL페이)에서 진행하는 퀴즈팡팡의 오늘 문제 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "성능과 가격뿐만 아니라 시간과 편의성을 고려한 소비로, 시간도 돈으로 환산하는 최신 소비 경향은 무엇일까요?",
+          "answer": "시성비",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
