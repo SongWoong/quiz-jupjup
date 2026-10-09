@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-09T05:59:14.872Z",
+  "generatedAt": "2026-10-09T13:07:14.710Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 21
+      "items": 20
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 85
+      "items": 84
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "10월 9일",
-      "updatedAt": "2026-10-08T21:54:19.000-07:00",
+      "updatedAt": "2026-10-09T20:54:00.000+09:00",
       "items": [
         {
           "question": "🛒장보기위크 종료임박! 저당 파스타 소스 45% 할인 🍅한입 먹자마자 진~하게 퍼지는 토마토 풍미! 맛있는 파스타는 그대로 즐기고, 당 부담은 가볍게 리얼마이즈 저당 파스타 소스는 설탕 대신 알룰로스를 사용하고 100% OOOOOO 완숙 토마토와 6가지 허브, 향신료를 사용해 풍부한 맛을 완성했어요. OOOOOO는 무엇일까요? (힌트:ㅋㄹㅍㄴㅇㅅ)",
@@ -27,8 +27,8 @@
         },
         {
           "question": "식사부터 디저트, 커피까지 한곳에서 즐길 수 있는 봉명동내커피! 봉명동내커피는 FOOD, DESSERT, COFFEE를 모두 담은 &#x27;OOO카페&#x27;입니다. OOO에 들어갈 단어는 무엇일까요? 팝업을 닫고 홈 상단 배너를 확인하세요! (초성 힌트 : ㅇㅇㅇ)",
-          "answer": "잠시 후 공개",
-          "pending": true,
+          "answer": "올인원",
+          "pending": false,
           "source": "luckyquiz3"
         },
         {
@@ -51,15 +51,15 @@
         },
         {
           "question": "봉명동내커피 가을 디저트 &#x27;페스츄리 OOOO&#x27;는 겹겹이 쌓인 페스츄리로 바삭하게 즐길 수 있는 메뉴입니다. OOOO에 들어갈 단어는 무엇일까요? 팝업을 닫고 홈 상단 배너를 확인하세요! (초성 힌트 : ㅎㄷㄱㅈ)",
-          "answer": "잠시 후 공개",
-          "pending": true,
+          "answer": "호두과자",
+          "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "Q. 오늘의 캐시워크 돈버는퀴즈 문제예요.",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
+          "question": "🪥온 가족 칫솔 한 번에 해결! 뷰카 오브제 듀얼 초미세 칫솔 역대급 구성 특가⚡ 0.01MM 초미세 탄력모로 부드럽고 상쾌한 사용감✨ 감각적인 컬러감까지 더해 매일 쓰기 좋은 데일리 칫솔뷰카 오브제 칫솔 ○○개입💙 여기서 문제! 이번 특가 구성은 총 몇 개입일까요? (힌트 : 숫자 두 자리) 정답 댓글 달고 초특가 놓치지 마세요🎁",
+          "answer": "18",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
