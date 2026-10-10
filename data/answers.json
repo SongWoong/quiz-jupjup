@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-10T12:22:55.786Z",
+  "generatedAt": "2026-10-10T17:47:34.726Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 24
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 80
     }
   ],
   "apps": [
@@ -42,30 +42,24 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 10일",
-      "updatedAt": "2026-10-09T09:17:25.000-07:00",
+      "dateLabel": "10월 11일",
+      "updatedAt": "2026-10-10T09:16:44.000-07:00",
       "items": [
         {
-          "question": "2026 KBO 포스트시즌이 오는 14일 와일드카드 결정 1차전으로 막을 올립니다. 와일드카드 결정전은 최대 몇 게임 열릴까요?",
-          "answer": "2게임",
+          "question": "메이저리그 30개 구단 중 월드시리즈 우승 횟수가 가장 많은 구단은 뉴욕 양키스입니다. 그렇다면 2번째로 월드시리즈 우승을 많이 한 구단은 어디일까요?",
+          "answer": "세인트루이스 카디널스",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "오늘은 신한 SOL페이 땡겨요 Day! 최대 14,000원 할인받을 수 있는 오늘의 땡데이 브랜드는 무엇일까요?",
-          "answer": "던킨",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 2026 KBO 포스트시즌은 오는 14일 와일드카드 결정 1차전으로 시작됩니다. 와일드카드 결정전은 최대 몇 게임 열릴까요?",
-          "answer": "2게임",
+          "question": "Q. 메이저리그 30개 구단 중 월드시리즈 우승 횟수가 가장 많은 구단은 뉴욕 양키스예요. 그렇다면 2번째로 우승 횟수가 많은 구단은 어디일까요?",
+          "answer": "세인트루이스 카디널스",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. 오늘의 신한 SOL페이 땡겨요 Day 할인 브랜드는 어디일까요?",
-          "answer": "던킨",
+          "question": "Q. 신한카드(신한SOL페이) 퀴즈팡팡 문제의 빈칸에 들어갈 말은 무엇일까요?",
+          "answer": "항공사마일리지",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -88,14 +82,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 10일",
-      "updatedAt": "2026-10-10T01:02:00.000+09:00",
+      "dateLabel": "10월 11일",
+      "updatedAt": "2026-10-10T09:23:32.000-07:00",
       "items": [
         {
-          "question": "인공지능의 생산성과 인간의 통찰력을 갖춘 켄타우로스형 인재는 하반신은 O, 상반신은 사람인 그리스 신화의 켄타우로스에서 유래한 용어이다.",
-          "answer": "말",
+          "question": "지점 상담 예약서비스 이용 시 상담 직원을 직접 선택할 수 있다.",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘의 퀴즈 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 지점 상담 예약서비스를 이용하면 상담 직원을 직접 선택할 수 있을까요? (O/X)",
+          "answer": "O",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     }
