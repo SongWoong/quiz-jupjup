@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:47:34.726Z",
+  "generatedAt": "2026-10-10T21:34:46.642Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 80
+      "items": 81
     }
   ],
   "apps": [
@@ -48,6 +48,12 @@
         {
           "question": "메이저리그 30개 구단 중 월드시리즈 우승 횟수가 가장 많은 구단은 뉴욕 양키스입니다. 그렇다면 2번째로 월드시리즈 우승을 많이 한 구단은 어디일까요?",
           "answer": "세인트루이스 카디널스",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "신한카드 아름인 1:1 매칭 기부 이벤트에서 기부 참여 수단으로 사용될 수 없는 것은?",
+          "answer": "항공사마일리지",
           "pending": false,
           "source": "luckyquiz3"
         },
