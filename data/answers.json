@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T13:58:14.777Z",
+  "generatedAt": "2026-10-11T18:48:20.119Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 22
+      "items": 24
     },
     {
       "name": "luckyquiz3",
@@ -42,30 +42,30 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 11일",
-      "updatedAt": "2026-10-10T09:16:44.000-07:00",
+      "dateLabel": "10월 12일",
+      "updatedAt": "2026-10-11T09:17:44.000-07:00",
       "items": [
         {
-          "question": "메이저리그 30개 구단 중 월드시리즈 우승 횟수가 가장 많은 구단은 뉴욕 양키스입니다. 그렇다면 2번째로 월드시리즈 우승을 많이 한 구단은 어디일까요?",
-          "answer": "세인트루이스 카디널스",
+          "question": "투수와 타자를 모두 완벽하게 겸업하는 선수를 뜻하는 야구 용어는 무엇일까요?",
+          "answer": "이도류",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한카드 아름인 1:1 매칭 기부 이벤트에서 기부 참여 수단으로 사용될 수 없는 것은?",
-          "answer": "항공사마일리지",
+          "question": "에어비앤비에서 신한 Visa 신용카드로 400달러 이상 이용 시 받을 수 있는 경품은 무엇일까요?",
+          "answer": "배달의민족 상품권 7만원",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "Q. 메이저리그 30개 구단 중 월드시리즈 우승 횟수가 가장 많은 구단은 뉴욕 양키스예요. 그렇다면 2번째로 우승 횟수가 많은 구단은 어디일까요?",
-          "answer": "세인트루이스 카디널스",
+          "question": "Q. 투수와 타자 역할을 모두 완벽하게 소화하는 선수를 가리키는 야구 용어는 무엇일까요?",
+          "answer": "이도류",
           "pending": false,
           "source": "oneuljupjup"
         },
         {
-          "question": "Q. 신한카드(신한SOL페이) 퀴즈팡팡 문제의 빈칸에 들어갈 말은 무엇일까요?",
-          "answer": "항공사마일리지",
+          "question": "Q. 신한카드(신한SOL페이)의 퀴즈팡팡 이벤트에서 준비된 보상은 무엇일까요?",
+          "answer": "배달의민족 상품권 7만원",
           "pending": false,
           "source": "oneuljupjup"
         }
@@ -88,14 +88,26 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 11일",
-      "updatedAt": "2026-10-11T01:02:00.000+09:00",
+      "dateLabel": "10월 12일",
+      "updatedAt": "2026-10-11T09:22:28.000-07:00",
       "items": [
         {
-          "question": "지점 상담 예약서비스 이용 시 상담 직원을 직접 선택할 수 있다.",
-          "answer": "O",
+          "question": "부동산담보대출은 매년 최초 대출 금액의 OO% 이내에서 원금을 갚으면 중도상환수수료가 면제된다",
+          "answer": "10",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "Q. 오늘 KB Pay 퀴즈의 정답은 무엇일까요?",
+          "answer": "잠시 후 공개",
+          "pending": true,
+          "source": "oneuljupjup"
+        },
+        {
+          "question": "Q. 부동산담보대출은 매년 최초 대출 금액의 OO% 이내에서 원금을 갚으면 중도상환수수료가 면제된다고 해요.",
+          "answer": "10",
+          "pending": false,
+          "source": "oneuljupjup"
         }
       ]
     }
