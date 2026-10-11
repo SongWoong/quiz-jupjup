@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T00:54:24.186Z",
+  "generatedAt": "2026-10-11T07:04:47.056Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 24
+      "items": 22
     },
     {
       "name": "luckyquiz3",
@@ -89,25 +89,13 @@
       "id": "kbpay",
       "label": "KB Pay",
       "dateLabel": "10월 11일",
-      "updatedAt": "2026-10-10T09:23:32.000-07:00",
+      "updatedAt": "2026-10-11T01:02:00.000+09:00",
       "items": [
         {
           "question": "지점 상담 예약서비스 이용 시 상담 직원을 직접 선택할 수 있다.",
           "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 오늘의 퀴즈 정답은 무엇일까요?",
-          "answer": "잠시 후 공개",
-          "pending": true,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 지점 상담 예약서비스를 이용하면 상담 직원을 직접 선택할 수 있을까요? (O/X)",
-          "answer": "O",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     }
