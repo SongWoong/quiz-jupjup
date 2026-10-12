@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-12T10:38:18.789Z",
+  "generatedAt": "2026-10-12T20:14:28.237Z",
   "sources": [
     {
       "name": "oneuljupjup",
       "ok": true,
-      "items": 20
+      "items": 4
     },
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 81
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "10월 12일",
-      "updatedAt": "2026-10-12T17:54:00.000+09:00",
+      "updatedAt": "2026-10-12T20:54:00.000+09:00",
       "items": [
         {
           "question": "조금만 걸어도 시큰거렸던 무릎, 푸드루트 비타민D 먹은 후부터 1만보 걸어도 무릎 끄떡없어요⏰단독 3+3 65% 초특가 할인⏰ 푸드루트 비타민D는 비타민K2와 스위스산 OOO사 비타민D3,셀레늄을 불필요한 첨가물은 최대한 덜고 고운 분말 형태로 단 1포에 담아 물없이 언제 어디서나 간편하게 뼈건강을 관리할 수 있습니다.여기서 OOO는? (힌트 : 영문)",
@@ -72,38 +72,26 @@
           "answer": "스페인",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "저온압착! 당일착유! 홍주부 참기름1병 행사가 ○,○○○원 고급스러운 한지포장! 품질보장! 선물용으로도 제격! ○,○○○에 들어갈 숫자는?",
+          "answer": "7500",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 12일",
-      "updatedAt": "2026-10-11T09:17:44.000-07:00",
+      "dateLabel": "10월 13일",
+      "updatedAt": "2026-10-13T01:01:00.000+09:00",
       "items": [
         {
-          "question": "투수와 타자를 모두 완벽하게 겸업하는 선수를 뜻하는 야구 용어는 무엇일까요?",
-          "answer": "이도류",
+          "question": "KBO 리그에서 체크스윙 비디오 판독 시 배트 끝의 각도가 타자석 기준으로 몇 도를 초과했을 때 스윙으로 판정할까요?",
+          "answer": "90도",
           "pending": false,
           "source": "luckyquiz3"
-        },
-        {
-          "question": "에어비앤비에서 신한 Visa 신용카드로 400달러 이상 이용 시 받을 수 있는 경품은 무엇일까요?",
-          "answer": "배달의민족 상품권 7만원",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "Q. 투수와 타자 역할을 모두 완벽하게 소화하는 선수를 가리키는 야구 용어는 무엇일까요?",
-          "answer": "이도류",
-          "pending": false,
-          "source": "oneuljupjup"
-        },
-        {
-          "question": "Q. 신한카드(신한SOL페이)의 퀴즈팡팡 이벤트에서 준비된 보상은 무엇일까요?",
-          "answer": "배달의민족 상품권 7만원",
-          "pending": false,
-          "source": "oneuljupjup"
         }
       ]
     },
@@ -124,18 +112,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 12일",
-      "updatedAt": "2026-10-12T01:02:00.000+09:00",
+      "dateLabel": "10월 13일",
+      "updatedAt": "2026-10-13T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB차차차 프리미엄 서비스 '내차팔기'에서는 OO할수록 더 높은 가격에 팔 수 있어요.",
-          "answer": "비교",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "부동산담보대출은 매년 최초 대출 금액의 OO% 이내에서 원금을 갚으면 중도상환수수료가 면제된다",
-          "answer": "10",
+          "question": "세입자가 있는 건물을 상속하거나 증여할 때, 임대료와 별도로 받는 '관리비'도 상속·증여세 계산에 포함될 수 있다",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         }
