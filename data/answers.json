@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:10:20.986Z",
+  "generatedAt": "2026-10-13T23:15:09.118Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 86
     }
   ],
   "apps": [
@@ -78,18 +78,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 13일",
-      "updatedAt": "2026-10-13T01:01:00.000+09:00",
+      "dateLabel": "10월 14일",
+      "updatedAt": "2026-10-14T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO 리그에서 체크스윙 비디오 판독 시 배트 끝의 각도가 타자석 기준으로 몇 도를 초과했을 때 스윙으로 판정할까요?",
-          "answer": "90도",
+          "question": "2027 KBO 신인 드래프트 전체 1순위로 지명되어 역대 최고 계약금을 경신한 하현승 선수가 지명된 구단은 어디일까요?",
+          "answer": "키움 히어로즈",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "올영PAY X 신한카드로 5만원 이상 결제 시 즉시할인 금액은 얼마일까요?",
-          "answer": "3천원",
+          "question": "쇼핑혜택으로 '컬리'에서 쇼핑하면 결제금액의 몇 %를 포인트로 적립받을 수 있을까요?",
+          "answer": "3%",
           "pending": false,
           "source": "luckyquiz3"
         }
