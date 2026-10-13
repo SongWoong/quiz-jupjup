@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T10:26:01.942Z",
+  "generatedAt": "2026-10-13T18:10:20.986Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 87
+      "items": 84
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "10월 13일",
-      "updatedAt": "2026-10-13T17:54:00.000+09:00",
+      "updatedAt": "2026-10-13T20:54:00.000+09:00",
       "items": [
         {
           "question": "맵단짠 야식 먹어도 다음날 가뿐한 커피대신⏰소휘 펌킨샷 7일 한정 ~46%⏰ 소휘 펌킨샷은 불필요한 첨가물 없이 100% 자연유래원료로 임산부도 마실 수 있는 무카페인 커피대용차입니다. 입소문난 V라인 관리템, 소휘 펌킨샷을 캐시딜에서만 단 7일간 3박스 OOOOO원+무료배송+10%추가할인쿠폰으로 만나보세요. OOOOO에 들어갈 숫자는?",
@@ -60,6 +60,18 @@
           "answer": "식이섬유",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "리필드 X 안선영 카카오쇼핑라이브 기간 중 구매할 시 ㅇㅇㅇㅇ을 증정합니다. ㅇㅇㅇㅇ에 들어갈 단어는 무엇일까요? [힌트 : ㅎㅇㄱㅅ]",
+          "answer": "헤어괄사",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "오늘 단 하루, 푸드루트 피로회복 활력 비타민B 6박스가 단돈 29,900원! o없이 간편하게 활력 충전하고, 1박스당 4천 원대 혜택도 놓치지 마세요. o 안에 들어갈 단어는 무엇일까요?",
+          "answer": "물",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
@@ -87,7 +99,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "10월 13일",
-      "updatedAt": "2026-10-13T18:49:00.000+09:00",
+      "updatedAt": "2026-10-13T19:49:00.000+09:00",
       "items": [
         {
           "question": "쿠첸에서 새롭게 출시된 티타늄 재질의 내솥을 탑재한 신상 밥솥의 명칭은 OO 컬렉션 입니다. OO에 들어갈 단어는 무엇일까요? (초성힌트 : ㅌㅌ)",
@@ -106,24 +118,24 @@
           "answer": "7",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "사이판 크라운플라자 O/6일 ✔ 사이판 대표 휴양지! 하나투어 사이판 크라운플라자리조트 5/6일 LIVE✨ ✔ 사이판 휴양지 단독 20% 할인 적용 495,200원 파격 특가! ✔ 객실 업그레이드 & 부대시설 무제한 + 왕복 픽업 & 핵심 투어(마나가하섬·북부) 포함💙 O에 들어갈 숫자는 무엇일까요?",
+          "answer": "5",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 13일",
-      "updatedAt": "2026-10-13T01:02:00.000+09:00",
+      "dateLabel": "10월 14일",
+      "updatedAt": "2026-10-14T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay '부동산'에서 AI로 쉽고 빠르게 내 집을 찾아볼 수 있는 메뉴 이름은 무엇일까요?",
-          "answer": "집찾는 AI",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "세입자가 있는 건물을 상속하거나 증여할 때, 임대료와 별도로 받는 '관리비'도 상속·증여세 계산에 포함될 수 있다",
-          "answer": "O",
+          "question": "중도에 해지하지 않을 경우 원금 손실 없이 안전하게 저축할 수 있는 상품이 아닌 것은 무엇일까요?",
+          "answer": "ELS",
           "pending": false,
           "source": "luckyquiz3"
         }
