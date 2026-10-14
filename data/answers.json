@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:18:40.141Z",
+  "generatedAt": "2026-10-14T23:08:52.878Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 91
+      "items": 93
     }
   ],
   "apps": [
@@ -78,18 +78,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 14일",
-      "updatedAt": "2026-10-14T01:01:00.000+09:00",
+      "dateLabel": "10월 15일",
+      "updatedAt": "2026-10-15T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2027 KBO 신인 드래프트 전체 1순위로 지명되어 역대 최고 계약금을 경신한 하현승 선수가 지명된 구단은 어디일까요?",
-          "answer": "키움 히어로즈",
+          "question": "가을야구의 열기가 뜨거운 KBO 포스트시즌에서는 9회 정규 이닝 내에 승부를 가리지 못하면 연장전에 돌입하게 됩니다. 그렇다면 KBO 포스트시즌의 연장전은 최대 몇 회까지 진행될까요?",
+          "answer": "15회",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "쇼핑혜택으로 '컬리'에서 쇼핑하면 결제금액의 몇 %를 포인트로 적립받을 수 있을까요?",
-          "answer": "3%",
+          "question": "마이샵 컬리 쿠폰 등록 후, 컬리 첫 구매 고객이 라면 받을 수 있는 할인 금액은?",
+          "answer": "12,000원",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -118,12 +118,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 14일",
-      "updatedAt": "2026-10-14T01:02:00.000+09:00",
+      "dateLabel": "10월 15일",
+      "updatedAt": "2026-10-15T01:02:00.000+09:00",
       "items": [
         {
-          "question": "중도에 해지하지 않을 경우 원금 손실 없이 안전하게 저축할 수 있는 상품이 아닌 것은 무엇일까요?",
-          "answer": "ELS",
+          "question": "은행 대기시간을 줄일 수 있는 ‘모바일번호표’의 설명으로 틀린 것은 무엇일까요?",
+          "answer": "이미 번호표가 호출된 경우 번호표를 재발행하지 않아도 된다",
           "pending": false,
           "source": "luckyquiz3"
         }
