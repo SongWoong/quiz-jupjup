@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:54:40.013Z",
+  "generatedAt": "2026-10-15T19:03:55.209Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 83
+      "items": 84
     }
   ],
   "apps": [
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 15일",
-      "updatedAt": "2026-10-15T01:01:00.000+09:00",
+      "dateLabel": "10월 16일",
+      "updatedAt": "2026-10-16T01:01:00.000+09:00",
       "items": [
         {
-          "question": "가을야구의 열기가 뜨거운 KBO 포스트시즌에서는 9회 정규 이닝 내에 승부를 가리지 못하면 연장전에 돌입하게 됩니다. 그렇다면 KBO 포스트시즌의 연장전은 최대 몇 회까지 진행될까요?",
-          "answer": "15회",
+          "question": "KBO Fall League는 국내외 유망주에게 실전 기회를 제공하고 서로 다른 야구 문화를 경험하여 성장할 수 있도록 마련된 대회입니다. 10월 15일부터 개최되는 2026 울산 KBO Fall League 참가 총 팀 수는 몇개 팀일까요?",
+          "answer": "12개 팀",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "마이샵 컬리 쿠폰 등록 후, 컬리 첫 구매 고객이 라면 받을 수 있는 할인 금액은?",
-          "answer": "12,000원",
+          "question": "내 차 수리비 아끼는 꿀팁! Tops 쿠폰으로 엔진오일 교환 할인 및 정비 할인을 받을 수 있는 곳은?",
+          "answer": "오토오아시스",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -88,12 +88,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 15일",
-      "updatedAt": "2026-10-15T01:02:00.000+09:00",
+      "dateLabel": "10월 16일",
+      "updatedAt": "2026-10-16T01:02:00.000+09:00",
       "items": [
         {
-          "question": "은행 대기시간을 줄일 수 있는 ‘모바일번호표’의 설명으로 틀린 것은 무엇일까요?",
-          "answer": "이미 번호표가 호출된 경우 번호표를 재발행하지 않아도 된다",
+          "question": "KB부동산에서는 오피스텔 시세도 AI로 확인할 수 있다.",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         }
