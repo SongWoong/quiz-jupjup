@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T17:21:02.669Z",
+  "generatedAt": "2026-10-16T20:59:06.771Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 76
     }
   ],
   "apps": [
@@ -42,18 +42,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 16일",
-      "updatedAt": "2026-10-16T01:01:00.000+09:00",
+      "dateLabel": "10월 17일",
+      "updatedAt": "2026-10-17T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO Fall League는 국내외 유망주에게 실전 기회를 제공하고 서로 다른 야구 문화를 경험하여 성장할 수 있도록 마련된 대회입니다. 10월 15일부터 개최되는 2026 울산 KBO Fall League 참가 총 팀 수는 몇개 팀일까요?",
-          "answer": "12개 팀",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "내 차 수리비 아끼는 꿀팁! Tops 쿠폰으로 엔진오일 교환 할인 및 정비 할인을 받을 수 있는 곳은?",
-          "answer": "오토오아시스",
+          "question": "2026 MLB 내셔널리그 챔피언십 시리즈에서 LA다저스를 상대로 4전 전승을 거둬 44년만에 월드시리즈 진출권을 따낸 팀은?",
+          "answer": "밀워키 브루어스",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -88,12 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 16일",
-      "updatedAt": "2026-10-16T01:02:00.000+09:00",
+      "dateLabel": "10월 17일",
+      "updatedAt": "2026-10-17T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB부동산에서는 오피스텔 시세도 AI로 확인할 수 있다.",
-          "answer": "O",
+          "question": "일반적으로 이자소득이나 배당수익에 부과되는 세금은 몇 %일까요?",
+          "answer": "15.4%",
           "pending": false,
           "source": "luckyquiz3"
         }
