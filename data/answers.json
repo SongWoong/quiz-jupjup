@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T20:59:06.771Z",
+  "generatedAt": "2026-10-16T23:30:34.490Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 76
+      "items": 77
     }
   ],
   "apps": [
@@ -48,6 +48,12 @@
         {
           "question": "2026 MLB 내셔널리그 챔피언십 시리즈에서 LA다저스를 상대로 4전 전승을 거둬 44년만에 월드시리즈 진출권을 따낸 팀은?",
           "answer": "밀워키 브루어스",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "매달 새로운 테마로 매력적인 브랜드를 특가에 만나는 '디스커버 데이(D-Day)' 이번 달 제철코어 테마 상품이 아닌 것은?",
+          "answer": "밤",
           "pending": false,
           "source": "luckyquiz3"
         }
