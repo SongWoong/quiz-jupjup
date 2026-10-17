@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:03:41.992Z",
+  "generatedAt": "2026-10-17T19:18:29.429Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 74
+      "items": 75
     }
   ],
   "apps": [
@@ -48,6 +48,12 @@
         {
           "question": "KBO 리그 10개 구단 홈구장 중 경기 시 1루가 아닌 3루 쪽 더그아웃을 홈팀이 사용하는 구단 중 한 곳은 어디일까요?",
           "answer": "KIA 타이거즈",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "신한 슈퍼SOL로 공차에서 1만원 이상 결제하면 받을 수 있는 혜택은?",
+          "answer": "마이신한포인트 5,000P",
           "pending": false,
           "source": "luckyquiz3"
         }
