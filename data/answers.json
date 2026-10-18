@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:30:47.884Z",
+  "generatedAt": "2026-10-18T18:02:07.931Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 72
     }
   ],
   "apps": [
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 18일",
-      "updatedAt": "2026-10-18T01:01:00.000+09:00",
+      "dateLabel": "10월 19일",
+      "updatedAt": "2026-10-19T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO 리그 10개 구단 홈구장 중 경기 시 1루가 아닌 3루 쪽 더그아웃을 홈팀이 사용하는 구단 중 한 곳은 어디일까요?",
-          "answer": "KIA 타이거즈",
+          "question": "급여클럽 플레스 회원에게 더 큰 혜택을 제공하는 쏠가전에서 10월 진행 중인 기획전이 아닌 것은 무엇일까요?",
+          "answer": "럭셔리 패션 브랜드 초대전",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한 슈퍼SOL로 공차에서 1만원 이상 결제하면 받을 수 있는 혜택은?",
-          "answer": "마이신한포인트 5,000P",
+          "question": "CU에서 신한 슈퍼SOL/SOL페이 결제 시 월요일엔 단돈 100원으로, 다른 요일엔 500원을 할인 받을 수 있는 상품은 무엇일까요",
+          "answer": "get 아이스아메리카노",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -76,12 +76,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 18일",
-      "updatedAt": "2026-10-18T01:02:00.000+09:00",
+      "dateLabel": "10월 19일",
+      "updatedAt": "2026-10-19T01:02:00.000+09:00",
       "items": [
         {
-          "question": "ISA 계좌는 모든 금융기관을 통틀어 1인 1계좌만 가입할 수 있다",
-          "answer": "O",
+          "question": "사람들이 경제를 어떻게 느끼고 전망하는지 보여주는 지표를 무엇이라고 할까요?",
+          "answer": "소비자심리지수",
           "pending": false,
           "source": "luckyquiz3"
         }
