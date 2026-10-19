@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:31:35.506Z",
+  "generatedAt": "2026-10-19T21:00:06.904Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 68
     }
   ],
   "apps": [
@@ -96,18 +96,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 19일",
-      "updatedAt": "2026-10-19T01:01:00.000+09:00",
+      "dateLabel": "10월 20일",
+      "updatedAt": "2026-10-20T01:01:00.000+09:00",
       "items": [
         {
-          "question": "급여클럽 플레스 회원에게 더 큰 혜택을 제공하는 쏠가전에서 10월 진행 중인 기획전이 아닌 것은 무엇일까요?",
-          "answer": "럭셔리 패션 브랜드 초대전",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "CU에서 신한 슈퍼SOL/SOL페이 결제 시 월요일엔 단돈 100원으로, 다른 요일엔 500원을 할인 받을 수 있는 상품은 무엇일까요",
-          "answer": "get 아이스아메리카노",
+          "question": "무사 또는 1사에 주자가 1루 2루 또는 만루인 상황에서, 내야수가 보통의 수비로 잡을 수 있는 페어 뜬공에 대해 심판이 타자 아웃을 선언하는 규칙은 무엇일까요? 단, 직선타와 번트로 뜬 공은 제외.",
+          "answer": "인필드 플라이",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -130,12 +124,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 19일",
-      "updatedAt": "2026-10-19T01:02:00.000+09:00",
+      "dateLabel": "10월 20일",
+      "updatedAt": "2026-10-20T01:02:00.000+09:00",
       "items": [
         {
-          "question": "사람들이 경제를 어떻게 느끼고 전망하는지 보여주는 지표를 무엇이라고 할까요?",
-          "answer": "소비자심리지수",
+          "question": "배당을 꾸준히 지급하는 기업들의 일반적인 특징이 아닌 것은 무엇일까요?",
+          "answer": "시장 변동성에 둔감",
           "pending": false,
           "source": "luckyquiz3"
         }
