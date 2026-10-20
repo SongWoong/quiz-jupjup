@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:00:06.904Z",
+  "generatedAt": "2026-10-20T00:15:59.392Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 69
     }
   ],
   "apps": [
@@ -102,6 +102,12 @@
         {
           "question": "무사 또는 1사에 주자가 1루 2루 또는 만루인 상황에서, 내야수가 보통의 수비로 잡을 수 있는 페어 뜬공에 대해 심판이 타자 아웃을 선언하는 규칙은 무엇일까요? 단, 직선타와 번트로 뜬 공은 제외.",
           "answer": "인필드 플라이",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "생활요금 자동납부 이벤트의 대상이 아닌 것은 무엇일까요?",
+          "answer": "쿠팡와우 멤버십",
           "pending": false,
           "source": "luckyquiz3"
         }
