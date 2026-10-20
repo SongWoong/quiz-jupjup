@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:52:58.008Z",
+  "generatedAt": "2026-10-20T20:30:18.243Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 64
+      "items": 65
     }
   ],
   "apps": [
@@ -36,6 +36,12 @@
         {
           "question": "센트럴리그와 퍼시픽리그의 우승팀이 맞붙어 일본 프로야구 NPB 최고 구단을 가리는 7전 4전승제 타이틀전의 공식 명칭은 무엇일까요?",
           "answer": "일본시리즈",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "앱테크 가을 이벤트 참여 시 받을 수 있는 경품이 아닌 것은?",
+          "answer": "배달의민족 상품권",
           "pending": false,
           "source": "luckyquiz3"
         }
