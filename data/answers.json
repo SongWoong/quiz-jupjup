@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:08:40.770Z",
+  "generatedAt": "2026-10-21T20:04:41.592Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -54,18 +54,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 21일",
-      "updatedAt": "2026-10-21T01:01:00.000+09:00",
+      "dateLabel": "10월 22일",
+      "updatedAt": "2026-10-22T01:01:00.000+09:00",
       "items": [
         {
-          "question": "센트럴리그와 퍼시픽리그의 우승팀이 맞붙어 일본 프로야구 NPB 최고 구단을 가리는 7전 4전승제 타이틀전의 공식 명칭은 무엇일까요?",
-          "answer": "일본시리즈",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "앱테크 가을 이벤트 참여 시 받을 수 있는 경품이 아닌 것은?",
-          "answer": "배달의민족 상품권",
+          "question": "KBO 포스트시즌 전체 등록 엔트리는 30명입니다. 그렇다면 당일 경기에 출전할 수 있는 선수 수는 몇 명일까요?",
+          "answer": "28명",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -94,12 +88,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 21일",
-      "updatedAt": "2026-10-21T01:02:00.000+09:00",
+      "dateLabel": "10월 22일",
+      "updatedAt": "2026-10-22T01:02:00.000+09:00",
       "items": [
         {
-          "question": "일반적으로 매수인은 계약 파기 시 지급한 계약금을 포기해야 하고, 매도인이 계약을 파기할 때는 받은 계약금의 2배를 반환해야 한다.",
-          "answer": "O",
+          "question": "금융사기를 예방하기 위한 금융거래한도계좌의 출금 및 이체 한도로 틀린 것은 무엇일까요?",
+          "answer": "1번 은행 지점 출금 100만원",
           "pending": false,
           "source": "luckyquiz3"
         }
