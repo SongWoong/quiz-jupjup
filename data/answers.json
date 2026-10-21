@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:04:41.592Z",
+  "generatedAt": "2026-10-21T23:14:25.900Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 65
+      "items": 66
     }
   ],
   "apps": [
@@ -60,6 +60,12 @@
         {
           "question": "KBO 포스트시즌 전체 등록 엔트리는 30명입니다. 그렇다면 당일 경기에 출전할 수 있는 선수 수는 몇 명일까요?",
           "answer": "28명",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "가을•겨울 여행은 제주신화월드에서! 신한카드 기획전 객실 상품 중 가장 높은 할인율은 몇 % 일까요?",
+          "answer": "81%",
           "pending": false,
           "source": "luckyquiz3"
         }
