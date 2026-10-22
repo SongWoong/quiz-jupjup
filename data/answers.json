@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T20:00:02.736Z",
+  "generatedAt": "2026-10-22T23:16:22.018Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 72
     }
   ],
   "apps": [
@@ -66,6 +66,12 @@
         {
           "question": "2026 신한SOL KBO리그 마지막 월간 MVP로 선정되며, KBO 역사상 외국인 최초로 단일 시즌 월간 MVP를 2회 수상한 타자는 누구일까요?",
           "answer": "샘 힐리어드",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "여행 고수만 아는 혜택! 모두투어 전세기 예약 시 즉시할인 받을 수 있는 최대 금액은 얼마일까요?",
+          "answer": "10만원",
           "pending": false,
           "source": "luckyquiz3"
         }
