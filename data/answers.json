@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T14:58:01.060Z",
+  "generatedAt": "2026-10-23T19:06:47.695Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 78
+      "items": 76
     }
   ],
   "apps": [
@@ -90,18 +90,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 23일",
-      "updatedAt": "2026-10-23T01:01:00.000+09:00",
+      "dateLabel": "10월 24일",
+      "updatedAt": "2026-10-24T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 신한SOL KBO리그 마지막 월간 MVP로 선정되며, KBO 역사상 외국인 최초로 단일 시즌 월간 MVP를 2회 수상한 타자는 누구일까요?",
-          "answer": "샘 힐리어드",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "여행 고수만 아는 혜택! 모두투어 전세기 예약 시 즉시할인 받을 수 있는 최대 금액은 얼마일까요?",
-          "answer": "10만원",
+          "question": "미국 플로리다주 세인트피터즈버그를 연고지로 두고 있으며, 2026년 월드시리즈 진출을 이뤄낸 메이저리그 아메리칸리그 동부지구 소속 구단은 어디일까요?",
+          "answer": "탬파베이 레이스",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -124,18 +118,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 23일",
-      "updatedAt": "2026-10-23T01:02:00.000+09:00",
+      "dateLabel": "10월 24일",
+      "updatedAt": "2026-10-24T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay 바로할인으로 GS25에서 'O' % 할인받고, 이벤트 참여 시 최대 'O'천원 캐시백도 받을 수 있어요. O에 들어갈 숫자는?",
-          "answer": "3",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "KB스타뱅킹에서 발급하는 KB국민인증서의 인증 방법이 아닌 것은 무엇일까요?",
-          "answer": "보안카드",
+          "question": "KB스타뱅킹에서 요양기관 검색, 장기요양 비용 계산 등 요양에 필요한 정보를 확인할 수 있는 페이지는 무엇일까요?",
+          "answer": "골든라이프",
           "pending": false,
           "source": "luckyquiz3"
         }
