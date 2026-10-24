@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:42:07.517Z",
+  "generatedAt": "2026-10-24T23:07:12.972Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 77
+      "items": 78
     }
   ],
   "apps": [
@@ -54,6 +54,12 @@
         {
           "question": "KBO 정규시즌에서 스포츠 정신에 입각한 진지한 경기태도와 판정승복으로 타의 모법이 되어 KBO리그 이미지 향상에 기여한 선수에게 시상하는 상은?",
           "answer": "KBO 페어플레이상",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "악성앱 설치 시 연결된 가족에게 알려주는 무료 서비스 '가족 피싱 지킴이'는 최대 몇명까지 연결할 수 있을까요?",
+          "answer": "4명",
           "pending": false,
           "source": "luckyquiz3"
         }
