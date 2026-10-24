@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:27:07.336Z",
+  "generatedAt": "2026-10-24T18:04:05.645Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -48,12 +48,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 24일",
-      "updatedAt": "2026-10-24T01:01:00.000+09:00",
+      "dateLabel": "10월 25일",
+      "updatedAt": "2026-10-25T01:01:00.000+09:00",
       "items": [
         {
-          "question": "미국 플로리다주 세인트피터즈버그를 연고지로 두고 있으며, 2026년 월드시리즈 진출을 이뤄낸 메이저리그 아메리칸리그 동부지구 소속 구단은 어디일까요?",
-          "answer": "탬파베이 레이스",
+          "question": "KBO 정규시즌에서 스포츠 정신에 입각한 진지한 경기태도와 판정승복으로 타의 모법이 되어 KBO리그 이미지 향상에 기여한 선수에게 시상하는 상은?",
+          "answer": "KBO 페어플레이상",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -76,12 +76,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 24일",
-      "updatedAt": "2026-10-24T01:02:00.000+09:00",
+      "dateLabel": "10월 25일",
+      "updatedAt": "2026-10-25T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB스타뱅킹에서 요양기관 검색, 장기요양 비용 계산 등 요양에 필요한 정보를 확인할 수 있는 페이지는 무엇일까요?",
-          "answer": "골든라이프",
+          "question": "KB카드쓰담적금은 최근 O개월간 KB국민카드 이용실적이 없는 고객님이 카드를 이용하면 연 O%의 우대금리를 받을 수 있는 상품이다.",
+          "answer": "6",
           "pending": false,
           "source": "luckyquiz3"
         }
