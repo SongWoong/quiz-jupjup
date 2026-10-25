@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:18:23.676Z",
+  "generatedAt": "2026-10-25T18:21:47.626Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 78
+      "items": 77
     }
   ],
   "apps": [
@@ -30,18 +30,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 25일",
-      "updatedAt": "2026-10-25T01:01:00.000+09:00",
+      "dateLabel": "10월 26일",
+      "updatedAt": "2026-10-26T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO 정규시즌에서 스포츠 정신에 입각한 진지한 경기태도와 판정승복으로 타의 모법이 되어 KBO리그 이미지 향상에 기여한 선수에게 시상하는 상은?",
-          "answer": "KBO 페어플레이상",
+          "question": "KBO 규정상 외국인 선수가 포스트시즌 및 한국시리즈에 출전하기 위해서는 언제까지 소속 선수로 등록을 마쳐야 할까요?",
+          "answer": "8월 15일",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "악성앱 설치 시 연결된 가족에게 알려주는 무료 서비스 '가족 피싱 지킴이'는 최대 몇명까지 연결할 수 있을까요?",
-          "answer": "4명",
+          "question": "만 55세 이상 고객 보이스피싱 피해를 최대 2천만원까지 보상하는 서비스는?",
+          "answer": "지켜드림",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -64,12 +64,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 25일",
-      "updatedAt": "2026-10-25T01:02:00.000+09:00",
+      "dateLabel": "10월 26일",
+      "updatedAt": "2026-10-26T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB카드쓰담적금은 최근 O개월간 KB국민카드 이용실적이 없는 고객님이 카드를 이용하면 연 O%의 우대금리를 받을 수 있는 상품이다.",
-          "answer": "6",
+          "question": "여럿이 돈을 모아 부동산에 투자하고, 수익을 나눠 갖는 부동산 간접투자기구를 무엇이라고 할까요?",
+          "answer": "3. 리츠",
           "pending": false,
           "source": "luckyquiz3"
         }
