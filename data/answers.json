@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:12:06.083Z",
+  "generatedAt": "2026-10-26T23:47:39.309Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 80
+      "items": 81
     }
   ],
   "apps": [
@@ -102,18 +102,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 26일",
-      "updatedAt": "2026-10-26T01:01:00.000+09:00",
+      "dateLabel": "10월 27일",
+      "updatedAt": "2026-10-27T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO 규정상 외국인 선수가 포스트시즌 및 한국시리즈에 출전하기 위해서는 언제까지 소속 선수로 등록을 마쳐야 할까요?",
-          "answer": "8월 15일",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "만 55세 이상 고객 보이스피싱 피해를 최대 2천만원까지 보상하는 서비스는?",
-          "answer": "지켜드림",
+          "question": "2026 KBO 플레이오프 1차전에 맞춰 SOL야구에서 선보인 이벤트로 경기 승패와 주요 기록을 맞혀 빙고판을 완성하는 예측 게임의 이름은 무엇일까요?",
+          "answer": "SOL빙고",
           "pending": false,
           "source": "luckyquiz3"
         }
