@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:49:38.997Z",
+  "generatedAt": "2026-10-26T19:12:06.083Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 81
+      "items": 80
     }
   ],
   "apps": [
@@ -172,12 +172,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 26일",
-      "updatedAt": "2026-10-26T01:02:00.000+09:00",
+      "dateLabel": "10월 27일",
+      "updatedAt": "2026-10-27T01:02:00.000+09:00",
       "items": [
         {
-          "question": "여럿이 돈을 모아 부동산에 투자하고, 수익을 나눠 갖는 부동산 간접투자기구를 무엇이라고 할까요?",
-          "answer": "3. 리츠",
+          "question": "매년 10월 마지막 화요일 OO의 날은 금융에 대한 국민의 관심을 높이기 위해 지정된 법정기념일이다",
+          "answer": "금융",
           "pending": false,
           "source": "luckyquiz3"
         }
