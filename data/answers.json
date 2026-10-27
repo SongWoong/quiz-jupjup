@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T16:28:23.468Z",
+  "generatedAt": "2026-10-27T21:14:57.042Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 86
+      "items": 87
     }
   ],
   "apps": [
@@ -78,6 +78,12 @@
         {
           "question": "서울시 잠실 스포츠 마이스 복합개발 사업에 따라 기존 잠실야구장 자리에 건립 예정인 최첨단 돔구장의 개장 예정 연도는 언제일까요?",
           "answer": "2032년",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "‘매시간 황금알’ 서비스에서 하루 5회 이상 황금알을 깨면, 추첨을 통해 어떤 경품을 받을 수 있을까요?",
+          "answer": "맘스터치 싸이버거",
           "pending": false,
           "source": "luckyquiz3"
         }
