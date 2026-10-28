@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:57:16.420Z",
+  "generatedAt": "2026-10-28T20:58:47.953Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 89
+      "items": 88
     }
   ],
   "apps": [
@@ -78,18 +78,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 28일",
-      "updatedAt": "2026-10-28T01:01:00.000+09:00",
+      "dateLabel": "10월 29일",
+      "updatedAt": "2026-10-29T01:01:00.000+09:00",
       "items": [
         {
-          "question": "서울시 잠실 스포츠 마이스 복합개발 사업에 따라 기존 잠실야구장 자리에 건립 예정인 최첨단 돔구장의 개장 예정 연도는 언제일까요?",
-          "answer": "2032년",
+          "question": "현재 치열한 플레이오프 경기를 펼치고 있는 삼성 라이온즈와 KIA 타이거즈의 라이벌전을 부르는 명칭 문제입니다. 대구와 광주의 순우리말 지명 앞글자를 따서 부르는 명칭은 무엇일까요?",
+          "answer": "달빛 시리즈",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "‘매시간 황금알’ 서비스에서 하루 5회 이상 황금알을 깨면, 추첨을 통해 어떤 경품을 받을 수 있을까요?",
-          "answer": "맘스터치 싸이버거",
+          "question": "신한SOL페이 퀴즈팡팡",
+          "answer": "오픈뱅킹",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -112,18 +112,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 28일",
-      "updatedAt": "2026-10-28T01:02:00.000+09:00",
+      "dateLabel": "10월 29일",
+      "updatedAt": "2026-10-29T01:02:00.000+09:00",
       "items": [
         {
-          "question": "고향사랑기부제로 10만원을 기부하면 10만원 세액공제 혜택과 함께 기부금의 OO%에 해당하는 답례품을 받을 수 있다. 빈칸에 알맞는 것은?",
-          "answer": "30%",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "AI 미들 그라운드란 인공지능의 잠재력과 위험을 동시에 인정하는 접근법이다.",
-          "answer": "O",
+          "question": "청년 버팀목 전세자금대출의 조건으로 틀린 것은 무엇일까요?",
+          "answer": "세대원",
           "pending": false,
           "source": "luckyquiz3"
         }
