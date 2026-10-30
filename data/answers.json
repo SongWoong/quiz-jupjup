@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:01:45.674Z",
+  "generatedAt": "2026-10-30T19:15:08.028Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 86
     }
   ],
   "apps": [
@@ -66,18 +66,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 30일",
-      "updatedAt": "2026-10-30T01:01:00.000+09:00",
+      "dateLabel": "10월 31일",
+      "updatedAt": "2026-10-31T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 아시아 프로야구 챔피언십 대한민국 국가대표팀 선전기원 이벤트가 SOL야구에서 진행중입니다. 최종 성적을 맞춘 고객 중 600명을 추첨하여 증정하는 한정판 경품은 무엇일까요?",
-          "answer": "국가대표 포토카드 세트",
+          "question": "2026 NPB 일본시리즈에서 요코하마 DeNA 베이스타즈를 꺾고 우승을 차지한 소프트뱅크 호크스의 연고지는 어디일까요?",
+          "answer": "후쿠오카",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "통인익스프레스로 준비하는 편안한 이사! 이벤트를 통해 상담 신청 후 이사하면 받을 수 있는 혜택은?",
-          "answer": "마이신한포인트 5만P",
+          "question": "신한카드 이벤트 신청 후 템퍼침대 행사 매장에서 결제 시 받을 수 있는 최대 캐시백율은?",
+          "answer": "2%",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -100,12 +100,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 30일",
-      "updatedAt": "2026-10-30T01:02:00.000+09:00",
+      "dateLabel": "10월 31일",
+      "updatedAt": "2026-10-31T01:02:00.000+09:00",
       "items": [
         {
-          "question": "인공지능, 카메라, 스피커 등을 결합한 차세대 개인형 컴퓨팅 기기인 AI 글래스는 어떤 형태를 하고 있을까요?",
-          "answer": "안경",
+          "question": "상속 업무 위임 시 영업점 방문이 어려울 때, KB스타뱅킹으로 간편하게 위임장을 제출할 수 있다.",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         }
