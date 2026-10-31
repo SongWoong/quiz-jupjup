@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:39:56.441Z",
+  "generatedAt": "2026-10-31T21:26:27.348Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 83
+      "items": 84
     }
   ],
   "apps": [
@@ -66,6 +66,12 @@
         {
           "question": "2026 월드시리즈에서 창단 최초로 우승을 차지한 밀워키 브루어스는 MLB 어느 지구 소속일까요?",
           "answer": "내셔널리그 중부지구",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "1일부터 3일까지 진행되는 마이샵데이의 참여 브랜드가 아닌 것은?",
+          "answer": "올리브영",
           "pending": false,
           "source": "luckyquiz3"
         }
