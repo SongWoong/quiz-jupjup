@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:14:10.528Z",
+  "generatedAt": "2026-10-31T17:39:56.441Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 84
+      "items": 83
     }
   ],
   "apps": [
@@ -60,18 +60,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "10월 31일",
-      "updatedAt": "2026-10-31T01:01:00.000+09:00",
+      "dateLabel": "11월 1일",
+      "updatedAt": "2026-11-01T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 NPB 일본시리즈에서 요코하마 DeNA 베이스타즈를 꺾고 우승을 차지한 소프트뱅크 호크스의 연고지는 어디일까요?",
-          "answer": "후쿠오카",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "신한카드 이벤트 신청 후 템퍼침대 행사 매장에서 결제 시 받을 수 있는 최대 캐시백율은?",
-          "answer": "2%",
+          "question": "2026 월드시리즈에서 창단 최초로 우승을 차지한 밀워키 브루어스는 MLB 어느 지구 소속일까요?",
+          "answer": "내셔널리그 중부지구",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -94,12 +88,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "10월 31일",
-      "updatedAt": "2026-10-31T01:02:00.000+09:00",
+      "dateLabel": "11월 1일",
+      "updatedAt": "2026-11-01T01:02:00.000+09:00",
       "items": [
         {
-          "question": "상속 업무 위임 시 영업점 방문이 어려울 때, KB스타뱅킹으로 간편하게 위임장을 제출할 수 있다.",
-          "answer": "O",
+          "question": "통장 분실 시 수령할 수 있는 방법이 아닌 것은 무엇일까요?",
+          "answer": "4. ATM 수령",
           "pending": false,
           "source": "luckyquiz3"
         }
