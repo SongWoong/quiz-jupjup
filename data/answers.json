@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:59:28.381Z",
+  "generatedAt": "2026-11-01T19:34:07.369Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 85
+      "items": 86
     }
   ],
   "apps": [
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 1일",
-      "updatedAt": "2026-11-01T01:01:00.000+09:00",
+      "dateLabel": "11월 2일",
+      "updatedAt": "2026-11-02T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 월드시리즈에서 창단 최초로 우승을 차지한 밀워키 브루어스는 MLB 어느 지구 소속일까요?",
-          "answer": "내셔널리그 중부지구",
+          "question": "KBO 공식 야구규칙에 명시된 투수의 금지사항이 아닌 것은 무엇일까요?",
+          "answer": "추운 날씨에 경기에 앞서 양 팀 감독의 동의를 얻어 투수가 손을 부는 행위",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "1일부터 3일까지 진행되는 마이샵데이의 참여 브랜드가 아닌 것은?",
-          "answer": "올리브영",
+          "question": "싱가포르항공 카드 발급 첫 해 100만원 이용하면 3만 마일리지가 쌓여요. 팝!팝! 이벤트까지 참여하면 3만 마일 포함, 최대 몇 마일을 쌓을 수 있을까요?",
+          "answer": "4만 마일리지",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -88,18 +88,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 1일",
-      "updatedAt": "2026-11-01T01:02:00.000+09:00",
+      "dateLabel": "11월 2일",
+      "updatedAt": "2026-11-02T01:02:00.000+09:00",
       "items": [
         {
-          "question": "대학교에 다니면서, 다른 대학에 진학하기 위해 수능을 다시 준비하는 것을 무엇이라고 할까요?",
-          "answer": "반수",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "통장 분실 시 수령할 수 있는 방법이 아닌 것은 무엇일까요?",
-          "answer": "4. ATM 수령",
+          "question": "경기에 따라 기업 실적이 크게 오르내리는 주식을 경기OO주라고 한다",
+          "answer": "민감",
           "pending": false,
           "source": "luckyquiz3"
         }
