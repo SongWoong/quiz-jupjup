@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:00:58.681Z",
+  "generatedAt": "2026-11-01T07:26:12.720Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 88
+      "items": 89
     }
   ],
   "apps": [
@@ -85,6 +85,12 @@
       "dateLabel": "11월 1일",
       "updatedAt": "2026-11-01T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "대학교에 다니면서, 다른 대학에 진학하기 위해 수능을 다시 준비하는 것을 무엇이라고 할까요?",
+          "answer": "반수",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "통장 분실 시 수령할 수 있는 방법이 아닌 것은 무엇일까요?",
           "answer": "4. ATM 수령",
