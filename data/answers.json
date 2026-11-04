@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:07:49.347Z",
+  "generatedAt": "2026-11-04T23:34:59.223Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 70
     }
   ],
   "apps": [
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 4일",
-      "updatedAt": "2026-11-04T01:01:00.000+09:00",
+      "dateLabel": "11월 5일",
+      "updatedAt": "2026-11-05T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 정규시즌 우승팀 KT위즈와 플레이오프 승자 삼성라이온즈가 맞붙는 한국시리즈는 무승부 경기 등 변수가 발생하지 않을 경우 최대 몇 차전까지 진행될까요?",
-          "answer": "7차전",
+          "question": "시속 160km를 넘나드는 광속구로 내셔널리그 사이영상 후보로 뽑히고 2026년 월드시리즈에서 최고 구속 신기록을 경신한 특급 에이스 투수는 누구일까요?",
+          "answer": "제이컵 미저로우스키",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "2026 코리아 그랜드 페스티벌 이벤트 참여 시 받을 수 있는 최대 혜택은 무엇일까요?",
-          "answer": "청구할인 1만원",
+          "question": "신한SOL페이 고향사랑기부제 10만원 기부 시, 세액공제+답례품+마이신한포인트를 합산한 총 혜택 금액은?",
+          "answer": "14만원",
           "pending": false,
           "source": "luckyquiz3"
         }
