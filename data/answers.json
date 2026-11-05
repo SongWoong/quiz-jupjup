@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T15:23:07.647Z",
+  "generatedAt": "2026-11-05T21:56:05.289Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 69
     }
   ],
   "apps": [
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 5일",
-      "updatedAt": "2026-11-05T01:01:00.000+09:00",
+      "dateLabel": "11월 6일",
+      "updatedAt": "2026-11-06T01:01:00.000+09:00",
       "items": [
         {
-          "question": "시속 160km를 넘나드는 광속구로 내셔널리그 사이영상 후보로 뽑히고 2026년 월드시리즈에서 최고 구속 신기록을 경신한 특급 에이스 투수는 누구일까요?",
-          "answer": "제이컵 미저로우스키",
+          "question": "2026년 현재 미국 메이저리그 MLB와 일본 프로야구 NPB에 소속된 구단은 각각 몇개일까요?",
+          "answer": "MLB 30개팀 및 NPB 12개팀",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한SOL페이 고향사랑기부제 10만원 기부 시, 세액공제+답례품+마이신한포인트를 합산한 총 혜택 금액은?",
-          "answer": "14만원",
+          "question": "올영 PAY X 신한카드로 7만원 이상 결제 시 즉시 할인 금액은 얼마일까요?",
+          "answer": "4천원",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -82,18 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 5일",
-      "updatedAt": "2026-11-05T01:02:00.000+09:00",
+      "dateLabel": "11월 6일",
+      "updatedAt": "2026-11-06T01:02:00.000+09:00",
       "items": [
         {
-          "question": "온라인 간편결제와 스타벅스에서 할인 받을 수 있는 '마루는 강쥐' 캐릭터 체크카드는 무엇일까요?",
-          "answer": "첵첵 체크카드",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "퇴직연금으로 운용할 수 있는 예금자보호 상품이 아닌 것은 무엇일까요?",
-          "answer": "3. MMF",
+          "question": "'기업공개'를 앞둔 기업의 주식을 사겠다고 신청하는 것을 공모주청약 이라고 합니다. '기업공개'를 뜻하는 단어는 무엇일까요?",
+          "answer": "IPO",
           "pending": false,
           "source": "luckyquiz3"
         }
