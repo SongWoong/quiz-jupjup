@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:56:40.109Z",
+  "generatedAt": "2026-11-07T16:20:54.923Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 71
     }
   ],
   "apps": [
@@ -54,18 +54,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 7일",
-      "updatedAt": "2026-11-07T01:01:00.000+09:00",
+      "dateLabel": "11월 8일",
+      "updatedAt": "2026-11-08T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026년 10월 31일 한화 이글스 구단의 요청에 따라 이 선수를 메이저리그 30개 구단에 포스팅하여 줄 것을 MLB 사무국에 요청했습니다. 이 선수는 누구일까요?",
-          "answer": "노시환",
+          "question": "2026 아시아 프로야구 챔피언십 대표팀 사령탑으로 선임된 최원호 감독의 현역시절 주 포지션은 무엇일까요?",
+          "answer": "투수",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "마이샵 혜택 ON하고 네이버스토에서 삼성월렛으로 결제 시 받을 수 있는 혜택 금액은?",
-          "answer": "8천원",
+          "question": "신한 슈퍼SOL 신규 가입하고 받을 수 있는 포인트는 얼마일까요?",
+          "answer": "1만 포인트",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -94,18 +94,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 7일",
-      "updatedAt": "2026-11-07T01:02:00.000+09:00",
+      "dateLabel": "11월 8일",
+      "updatedAt": "2026-11-08T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay 블랙 프라이데이 혜택2. '당신의 쇼핑 PICK!' 에서 선택할 수 있는 상품권 조합은 무엇일까요?",
-          "answer": "무신사 vs 올리브영",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "OO 바운티란 화이트해커가 보안 취약점을 찾아 제보하면 포상금을 지급하는 제도이다",
-          "answer": "버그",
+          "question": "러닝 기록에 따라 경품을 뽑을 수 있는 달리자 서비스에서 1km에 받을 수 있는 메달은 몇 개일까요?",
+          "answer": "1개",
           "pending": false,
           "source": "luckyquiz3"
         }
