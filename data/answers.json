@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:01:18.982Z",
+  "generatedAt": "2026-11-07T02:43:16.671Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 70
     }
   ],
   "apps": [
@@ -97,6 +97,12 @@
       "dateLabel": "11월 7일",
       "updatedAt": "2026-11-07T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "KB Pay 블랙 프라이데이 혜택2. '당신의 쇼핑 PICK!' 에서 선택할 수 있는 상품권 조합은 무엇일까요?",
+          "answer": "무신사 vs 올리브영",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "OO 바운티란 화이트해커가 보안 취약점을 찾아 제보하면 포상금을 지급하는 제도이다",
           "answer": "버그",
