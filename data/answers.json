@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:13:40.343Z",
+  "generatedAt": "2026-11-08T15:03:07.982Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -63,11 +63,17 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "11월 8일",
-      "updatedAt": "2026-11-08T10:46:00.000+09:00",
+      "updatedAt": "2026-11-08T16:46:00.000+09:00",
       "items": [
         {
           "question": "하루 두 팩으로 18G 단백질 충전 마이밀 OOOO 오리지널 32입 고소한 호두맛+BCAA 3종 함유 59,000원→35,900원 39% 할인!",
           "answer": "뉴프로틴",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "기름진 음식 먹은 뒤, 식후 1포로 완성하는 속 편한 습관! 자연 발효의 힘으로 소화를 돕는 &#x27;바른 ○○○○&#x27;! 곡물과 과일의 영양을 담은 ○○○○ 안에 들어갈 정답은? (힌트: ㄱㅁㅎㅅ)",
+          "answer": "곡물효소",
           "pending": false,
           "source": "luckyquiz3"
         }
