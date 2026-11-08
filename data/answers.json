@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:03:07.982Z",
+  "generatedAt": "2026-11-08T19:33:56.684Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -42,18 +42,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 8일",
-      "updatedAt": "2026-11-08T01:01:00.000+09:00",
+      "dateLabel": "11월 9일",
+      "updatedAt": "2026-11-09T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 아시아 프로야구 챔피언십 대표팀 사령탑으로 선임된 최원호 감독의 현역시절 주 포지션은 무엇일까요?",
-          "answer": "투수",
+          "question": "11월 9일은 국민들에게 화재에 대한 경각심과 이해를 높이고 화재를 예방하기 위해 제정한 법정기념일인 소방의 날입니다. 소방의 날이 11월 9일로 지정된 이유와 가장 관련이 깊은 긴급 신고전화 숫자는 무엇일까요?",
+          "answer": "119",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한 슈퍼SOL 신규 가입하고 받을 수 있는 포인트는 얼마일까요?",
-          "answer": "1만 포인트",
+          "question": "AI가 흉내낼 수 없는 인간만의 감각과 경험의 가치를 중시하는 소비 트렌드는 무엇일까요?",
+          "answer": "휴먼엣지",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -82,12 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 8일",
-      "updatedAt": "2026-11-08T01:02:00.000+09:00",
+      "dateLabel": "11월 9일",
+      "updatedAt": "2026-11-09T01:02:00.000+09:00",
       "items": [
         {
-          "question": "러닝 기록에 따라 경품을 뽑을 수 있는 달리자 서비스에서 1km에 받을 수 있는 메달은 몇 개일까요?",
-          "answer": "1개",
+          "question": "금융소득에 해당하지 않는 것은 무엇일까요?",
+          "answer": "근로소득",
           "pending": false,
           "source": "luckyquiz3"
         }
