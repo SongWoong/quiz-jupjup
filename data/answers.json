@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:27:04.900Z",
+  "generatedAt": "2026-11-10T09:39:39.187Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 80
+      "items": 84
     }
   ],
   "apps": [
@@ -17,11 +17,41 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 10일",
-      "updatedAt": "2026-11-10T09:54:00.000+09:00",
+      "updatedAt": "2026-11-10T13:54:00.000+09:00",
       "items": [
         {
           "question": "에너지 드링크 1병 값이면 비타민B 4일치!👉단 4일만, 푸드루트 비타민B [1박스당 6,650원]👈 비타민B군 8종을 단 1포에 담은 푸드루트 비타민B 특가 찬스 ★1박스 6650원+무료배송 ★ 새콤한 딸기맛에 스틱포 형태로 O없이 들고 다니면서 먹을 수 있어 편한 푸드루트 비타민B로 간편하게 피로 케어하세요! O은 무엇일까요? (힌트:ㅁ)",
           "answer": "물",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "르까프 르블론스 방한 패딩 부츠의 굽높이는 00 mm 입니다. 00에 들어갈 숫자는 무엇일까요?",
+          "answer": "30",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "팬마음에서는 트로트 스타 남자&여자 투표 80차가 진행 중이에요! 1-4위를 달성한 남녀 스타에게는 서울 ooo역 광고를 무료로 드려요!(초성 힌트: ㅈㅎㅊ)",
+          "answer": "지하철",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "팬마음 트로트 스타 80차 투표 목표 달성 스타에게는 서울 oooo 광고 선물하고 있어요!(초성 힌트: ㅈㅎㅊㅇ)",
+          "answer": "지하철역",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "팬마음 트로트 스타 80차 투표에서 1위를 달성한 스타에게 건대입구역 3중 ooo 광고를 선물해드려요!(초성 힌트: ㅊㄷㅎ)",
+          "answer": "초대형",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "김용빈, 환희, 박지현, 장민호 등이 있는 팬마음 트로트 스타 80차 투표에서 4위를 달성한 남녀 스타에게는 건대입구역 oooo를 2주 간 해드려요!(초성 힌트: ㅊㅈㄱㄱ)",
+          "answer": "천장광고",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -67,6 +97,12 @@
       "dateLabel": "11월 10일",
       "updatedAt": "2026-11-10T09:58:00.000+09:00",
       "items": [
+        {
+          "question": "빼빼로데이를 맞아 GS25에서 빼빼로를 '바로할인'으로 결제하면 어떤 혜택을 받을 수 있을까요?",
+          "answer": "11% 할인",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "올해 서울 아파트 상승폭이 가장 컸던 면적은 무엇일까요?",
           "answer": "소형",
