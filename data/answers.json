@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:05:36.484Z",
+  "generatedAt": "2026-11-11T21:20:51.939Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 81
+      "items": 78
     }
   ],
   "apps": [
@@ -72,18 +72,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 11일",
-      "updatedAt": "2026-11-11T01:01:00.000+09:00",
+      "dateLabel": "11월 12일",
+      "updatedAt": "2026-11-12T01:01:00.000+09:00",
       "items": [
         {
-          "question": "플레이오프 5경기 등판에 이어 한국시리즈도 3경기에 등판하여 호투를 펼치며 삼성라이온즈의 아홉번째 우승에 기여한 투수는 누구일까요?",
-          "answer": "이승민",
+          "question": "11월 12일부터 진행되는 2026 아시아 프로야구 챔피언십 경기는 어느 도시에서 개최될까요?",
+          "answer": "도쿄",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "치킨, 피자, 도넛 3배로 땡기는 MEGA 땡데이! 대상 브랜드가 아닌 것은?",
-          "answer": "도미노피자",
+          "question": "모두투어 프리미엄 브랜드 '하이클래스'에서 신한카드 전용 특전으로 제공되는 서비스는 무엇일까요?",
+          "answer": "프라이빗 전용 차량 이동 서비스",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -112,18 +112,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 11일",
-      "updatedAt": "2026-11-11T01:02:00.000+09:00",
+      "dateLabel": "11월 12일",
+      "updatedAt": "2026-11-12T01:02:00.000+09:00",
       "items": [
         {
-          "question": "'빨간날 없는 11월..밸런스게임으로 재미드려요' 이벤트에서 1회차에 해당하는 밸런스게임은 무엇일까요?",
-          "answer": "빼빼로데이 vs 가래떡데이",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "착오송금을 한 경우 먼저 금융회사를 통해 반환을 요청한 후, 그럼에도 미반환된 경우에만 예금보험공사에 '착오송금 반환지원 제도'를 신청할 수 있다",
-          "answer": "O",
+          "question": "공동주택의 주요 시설을 고치거나 바꾸기 위해 미리 모아두는 돈을 무엇이라고 할까요?",
+          "answer": "장기수선충당금",
           "pending": false,
           "source": "luckyquiz3"
         }
