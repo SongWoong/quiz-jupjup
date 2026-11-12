@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T10:55:36.590Z",
+  "generatedAt": "2026-11-12T18:50:33.282Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 82
+      "items": 79
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 12일",
-      "updatedAt": "2026-11-12T15:53:00.000+09:00",
+      "updatedAt": "2026-11-12T20:54:00.000+09:00",
       "items": [
         {
           "question": "매일 등산 다녀도 무릎/발목 안 아픈 이유? 뼈튼튼 비타민👉단 4일만, 푸드루트 비타민D [1박스당 6,650원]👈 고함량 비타민D와 K2에 셀레늄까지 더한 비타민D★1박스 6650원+무료배송 ★ 새콤달콤한 포도맛에 스틱포 형태로 물없이 들고 다니면서 챙기는 고함량 OOOD와 K로 온가족 뼈건강 케어하세요! OOO은 무엇일까요? (힌트:ㅂㅌㅁ)",
@@ -42,24 +42,24 @@
           "answer": "1",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "11/12 단 하루! 이병헌이 선택한 ‘면역엔 생 유산균 100포’ 정상가 59,900원에서 무려 OOOOO원 + 무료배송 혜택 진행 중!🎁 하루 한 포씩 100일 동안 간편하게 챙길 수 있는 생유산균 100포 구성! 💛 빈칸에 들어갈 숫자는 무엇일까요?",
+          "answer": "12900",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 12일",
-      "updatedAt": "2026-11-12T01:01:00.000+09:00",
+      "dateLabel": "11월 13일",
+      "updatedAt": "2026-11-13T01:01:00.000+09:00",
       "items": [
         {
-          "question": "11월 12일부터 진행되는 2026 아시아 프로야구 챔피언십 경기는 어느 도시에서 개최될까요?",
-          "answer": "도쿄",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "모두투어 프리미엄 브랜드 '하이클래스'에서 신한카드 전용 특전으로 제공되는 서비스는 무엇일까요?",
-          "answer": "프라이빗 전용 차량 이동 서비스",
+          "question": "2026 아시아 프로야구 챔피언십 참가국이 아닌 나라는 어디일까요?",
+          "answer": "태국",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -82,18 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 12일",
-      "updatedAt": "2026-11-12T01:02:00.000+09:00",
+      "dateLabel": "11월 13일",
+      "updatedAt": "2026-11-13T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay '슬기로운 생활 T.I.P' 구독 이벤트에 참여하려면 무엇을 해야 할까요?",
-          "answer": "전체구독",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "공동주택의 주요 시설을 고치거나 바꾸기 위해 미리 모아두는 돈을 무엇이라고 할까요?",
-          "answer": "장기수선충당금",
+          "question": "반려 목적으로 기르는 O개월령 이상의 개는 동물 등록 의무 대상이다.",
+          "answer": "2",
           "pending": false,
           "source": "luckyquiz3"
         }
