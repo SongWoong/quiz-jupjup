@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:11:29.449Z",
+  "generatedAt": "2026-11-13T22:31:44.116Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 76
     }
   ],
   "apps": [
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 13일",
-      "updatedAt": "2026-11-13T01:01:00.000+09:00",
+      "dateLabel": "11월 14일",
+      "updatedAt": "2026-11-14T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2026 아시아 프로야구 챔피언십 참가국이 아닌 나라는 어디일까요?",
-          "answer": "태국",
+          "question": "LG 트윈스가 외국인 타자 오스틴 딘 선수와 2027시즌 재계약을 완료했습니다. 2026 KBO 정규시즌에서 오스틴 딘 선수가 출전한 총 경기 수는 몇 경기일까요?",
+          "answer": "144경기",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "매달 색다른 테마로 매력적인 브랜드를 특가에 선보이는 ‘디스커버데이(D-Day)’! 11월 테마는 무엇일까요?",
-          "answer": "떡",
+          "question": "한진트래블 이집트 전세기 사전 예약 시 받을 수 있는 최대 할인율은 얼마일까요?",
+          "answer": "8%",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -70,18 +70,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 13일",
-      "updatedAt": "2026-11-13T01:02:00.000+09:00",
+      "dateLabel": "11월 14일",
+      "updatedAt": "2026-11-14T01:02:00.000+09:00",
       "items": [
         {
-          "question": "'가을 밸런스 Pick 시즌2 취향대로 픽, 선물도 픽!' 이벤트를 통해 받을 수 있는 경품이 아닌 것은 무엇일까요?",
-          "answer": "메가커피 아메리카노",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "반려 목적으로 기르는 O개월령 이상의 개는 동물 등록 의무 대상이다.",
-          "answer": "2",
+          "question": "보험 해지환급금은 가입한 보험을 OO에 해지했을 때 보험사로부터 돌려받는 금액이다.",
+          "answer": "중도",
           "pending": false,
           "source": "luckyquiz3"
         }
