@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:50:33.282Z",
+  "generatedAt": "2026-11-13T00:12:09.534Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 79
+      "items": 80
     }
   ],
   "apps": [
@@ -60,6 +60,12 @@
         {
           "question": "2026 아시아 프로야구 챔피언십 참가국이 아닌 나라는 어디일까요?",
           "answer": "태국",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "매달 색다른 테마로 매력적인 브랜드를 특가에 선보이는 ‘디스커버데이(D-Day)’! 11월 테마는 무엇일까요?",
+          "answer": "떡",
           "pending": false,
           "source": "luckyquiz3"
         }
