@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:14:49.451Z",
+  "generatedAt": "2026-11-14T16:59:34.672Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -30,18 +30,12 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 14일",
-      "updatedAt": "2026-11-14T01:01:00.000+09:00",
+      "dateLabel": "11월 15일",
+      "updatedAt": "2026-11-15T01:01:00.000+09:00",
       "items": [
         {
-          "question": "LG 트윈스가 외국인 타자 오스틴 딘 선수와 2027시즌 재계약을 완료했습니다. 2026 KBO 정규시즌에서 오스틴 딘 선수가 출전한 총 경기 수는 몇 경기일까요?",
-          "answer": "144경기",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "한진트래블 이집트 전세기 사전 예약 시 받을 수 있는 최대 할인율은 얼마일까요?",
-          "answer": "8%",
+          "question": "다음 중 끝날 때까지 끝난 게 아니다라는 명언을 남긴 전설적인 메이저리그 포수이자 감독 출신 인물은 누구일까요?",
+          "answer": "로렌스 피터 베라",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -64,12 +58,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 14일",
-      "updatedAt": "2026-11-14T01:02:00.000+09:00",
+      "dateLabel": "11월 15일",
+      "updatedAt": "2026-11-15T01:02:00.000+09:00",
       "items": [
         {
-          "question": "보험 해지환급금은 가입한 보험을 OO에 해지했을 때 보험사로부터 돌려받는 금액이다.",
-          "answer": "중도",
+          "question": "내가 살지 않는 지역에 기부하고 세액공제와 답례품을 받을 수 있는 고향사랑기부제를 통해 기부할 수 있는 연간 한도는 얼마일까요?",
+          "answer": "2,000만원",
           "pending": false,
           "source": "luckyquiz3"
         }
