@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:59:48.424Z",
+  "generatedAt": "2026-11-15T21:42:04.506Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 75
+      "items": 76
     }
   ],
   "apps": [
@@ -36,6 +36,12 @@
         {
           "question": "KBO 리그 경기 중 심판 판정에 대한 비디오 판독은 어디에서 실시할까요?",
           "answer": "한국야구회관 KBO 건물 내 판독센터",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "신한 SOL페이 퀴즈팡팡",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         }
