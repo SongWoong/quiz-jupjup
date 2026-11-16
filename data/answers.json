@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:29:56.069Z",
+  "generatedAt": "2026-11-16T20:21:05.730Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 73
+      "items": 70
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 16일",
-      "updatedAt": "2026-11-16T13:54:00.000+09:00",
+      "updatedAt": "2026-11-16T20:54:00.000+09:00",
       "items": [
         {
           "question": "픽스 파워소닉 드라이기는 바쁜 아침에도 단 1분이면 완벽한 건조를 도와줍니다. 항공기 제트 엔진의 원리를 적용한 OOOOOORPM 초강력 BLDC모터를 탑재 해 빠르고 강력한 건조가 가능합니다. 빈칸에 들어갈 숫자는 무엇일까요?",
@@ -90,23 +90,35 @@
           "answer": "32900",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "10년 묵은 기미/검버섯도 녹여주는 PDRN 연어 재생 앰플! 피부 조직과 유사한 연어 DNA 성분으로 본질적 고민을 케어하는데 탁월한 재생 앰플 118,000원 / 행사가 OOOOO원에 특가로 구매할수있습니다. OOOOO에 들어갈 문구는 무엇일까요?",
+          "answer": "15500",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "💧매일 마시는 물이니까 더 엄격하게 관리하는 바른먹거리 풀무원 샘물💧 2L를 6병에 o,ooo원에 구매할 수 있는 기회!! 💙o,ooo원에 들어갈 특가는 얼마일까요?",
+          "answer": "4500",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 16일",
-      "updatedAt": "2026-11-16T01:01:00.000+09:00",
+      "dateLabel": "11월 17일",
+      "updatedAt": "2026-11-17T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO 리그 경기 중 심판 판정에 대한 비디오 판독은 어디에서 실시할까요?",
-          "answer": "한국야구회관 KBO 건물 내 판독센터",
+          "question": "프로야구 정규시즌이 끝난 뒤 다음 시즌이 시작되기 전까지, 선수들의 계약이나 트레이드 소식이 오가는 비시즌 기간을 뜻하는 말은 무엇일까요?",
+          "answer": "스토브리그",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "다이소데이 기간 중 온라인 다이소몰에서 신한 슈퍼 SOL/SOL페이로 5,000원 이상 결제 시 페이팡팡 포인트 500P를 받을 수 있다.",
+          "question": "아파트 관리비, 도시가스, 전화요금, 전기요금을 모두 신한카드로 5천원 이상씩 자동납부하면 최대 2만원 캐시백을 받을 수 있다?",
           "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
@@ -117,7 +129,7 @@
       "id": "cashdoc",
       "label": "캐시닥",
       "dateLabel": "11월 16일",
-      "updatedAt": "2026-11-16T10:16:00.000+09:00",
+      "updatedAt": "2026-11-16T18:49:00.000+09:00",
       "items": [
         {
           "question": "리비힐 엑소좀 앰플·크림에는 피부 ㅇㅇㅇ 케어에 도움을 주는 엑소좀 성분이 함유되어 있습니다. ㅇㅇㅇ은 무엇일까요? (초성 : ㅋㄷㅅ)",
@@ -136,18 +148,24 @@
           "answer": "병풀",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "[O라이브] 앵콜! ASUS 인기 노트북 특가 모음! 차원이 다른 퍼포먼스를 확인하세요! AI데이터 글로벌 수요 증가로 SSD/RAM 가격 급상승으로 급변하는 시장 가격☠️?! 지금이 바로 합리적인 가격으로 구매하실 찬스! 혜택가 구매 찬스, 놓치지 마세요!",
+          "answer": "G",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 16일",
-      "updatedAt": "2026-11-16T01:02:00.000+09:00",
+      "dateLabel": "11월 17일",
+      "updatedAt": "2026-11-17T01:02:00.000+09:00",
       "items": [
         {
-          "question": "의사의 진단에 따라 독감 검사를 받았다면 검사 결과가 음성이어도 독감 실비 청구를 받을 수 있다",
-          "answer": "O",
+          "question": "대규모 재개발이 어려운 주거지에서 주민이 직접 집을 새로 짓거나 고칠 수 있도록 지원하는 사업을 OO타운 2.0이라고 한다.",
+          "answer": "휴먼",
           "pending": false,
           "source": "luckyquiz3"
         }
