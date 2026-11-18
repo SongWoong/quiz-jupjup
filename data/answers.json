@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:51:15.224Z",
+  "generatedAt": "2026-11-18T21:51:02.419Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 65
+      "items": 67
     }
   ],
   "apps": [
@@ -96,18 +96,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 18일",
-      "updatedAt": "2026-11-18T01:01:00.000+09:00",
+      "dateLabel": "11월 19일",
+      "updatedAt": "2026-11-19T01:01:00.000+09:00",
       "items": [
         {
-          "question": "KBO 리그에서 A등급 FA 선수를 타 구단이 영입할 경우, 영입 구단이 묶을 수 있는 보호선수는 몇 명일까요?",
-          "answer": "20명",
+          "question": "양의지 선수가 두산 베어스와 새롭게 체결한 FA 계약 기간은 몇 년일까요?",
+          "answer": "2년",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "디스커버 나만의 컬렉션 만들기! 콘텐츠를 스크랩하고, 추천 콘텐츠의 제목과 이유를 댓글로 남기면 받을 수 있는 포인트 금액은?",
-          "answer": "1,000P",
+          "question": "지오지아에서 11/11부터 11/26까지 단 2주동안 진행하는 프로모션의 이름은 ★★★입니다!",
+          "answer": "직데이",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -130,18 +130,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 18일",
-      "updatedAt": "2026-11-18T01:02:00.000+09:00",
+      "dateLabel": "11월 19일",
+      "updatedAt": "2026-11-19T01:02:00.000+09:00",
       "items": [
         {
-          "question": "11월 19일 투썸플레이스에서는 전 메뉴 'OO%' 바로할인을",
-          "answer": "33%",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "예상 은퇴 시점에 맞춰 위험, 안전 자산 비중을 자동으로 조정해주는 TDF 뒤에 붙은 숫자는 무엇을 의미할까요?",
-          "answer": "목표 은퇴연도",
+          "question": "아동학대에 대한 사회적 관심을 높이기 위해 '아동학대예방의 날'인 11월 19일부터 O주일간 아동학대 예방 주간을 운영한다",
+          "answer": "1",
           "pending": false,
           "source": "luckyquiz3"
         }
