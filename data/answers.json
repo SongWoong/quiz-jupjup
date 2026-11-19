@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:52:54.340Z",
+  "generatedAt": "2026-11-19T21:24:59.575Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -60,18 +60,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 19일",
-      "updatedAt": "2026-11-19T01:01:00.000+09:00",
+      "dateLabel": "11월 20일",
+      "updatedAt": "2026-11-20T01:01:00.000+09:00",
       "items": [
         {
-          "question": "양의지 선수가 두산 베어스와 새롭게 체결한 FA 계약 기간은 몇 년일까요?",
-          "answer": "2년",
+          "question": "최근 FA 계약을 체결한 오태곤 선수가 프로 데뷔 이후 소속된 적이 없는 구단은 어디일까요?",
+          "answer": "NC 다이노스",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "지오지아에서 11/11부터 11/26까지 단 2주동안 진행하는 프로모션의 이름은 ★★★입니다!",
-          "answer": "직데이",
+          "question": "'함께 만드는 독서 습관'은 내 취향에 맞는 책을 찾고, 기록하며 사람들과 소통할 수 있는 서비스이다",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -100,18 +100,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 19일",
-      "updatedAt": "2026-11-19T01:02:00.000+09:00",
+      "dateLabel": "11월 20일",
+      "updatedAt": "2026-11-20T01:02:00.000+09:00",
       "items": [
         {
-          "question": "아동학대에 대한 사회적 관심을 높이기 위해 ‘아동학대예방의 날’인 11월 19일부터 O주일간 아동학대 예방 주간을 운영한다. 과연 O에 들어갈 숫자는 무엇일까요?",
-          "answer": "치킨 vs 피자",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "아동학대에 대한 사회적 관심을 높이기 위해 '아동학대예방의 날'인 11월 19일부터 O주일간 아동학대 예방 주간을 운영한다",
-          "answer": "1",
+          "question": "안티스미싱은 스미싱 위험 링크를 탐지하면 OO 알려주는 서비스이다",
+          "answer": "바로",
           "pending": false,
           "source": "luckyquiz3"
         }
