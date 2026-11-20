@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:24:53.622Z",
+  "generatedAt": "2026-11-20T20:01:13.322Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 65
+      "items": 61
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 20일",
-      "updatedAt": "2026-11-20T17:54:00.000+09:00",
+      "updatedAt": "2026-11-20T20:54:00.000+09:00",
       "items": [
         {
           "question": "오늘 단 하루, 컷슬린데일리 보리한잔 o박스가 단돈 13,900원! 간편하게 수분 충전하고, 한 병당 5백 원대 혜택도 놓치지 마세요. o 안에 들어갈 숫자는 무엇일까요?",
@@ -36,24 +36,24 @@
           "answer": "잠시 후 공개",
           "pending": true,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "AGE20S 글래스 스킨 에센스 팩트 글로우/퍼펙트 본품+리필(12.5g) 행사가 23,900원+증정품+무료배송! 글래스 스킨 에센스 팩트는 에이지투웨니스만의 수분 장벽 에센스로 ○○시간 수분 지속 커버하며, 리뉴얼 되어 더 얇게, 더 가볍게 촉촉한 피부결광을 선사합니다. 여기서 ○○은 무엇일까요?",
+          "answer": "72",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 20일",
-      "updatedAt": "2026-11-20T01:01:00.000+09:00",
+      "dateLabel": "11월 21일",
+      "updatedAt": "2026-11-21T01:01:00.000+09:00",
       "items": [
         {
-          "question": "최근 FA 계약을 체결한 오태곤 선수가 프로 데뷔 이후 소속된 적이 없는 구단은 어디일까요?",
-          "answer": "NC 다이노스",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "오픈뱅킹과 함께라면 결제부터 송금까지 ○○만 있으면 다 가능해요! 빈칸에 알맞은 것은?",
-          "answer": "계좌",
+          "question": "삼성 라이온즈 우승을 기념해 선수단과 팬들이 함께하는 특별 초청 행사가 열린 곳은 어디일까요?",
+          "answer": "에버랜드",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -82,18 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 20일",
-      "updatedAt": "2026-11-20T01:02:00.000+09:00",
+      "dateLabel": "11월 21일",
+      "updatedAt": "2026-11-21T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑에서 단 하루 38% 특가 행사 중인 감귤이 특별한 이유는 무엇일까요?",
-          "answer": "제주국제감귤박람회 우수농가",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "안티스미싱은 스미싱 위험 링크를 탐지하면 OO 알려주는 서비스이다",
-          "answer": "바로",
+          "question": "전 금융권에서 사망자 명의의 금융거래가 자동으로 차단되는 날은 언제일까요?",
+          "answer": "사망신고 접수 다음날",
           "pending": false,
           "source": "luckyquiz3"
         }
