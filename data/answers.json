@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:01:13.322Z",
+  "generatedAt": "2026-11-21T01:24:58.710Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 61
+      "items": 62
     }
   ],
   "apps": [
@@ -54,6 +54,12 @@
         {
           "question": "삼성 라이온즈 우승을 기념해 선수단과 팬들이 함께하는 특별 초청 행사가 열린 곳은 어디일까요?",
           "answer": "에버랜드",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "직구부터 여행까지 연말 혜택의 완성은 Plan+·XO·NEO·싱가포르항공·( )! 괄호 안에 들어갈 단어는 무엇일까요?",
+          "answer": "Globus",
           "pending": false,
           "source": "luckyquiz3"
         }
