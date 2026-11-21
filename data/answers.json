@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:24:58.710Z",
+  "generatedAt": "2026-11-21T09:39:00.592Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 62
+      "items": 63
     }
   ],
   "apps": [
@@ -91,6 +91,12 @@
       "dateLabel": "11월 21일",
       "updatedAt": "2026-11-21T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "'11월 KB Pay는 골든 치킨 대작전중!' 이벤트에서 다수 선택 치킨 당첨인원은 몇 명일까요?",
+          "answer": "550명",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "전 금융권에서 사망자 명의의 금융거래가 자동으로 차단되는 날은 언제일까요?",
           "answer": "사망신고 접수 다음날",
