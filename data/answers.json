@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:39:00.592Z",
+  "generatedAt": "2026-11-21T17:23:33.098Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 63
+      "items": 64
     }
   ],
   "apps": [
@@ -48,18 +48,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 21일",
-      "updatedAt": "2026-11-21T01:01:00.000+09:00",
+      "dateLabel": "11월 22일",
+      "updatedAt": "2026-11-22T01:01:00.000+09:00",
       "items": [
         {
-          "question": "삼성 라이온즈 우승을 기념해 선수단과 팬들이 함께하는 특별 초청 행사가 열린 곳은 어디일까요?",
-          "answer": "에버랜드",
+          "question": "매년 11월 열리는 KBO 시상식에서 한 해 동안 정규시즌에서 가장 뛰어난 활약을 펼친 선수에게 수여하는 상은 무엇일까요?",
+          "answer": "KBO MVP",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "직구부터 여행까지 연말 혜택의 완성은 Plan+·XO·NEO·싱가포르항공·( )! 괄호 안에 들어갈 단어는 무엇일까요?",
-          "answer": "Globus",
+          "question": "신용카드 결제계좌를 신한은행으로 변경하면 1만 포인트를 받을 수 있다?",
+          "answer": "O",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -88,18 +88,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 21일",
-      "updatedAt": "2026-11-21T01:02:00.000+09:00",
+      "dateLabel": "11월 22일",
+      "updatedAt": "2026-11-22T01:02:00.000+09:00",
       "items": [
         {
-          "question": "'11월 KB Pay는 골든 치킨 대작전중!' 이벤트에서 다수 선택 치킨 당첨인원은 몇 명일까요?",
-          "answer": "550명",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "전 금융권에서 사망자 명의의 금융거래가 자동으로 차단되는 날은 언제일까요?",
-          "answer": "사망신고 접수 다음날",
+          "question": "오늘은 김치의 가치와 우수성을 알리기 위해 제정된 김치의 날! 김치의 날이 제정된 해는 언제일까요?",
+          "answer": "2020년",
           "pending": false,
           "source": "luckyquiz3"
         }
