@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:10:17.261Z",
+  "generatedAt": "2026-11-22T19:28:51.242Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 65
+      "items": 66
     }
   ],
   "apps": [
@@ -36,18 +36,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 22일",
-      "updatedAt": "2026-11-22T01:01:00.000+09:00",
+      "dateLabel": "11월 23일",
+      "updatedAt": "2026-11-23T01:01:00.000+09:00",
       "items": [
         {
-          "question": "매년 11월 열리는 KBO 시상식에서 한 해 동안 정규시즌에서 가장 뛰어난 활약을 펼친 선수에게 수여하는 상은 무엇일까요?",
-          "answer": "KBO MVP",
+          "question": "매년 11월 MLB에서 양대 리그 최고의 투수에게 각각 수여하는 상의 이름은 무엇일까요?",
+          "answer": "사이영상",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신용카드 결제계좌를 신한은행으로 변경하면 1만 포인트를 받을 수 있다?",
-          "answer": "O",
+          "question": "신한SOL페이 퀴즈팡팡",
+          "answer": "47%",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -76,12 +76,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 22일",
-      "updatedAt": "2026-11-22T01:02:00.000+09:00",
+      "dateLabel": "11월 23일",
+      "updatedAt": "2026-11-23T01:02:00.000+09:00",
       "items": [
         {
-          "question": "오늘은 김치의 가치와 우수성을 알리기 위해 제정된 김치의 날! 김치의 날이 제정된 해는 언제일까요?",
-          "answer": "2020년",
+          "question": "경기가 나쁠 때 비싼 물건 대신 OOO처럼 비교적 저렴하면서 만족감을 주는 물건이 잘 팔리는 현상을 OOO효과라고 한다",
+          "answer": "립스틱",
           "pending": false,
           "source": "luckyquiz3"
         }
