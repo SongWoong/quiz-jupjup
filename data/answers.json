@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:56:05.073Z",
+  "generatedAt": "2026-11-23T21:14:31.584Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 68
+      "items": 70
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 23일",
-      "updatedAt": "2026-11-23T14:54:00.000+09:00",
+      "updatedAt": "2026-11-23T20:54:00.000+09:00",
       "items": [
         {
           "question": "[단독 최저가] 저당 검은콩두유🔥 ★캐시딜 브랜드전에서만 [1팩 437원] + [무료배송]★ 🎁 원액두유 함량 96%, 당류 단 0.8g【소이비랩 검은콩두유 단독최저가】로 만나보세요! 소이비랩 검은콩두유만의 KEY POINT는? OOOO O은 빼고, 달콤함은 그대로 살렸답니다! OOOOO은 무엇일까요? (초성힌트 : ㅂㅍㅇㅎㄱ)",
@@ -42,24 +42,48 @@
           "answer": "30900",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "키움증권에서는 중개형ISA를 첫 계좌개설하면 현금 00000원을 드립니다. 00000에 들어갈 숫자는?",
+          "answer": "15000",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "키움증권 중개형 ISA 계좌 개설 이벤트에서 20·30 고객은 올리브영상품권 0000원을 받을 수 있습니다. 0000에 들어갈 숫자는?",
+          "answer": "5000",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "한스킨 할인광에서는 최대 OO% 할인 혜택을 만나볼 수 있습니다. 빈칸에 들어갈 숫자는 무엇일까요?",
+          "answer": "87",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
+        {
+          "question": "오늘 단 하루, 컷슬린데일리 보리한잔 1박스가 단돈 12,900원! 하루 한 병, 간편하게 o 칼로리로 수분 충전하고, 한 병당 5백 원대 혜택도 놓치지 마세요. o 안에 들어갈 숫자는 무엇일까요?",
+          "answer": "0",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 23일",
-      "updatedAt": "2026-11-23T01:01:00.000+09:00",
+      "dateLabel": "11월 24일",
+      "updatedAt": "2026-11-24T01:01:00.000+09:00",
       "items": [
         {
-          "question": "매년 11월 MLB에서 양대 리그 최고의 투수에게 각각 수여하는 상의 이름은 무엇일까요?",
-          "answer": "사이영상",
+          "question": "2020년 11월 24일 창단 첫 한국시리즈 우승을 차지하며 집행검 세리머니로 화제를 모았던 구단은 어디일까요?",
+          "answer": "NC 다이노스",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "롯데월드 어드벤처의 Tops 쿠폰으로 받을 수 있는 최대 할인율은?",
-          "answer": "47%",
+          "question": "신한 슈퍼SOL에 신규 가입할 때 받을 수 있는 혜택은 무엇일까요?",
+          "answer": "1만 포인트",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -124,18 +148,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 23일",
-      "updatedAt": "2026-11-23T01:02:00.000+09:00",
+      "dateLabel": "11월 24일",
+      "updatedAt": "2026-11-24T01:02:00.000+09:00",
       "items": [
         {
-          "question": "KB Pay 쇼핑 '락토핏 골드(360포)' 구매 혜택이 아닌 것은?",
-          "answer": "파리바게트 모바일 상품권",
-          "pending": false,
-          "source": "luckyquiz3"
-        },
-        {
-          "question": "경기가 나쁠 때 비싼 물건 대신 OOO처럼 비교적 저렴하면서 만족감을 주는 물건이 잘 팔리는 현상을 OOO효과라고 한다",
-          "answer": "립스틱",
+          "question": "본인명의 휴대폰과 신분증이 있는 경우, 몇살부터 미성년자 본인이 직접 입출금통장을 만들 수 있을까요?",
+          "answer": "만 14세 이상",
           "pending": false,
           "source": "luckyquiz3"
         }
