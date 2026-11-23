@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:28:51.242Z",
+  "generatedAt": "2026-11-23T00:46:49.862Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 66
+      "items": 65
     }
   ],
   "apps": [
@@ -46,7 +46,7 @@
           "source": "luckyquiz3"
         },
         {
-          "question": "신한SOL페이 퀴즈팡팡",
+          "question": "롯데월드 어드벤처의 Tops 쿠폰으로 받을 수 있는 최대 할인율은?",
           "answer": "47%",
           "pending": false,
           "source": "luckyquiz3"
