@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:56:24.037Z",
+  "generatedAt": "2026-11-24T17:32:03.179Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 24일",
-      "updatedAt": "2026-11-24T13:54:00.000+09:00",
+      "updatedAt": "2026-11-24T20:54:00.000+09:00",
       "items": [
         {
           "question": "팬마음에서는 ooo 스타 남자&여자 투표 81차가 진행 중이에요! 1-4위를 달성한 남녀 스타에게는 서울 지하철역 광고를 무료로 드려요!(초성 힌트: ㅌㄹㅌ)",
@@ -42,24 +42,30 @@
           "answer": "인천공항",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "💛 엄마도 챙기고 가족도 챙기는 국민 유산균! ✔ 락토핏 골드 120포 3통 ✔ 락토핏 코어 60포 증정 ✔ 신세계상품권1만원권 증정 이 구성으로 만나볼 수 있는 초특가 가격은 얼마일까요? 🎯 정답 맞히고 혜택 받아가세요! OO,OOO원",
+          "answer": "63200",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 24일",
-      "updatedAt": "2026-11-24T01:01:00.000+09:00",
+      "dateLabel": "11월 25일",
+      "updatedAt": "2026-11-25T01:01:00.000+09:00",
       "items": [
         {
-          "question": "2020년 11월 24일 창단 첫 한국시리즈 우승을 차지하며 집행검 세리머니로 화제를 모았던 구단은 어디일까요?",
-          "answer": "NC 다이노스",
+          "question": "KBO 리그 역사상 한 해에 정규시즌 MVP와 한국시리즈 MVP를 동시에 거머쥔 유일한 선수는 누구일까요?",
+          "answer": "양현종",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한 슈퍼SOL에 신규 가입할 때 받을 수 있는 혜택은 무엇일까요?",
-          "answer": "1만 포인트",
+          "question": "해피오더 앱 크리스마스 사전예약 이벤트의 즉시할인 혜택을 받으려면 얼마 이상 결제해야 할까요?",
+          "answer": "1만 5천원",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -124,12 +130,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 24일",
-      "updatedAt": "2026-11-24T01:02:00.000+09:00",
+      "dateLabel": "11월 25일",
+      "updatedAt": "2026-11-25T01:02:00.000+09:00",
       "items": [
         {
-          "question": "본인명의 휴대폰과 신분증이 있는 경우, 몇살부터 미성년자 본인이 직접 입출금통장을 만들 수 있을까요?",
-          "answer": "만 14세 이상",
+          "question": "소비자심리지수를 만드는 O개 지표 중 '향후경기전망'을 보면 사람들이 O개월 뒤 경기를 어떻게 예상하는지 알 수 있다.",
+          "answer": "6",
           "pending": false,
           "source": "luckyquiz3"
         }
