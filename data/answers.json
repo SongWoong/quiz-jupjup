@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:01:32.061Z",
+  "generatedAt": "2026-11-26T23:45:45.667Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 70
+      "items": 71
     }
   ],
   "apps": [
@@ -42,18 +42,18 @@
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 26일",
-      "updatedAt": "2026-11-26T01:01:00.000+09:00",
+      "dateLabel": "11월 27일",
+      "updatedAt": "2026-11-27T01:01:00.000+09:00",
       "items": [
         {
-          "question": "최근 뉴욕 메츠와 역대 투수 최고액인 9년 4억 5,000만 달러에 계약한 사이영상 수상 경력의 좌완 투수는?",
-          "answer": "타릭 스쿠발",
+          "question": "완전히 빗맞은 타구가 내야수와 외야수 사이의 절묘한 위치에 떨어지는 행운의 안타를 일컫는 용어는 무엇일까요?",
+          "answer": "텍사스 안타",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한 SOL페이 고향사랑기부제로 10만원 이상 기부하면 세액공제, 답례품, 마이신한포인트까지 받을 수 있어요! 그 외 매주 추첨으로 받을 수 있는 혜택은?",
-          "answer": "여기어때 여행상품권 30만원",
+          "question": "신한 슈퍼SOL이나 SOL페이로 얼마 이상 결제해야 500포인트를 적립받는지 묻고 있습니다.",
+          "answer": "1천원",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -76,12 +76,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 26일",
-      "updatedAt": "2026-11-26T01:02:00.000+09:00",
+      "dateLabel": "11월 27일",
+      "updatedAt": "2026-11-27T01:02:00.000+09:00",
       "items": [
         {
-          "question": "여러 금융기관에 흩어져 있는 내 금융정보를 한 곳에 모아 관리할 수 있는 무료 서비스를 무엇이라고 할까요?",
-          "answer": "마이데이터",
+          "question": "미션 참여 시 추첨을 통해 제공되는 2027 KB국민은행 X 민음사 행운 꾸러미의 구성이 아닌 것은 무엇일까요?",
+          "answer": "포스트잇",
           "pending": false,
           "source": "luckyquiz3"
         }
