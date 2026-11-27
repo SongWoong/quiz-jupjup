@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:12:25.564Z",
+  "generatedAt": "2026-11-27T18:52:06.423Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 69
+      "items": 71
     }
   ],
   "apps": [
@@ -17,7 +17,7 @@
       "id": "cashwalk",
       "label": "캐시워크",
       "dateLabel": "11월 27일",
-      "updatedAt": "2026-11-27T17:09:00.000+09:00",
+      "updatedAt": "2026-11-27T20:54:00.000+09:00",
       "items": [
         {
           "question": "⏰ 종료 D-3! 메트로시티 블랙프라이데이 마감 임박! 1년에 단 한 번, 비교할 수 없는 최대 혜택의 메트로시티 블프가 이제 종료까지 단 3일 남았습니다! 매일 오전 11시 최대 30% 할인 혜택을 받을 수 있는 [OOO] 선착순 쿠폰 찬스를 놓치지 마세요! 빈칸에 들어갈 단어는 무엇일까요? (힌트 : ㅇㅍㄹ)",
@@ -36,24 +36,30 @@
           "answer": "피카츄",
           "pending": false,
           "source": "luckyquiz3"
+        },
+        {
+          "question": "구운란 30구 중란 OOOO원 HACCP시설 직영농장 계란 사용! 무항생제로 더욱 신선하게! 48시간 정성을 담아 구워 쫄깃하고 촉촉한 식감",
+          "answer": "9700",
+          "pending": false,
+          "source": "luckyquiz3"
         }
       ]
     },
     {
       "id": "shinhan",
       "label": "신한",
-      "dateLabel": "11월 27일",
-      "updatedAt": "2026-11-27T01:01:00.000+09:00",
+      "dateLabel": "11월 28일",
+      "updatedAt": "2026-11-28T01:01:00.000+09:00",
       "items": [
         {
-          "question": "완전히 빗맞은 타구가 내야수와 외야수 사이의 절묘한 위치에 떨어지는 행운의 안타를 일컫는 용어는 무엇일까요?",
-          "answer": "텍사스 안타",
+          "question": "2026 KBO 리그 시상식에서 MVP로 김도영 선수가 선정되었습니다. 통산 몇 번째 MVP 수상일까요?",
+          "answer": "두 번째",
           "pending": false,
           "source": "luckyquiz3"
         },
         {
-          "question": "신한 슈퍼SOL이나 SOL페이로 얼마 이상 결제해야 500포인트를 적립받는지 묻고 있습니다.",
-          "answer": "1천원",
+          "question": "한국투자증권 제휴 발행어음(1년) 특판 상품의 최대 연수익률(세전)은 몇 %일까요?",
+          "answer": "5.0%",
           "pending": false,
           "source": "luckyquiz3"
         }
@@ -76,12 +82,12 @@
     {
       "id": "kbpay",
       "label": "KB Pay",
-      "dateLabel": "11월 27일",
-      "updatedAt": "2026-11-27T01:02:00.000+09:00",
+      "dateLabel": "11월 28일",
+      "updatedAt": "2026-11-28T01:02:00.000+09:00",
       "items": [
         {
-          "question": "미션 참여 시 추첨을 통해 제공되는 2027 KB국민은행 X 민음사 행운 꾸러미의 구성이 아닌 것은 무엇일까요?",
-          "answer": "포스트잇",
+          "question": "신혼부부 버팀목 전세자금대출을 받을 수 있는 대상은 무엇일까요?",
+          "answer": "혼인기간 7년 이내",
           "pending": false,
           "source": "luckyquiz3"
         }
