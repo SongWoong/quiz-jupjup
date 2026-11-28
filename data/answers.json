@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:54:11.537Z",
+  "generatedAt": "2026-11-28T10:14:33.267Z",
   "sources": [
     {
       "name": "oneuljupjup",
@@ -9,7 +9,7 @@
     {
       "name": "luckyquiz3",
       "ok": true,
-      "items": 71
+      "items": 72
     }
   ],
   "apps": [
@@ -85,6 +85,12 @@
       "dateLabel": "11월 28일",
       "updatedAt": "2026-11-28T01:02:00.000+09:00",
       "items": [
+        {
+          "question": "해외 ATM 이용 시 수수료를 면제받을 수 있는 카드는 무엇일까요?",
+          "answer": "트래블러스 체크카드",
+          "pending": false,
+          "source": "luckyquiz3"
+        },
         {
           "question": "신혼부부 버팀목 전세자금대출을 받을 수 있는 대상은 무엇일까요?",
           "answer": "혼인기간 7년 이내",
